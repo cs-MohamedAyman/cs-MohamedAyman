@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
+-->
+
 <!--
 **cs-MohamedAyman/cs-MohamedAyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
