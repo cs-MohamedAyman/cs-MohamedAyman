@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&langs_count=8&theme=dark&hide_border=true&icon_color=fff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 
 <!--
 (https://github.com/cs-MohamedAyman/github-readme-stats)
