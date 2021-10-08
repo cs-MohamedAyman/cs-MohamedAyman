@@ -1,7 +1,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 
-<img align="center" width="1000" height="520" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img><br><br>
+<img align="center" width="900" height="520" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img><br><br>
 <img align="center" width="1000" height="570" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science.jpg"></img><br><br>
 <img align="center" width="1000" height="680" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering.jpg"></img><br><br>
 <img align="center" width="1000" height="680" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence.jpg"></img><br><br>
