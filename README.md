@@ -2,7 +2,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science.jpg"></img>
+
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="100%"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/blob/main/README.md">Fundamentals of Computer Science Training</a></td>
+        </tr>
+    </tbody>
+</table>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science1.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science2.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science3.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science4.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science5.jpg"></img>
+
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering.jpg"></img>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence.jpg"></img>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science.jpg"></img>
