@@ -3,14 +3,14 @@
 
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
 
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science1.jpg"></img>
 <table>
     <tbody>
         <tr>
-            <td align=center width="100%"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/blob/main/README.md">Fundamentals of Computer Science Training</a></td>
+            <td width="2000px" align=center><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/blob/main/README.md">Fundamentals of Computer Science Training</a></td>
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science1.jpg"></img>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science2.jpg"></img>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science3.jpg"></img>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science4.jpg"></img>
