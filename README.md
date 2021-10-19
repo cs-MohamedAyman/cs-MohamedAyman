@@ -8,12 +8,10 @@
         <tr>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science.md">Computer Science</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering.md">Software Engineering</a></td>
-        </tr>
-        <tr>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence.md">Artificial Intelligence</a></td>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science.md">Data Science</a></td>
         </tr>
         <tr>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science.md">Data Science</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research.md">Operation Research</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics.md">Bioinformatics</a></td>
         </tr>
