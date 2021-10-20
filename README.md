@@ -1,5 +1,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
 
@@ -20,6 +19,7 @@
 
 <!--
 (https://github.com/cs-MohamedAyman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 -->
 <!--
 **cs-MohamedAyman/cs-MohamedAyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
