@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
-
 <img align="center" width="100%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
 
 <table>
@@ -28,6 +26,7 @@
 </table>
 
 <!--
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
 (https://github.com/cs-MohamedAyman/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-MohamedAyman&show_icons=true)
 -->
