@@ -1,7 +1,12 @@
-<img align="center" width="90%%" height="90%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
-
 <table>
-    <tbody>
+    <thead>
+        <tr>
+            <td align=center width="90%"><img align="center" width="90%%" height="90%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img></td>
+        </tr>
+    </thead>
+</table>
+<table>
+    <thead>
         <tr>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science.md">Computer Science</a></td>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering.md">Software Engineering</a></td>
@@ -10,6 +15,8 @@
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research.md">Operation Research</a></td>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics.md">Bioinformatics</a></td>
         </tr>
+    </thead>
+    <tbody>
         <tr>
             <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg" width="90%"></img></td>
             <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg" width="90%"></img></td>
@@ -20,6 +27,7 @@
         </tr>
     </tbody>
 </table>
+
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cs-MohamedAyman&show_icons=true)
