@@ -1,4 +1,4 @@
-<img align="center" width="100%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
+<img align="center" width="90%%" height="90%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img>
 
 <table>
     <tbody>
@@ -11,12 +11,12 @@
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics.md">Bioinformatics</a></td>
         </tr>
         <tr>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg" width="75%"></img></td>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg" width="75%"></img></td>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg" width="75%"></img></td>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg" width="75%"></img></td>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg" width="75%"></img></td>
-            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg" width="75%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg" width="90%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg" width="90%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg" width="90%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg" width="90%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg" width="90%"></img></td>
+            <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
