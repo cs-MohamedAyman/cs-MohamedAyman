@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <td align=center><img align="center" width="80%%" height="90%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img></td>
+            <td align=center><img align="center" width="80%%" height="80%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img></td>
         </tr>
     </thead>
 </table>
