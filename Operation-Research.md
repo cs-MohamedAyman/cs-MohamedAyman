@@ -12,7 +12,7 @@
     <tbody>
         <tr>
             <td align=center width="1000px"><a href=""></a></td>
-            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Operation-Research-and-Decision-Theory-Training/blob/main/README.md">Operation Research and Decision Theory Training</a></td>
         </tr>
     </tbody>
 </table>
@@ -20,7 +20,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Dynamic-Programming-and-Stochastic-Models-Training/blob/main/README.md">Dynamic Programming and Stochastic Models Training</a></td>
             <td align=center width="1000px"><a href=""></a></td>
         </tr>
     </tbody>
