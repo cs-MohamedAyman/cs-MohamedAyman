@@ -2,8 +2,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms-Training/blob/master/README.md">Machine Learning Algorithms Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Artificial-Intelligence-Algorithms-Training/blob/main/README.md">Artificial Intelligence Algorithms Training</a></td>
         </tr>
     </tbody>
 </table>
@@ -11,7 +10,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Artificial-Intelligence-Algorithms-Training/blob/main/README.md">Artificial Intelligence Algorithms Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Algorithms-Training/blob/master/README.md">Machine Learning Algorithms Training</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Deep-Learning-and-Generative-Adversarial-Network-Training/blob/main/README.md">Deep Learning and Generative Adversarial Network Training</a></td>
         </tr>
     </tbody>
