@@ -12,7 +12,7 @@
     <tbody>
         <tr>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Natural-Language-Processing-Training/blob/main/README.md">Natural Language Processing Training</a></td>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Deep-Learning-and-Generative-Adversarial-Network-Training/blob/main/README.md">Deep Learning and Generative Adversarial Network Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
         </tr>
     </tbody>
 </table>
@@ -20,8 +20,8 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
+            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href=""></a></td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href=""></a></td>
-            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
         </tr>
     </tbody>
 </table>
