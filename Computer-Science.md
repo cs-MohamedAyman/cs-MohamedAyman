@@ -28,7 +28,6 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Artificial-Intelligence-Algorithms-Training/blob/master/README.md">Artificial Intelligence Algorithms Training</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Theory-of-Computation-and-Compiler-Design-Training/blob/master/README.md">Theory of Computation and Compiler Design Training</a></td>
         </tr>
     </tbody>
