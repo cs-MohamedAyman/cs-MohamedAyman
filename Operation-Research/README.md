@@ -1,4 +1,4 @@
-<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research1.jpg"></img>
+<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/1.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -7,7 +7,7 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research2.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/2.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -16,7 +16,7 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research3.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/3.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -25,4 +25,4 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research4.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/4.jpg"></img>
