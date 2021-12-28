@@ -1,4 +1,4 @@
-<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science1.jpg"></img>
+<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/1.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -7,7 +7,7 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science2.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/2.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -16,7 +16,7 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science3.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/3.jpg"></img>
 <table>
     <tbody>
         <tr>
@@ -25,4 +25,4 @@
         </tr>
     </tbody>
 </table>
-<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science4.jpg"></img>
+<img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/4.jpg"></img>
