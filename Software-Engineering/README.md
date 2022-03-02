@@ -20,7 +20,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Game-Development-Training/blob/main/README.md">Web/Mobile/Game-Development-Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Game-Development-Training/blob/main/README.md">Web/Mobile/Game Development Training</a></td>
             <td align=center width="1000px"><a href=""></a></td>
         </tr>
     </tbody>
