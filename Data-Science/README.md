@@ -20,8 +20,8 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href=""></a></td>
-            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
         </tr>
     </tbody>
 </table>
