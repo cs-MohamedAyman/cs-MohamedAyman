@@ -29,7 +29,7 @@
     <tbody>
         <tr>
             <td align=center width="1000px"><a href="">Machine Vision and Virtual Reality Training</a></td>
-            <td align=center width="1000px"><a href="">Advanced Digital Signal Processing and Multimedia Mining Training</a></td>
+            <td align=center width="1000px"><a href="">Advanced Multimedia Mining Training</a></td>
         </tr>
     </tbody>
 </table>
