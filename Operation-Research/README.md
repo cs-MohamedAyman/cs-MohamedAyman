@@ -20,8 +20,8 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href=""></a></td>
-            <td align=center width="1000px"><a href=""></a></td>
+            <td align=center width="1000px"><a href="">Advanced Simulations Training</a></td>
+            <td align=center width="1000px"><a href="">Project Management Training</a></td>
         </tr>
     </tbody>
 </table>
