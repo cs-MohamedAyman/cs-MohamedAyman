@@ -19,7 +19,7 @@
 <table>
     <tbody>
         <tr>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Digital-Signal-Processing-and-Multimedia-Data-Compression-Training/blob/master/README.md">Digital Signal Processing and Multimedia Data Compression Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Signal-Processing-and-Multimedia-Data-Compression-Training/blob/master/README.md">Signal Processing and Multimedia Data Compression Training</a></td>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Image-Processing-and-Computer-Vision-Training/blob/master/README.md">Image Processing and Computer Vision Training</a></td>
         </tr>
     </tbody>
