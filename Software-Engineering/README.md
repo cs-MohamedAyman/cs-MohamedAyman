@@ -12,7 +12,7 @@
     <tbody>
         <tr>
             <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing-Training/blob/main/README.md">Database Systems and Warehousing Training</a></td>
-            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Systems-Development-Methodologies-Training/blob/main/README.md">Systems Development Methodologies Training</a></td>
+            <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Systems-Development-Methodologies-Training/blob/main/README.md">Continuous Delivery and DevOps Training</a></td>
         </tr>
     </tbody>
 </table>
