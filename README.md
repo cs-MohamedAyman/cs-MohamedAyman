@@ -1,9 +1,9 @@
 <table>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/README.md">Computer Science</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/README.md">Software Engineering</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/README.md">Artificial Intelligence</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/README.md">Computer Science</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/README.md">Software Engineering</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/README.md">Artificial Intelligence</a></td>
         </tr>
     </thead>
     <tbody>
@@ -15,9 +15,9 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/README.md">Data Science</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/README.md">Operation Research</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/README.md">Bioinformatics</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/README.md">Data Science</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/README.md">Operation Research</a></td>
+<td align=center width="33.3%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/README.md">Bioinformatics</a></td>
         </tr>
     </thead>
     <tbody>
