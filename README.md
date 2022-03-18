@@ -13,8 +13,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg" width="50%"></img></td>
         </tr>
     </tbody>
-</table>
-<table>
     <thead>
         <tr>
 <td align=center width="33.33%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/README.md">Data Science</a></td>
