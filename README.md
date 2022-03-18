@@ -1,13 +1,6 @@
 <table>
     <thead>
         <tr>
-            <td align=center><img align="center" width="85%%" height="85%%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science-and-Engineering.jpg"></img></td>
-        </tr>
-    </thead>
-</table>
-<table>
-    <thead>
-        <tr>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/README.md">Computer Science</a></td>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/README.md">Software Engineering</a></td>
             <td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/README.md">Artificial Intelligence</a></td>
