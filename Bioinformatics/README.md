@@ -1,4 +1,5 @@
-<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/1.jpg"></img>
+# Bioinformatics Trainings
+
 <table>
     <tbody>
         <tr>
@@ -26,3 +27,5 @@
     </tbody>
 </table>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/4.jpg"></img>
+
+# Bioinformatics Jobs
