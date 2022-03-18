@@ -1,4 +1,5 @@
-<br><img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/1.jpg"></img>
+# Computer Science Trainings
+
 <table>
     <tbody>
         <tr>
@@ -26,3 +27,5 @@
     </tbody>
 </table>
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/4.jpg"></img>
+
+# Computer Science Jobs
