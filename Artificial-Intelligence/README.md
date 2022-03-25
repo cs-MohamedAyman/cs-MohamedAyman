@@ -37,3 +37,22 @@
 <img align="center" width="100%" height="100%" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/5.jpg"></img>
 
 # Artificial Intelligence Jobs
+
+<table>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs.md">Template</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="95%"></img></td>
+        </tr>
+    </tbody>
+</table>
