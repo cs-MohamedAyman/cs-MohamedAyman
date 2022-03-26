@@ -11,9 +11,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/1.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/2.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/master/README.md">Data Structures and Algorithms Analysis Training</a></td>
@@ -24,9 +21,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/3.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/4.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Operating-Systems-and-Parallel-Computing-Training/blob/master/README.md">Operating Systems and Parallel Computing Training</a></td>
