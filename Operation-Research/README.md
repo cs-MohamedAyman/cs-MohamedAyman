@@ -29,8 +29,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="">Advanced Simulations Training</a></td>
-<td align=center width="1000px"><a href="">Project Management Training</a></td>
+<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Advanced-Simulations-Training/blob/main/README.md">Advanced Simulations Training</a></td>
+<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Project-Management-Training/blob/main/README.md">Project Management Training</a></td>
         </tr>
     </tbody>
     <tbody>
