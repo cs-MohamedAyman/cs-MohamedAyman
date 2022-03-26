@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href=""></a></td>
-<td align=center width="1000px"><a href=""></a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -16,8 +16,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href=""></a></td>
-<td align=center width="1000px"><a href=""></a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -29,8 +29,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href=""></a></td>
-<td align=center width="1000px"><a href=""></a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
+<td align=center width="1000px"><a href="">Template</a></td>
         </tr>
     </tbody>
     <tbody>
