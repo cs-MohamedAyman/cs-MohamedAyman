@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Artificial-Intelligence-Algorithms-Training/blob/main/README.md">Artificial Intelligence Algorithms Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Artificial-Intelligence-Algorithms-Training/blob/main/README.md">Artificial Intelligence Algorithms Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -13,8 +13,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="">Template</a></td>
-<td align=center width="1000px"><a href="">Template</a></td>
+<td align=center><a href="">Template</a></td>
+<td align=center><a href="">Template</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -23,8 +23,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="">Template</a></td>
-<td align=center width="1000px"><a href="">Template</a></td>
+<td align=center><a href="">Template</a></td>
+<td align=center><a href="">Template</a></td>
         </tr>
     </tbody>
     <tbody>
