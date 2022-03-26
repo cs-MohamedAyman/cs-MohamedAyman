@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Linear-and-Nonlinear-Programming-Training/blob/main/README.md">Linear and Nonlinear Programming Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Operation-Research-and-Decision-Theory-Training/blob/main/README.md">Operation Research and Decision Theory Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Linear-and-Nonlinear-Programming-Training/blob/main/README.md">Linear and Nonlinear Programming Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Operation-Research-and-Decision-Theory-Training/blob/main/README.md">Operation Research and Decision Theory Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -13,8 +13,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Dynamic-Programming-and-Stochastic-Models-Training/blob/main/README.md">Dynamic Programming and Stochastic Models Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Reinforcement-Learning-Training/blob/main/README.md">Reinforcement Learning Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Dynamic-Programming-and-Stochastic-Models-Training/blob/main/README.md">Dynamic Programming and Stochastic Models Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Reinforcement-Learning-Training/blob/main/README.md">Reinforcement Learning Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -23,8 +23,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Advanced-Simulations-Training/blob/main/README.md">Advanced Simulations Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Project-Management-Training/blob/main/README.md">Project Management Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Simulations-Training/blob/main/README.md">Advanced Simulations Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Project-Management-Training/blob/main/README.md">Project Management Training</a></td>
         </tr>
     </tbody>
     <tbody>
