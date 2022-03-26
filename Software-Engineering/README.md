@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Training/blob/main/README.md">Software Engineering Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Distributed-Systems-and-Cloud-Computing-Training/blob/main/README.md">Distributed Systems and Cloud Computing Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Training/blob/main/README.md">Software Engineering Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Distributed-Systems-and-Cloud-Computing-Training/blob/main/README.md">Distributed Systems and Cloud Computing Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -13,8 +13,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing-Training/blob/main/README.md">Database Systems and Warehousing Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Continuous-Delivery-and-DevOps-Training/blob/main/README.md">Continuous Delivery and DevOps Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing-Training/blob/main/README.md">Database Systems and Warehousing Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Continuous-Delivery-and-DevOps-Training/blob/main/README.md">Continuous Delivery and DevOps Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -23,8 +23,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Game-Development-Training/blob/main/README.md">Web/Mobile/Game Development Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Advanced-Software-Engineering-Training/blob/main/README.md">Advanced Software Engineering Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Game-Development-Training/blob/main/README.md">Web/Mobile/Game Development Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Software-Engineering-Training/blob/main/README.md">Advanced Software Engineering Training</a></td>
         </tr>
     </tbody>
     <tbody>
