@@ -3,15 +3,12 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
+<td colspan=2 align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
         </tr>
     </tbody>
     <tbody>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/1.jpg" width="45%"></img></td>
+<td colspan= 2 align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/1.jpg" width="45%"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
@@ -22,9 +19,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/2.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/3.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
@@ -35,9 +29,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/4.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/5.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
