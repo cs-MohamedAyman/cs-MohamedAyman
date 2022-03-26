@@ -44,10 +44,10 @@
     </thead>
     <tbody>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp02.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp02.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp09.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp10.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp11.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp12.jpg" width="45%"></img></td>
         </tr>
     </tbody>
     <thead>
@@ -58,10 +58,24 @@
     </thead>
     <tbody>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp02.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp01.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp02.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp13.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp14.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp15.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp16.jpg" width="45%"></img></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp17.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp18.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp19.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp20.jpg" width="45%"></img></td>
         </tr>
     </tbody>
 </table>
