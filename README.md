@@ -1,4 +1,4 @@
-# Trainings and Jobs
+# Trainings for Jobs
 
 <table>
     <thead>
