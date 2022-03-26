@@ -40,8 +40,8 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="">Machine Vision and Virtual Reality Training</a></td>
-<td align=center width="1000px"><a href="">Advanced Multimedia Mining Training</a></td>
+<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Machine-Vision-and-Virtual-Reality-Training/blob/main/README.md">Machine Vision and Virtual Reality Training</a></td>
+<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Advanced-Multimedia-Mining-Training/blob/main/README.md">Advanced Multimedia Mining Training</a></td>
         </tr>
     </tbody>
     <tbody>
