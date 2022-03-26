@@ -11,9 +11,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/1.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/2.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="">Template</a></td>
@@ -24,9 +21,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/3.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/4.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="">Template</a></td>
