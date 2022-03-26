@@ -11,9 +11,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/1.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/2.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Dynamic-Programming-and-Stochastic-Models-Training/blob/main/README.md">Dynamic Programming and Stochastic Models Training</a></td>
@@ -24,9 +21,6 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/3.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/4.jpg"></img></td>
     </tbody>
-</table>
-
-<table>
     <tbody>
         <tr>
 <td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Advanced-Simulations-Training/blob/main/README.md">Advanced Simulations Training</a></td>
