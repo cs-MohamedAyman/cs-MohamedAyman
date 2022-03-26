@@ -3,7 +3,7 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
+<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
         </tr>
     </tbody>
     <tbody>
