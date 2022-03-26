@@ -3,7 +3,7 @@
 <table>
     <tbody>
         <tr>
-<td colspan=2 align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
+<td colspan=2 align=center><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -11,8 +11,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Natural-Language-Processing-Training/blob/main/README.md">Natural Language Processing Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Natural-Language-Processing-Training/blob/main/README.md">Natural Language Processing Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -21,8 +21,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
         </tr>
     </tbody>
     <tbody>
@@ -31,8 +31,8 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
-<td align=center width="1000px"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
         </tr>
     </tbody>
     <tbody>
