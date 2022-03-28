@@ -1,3 +1,6 @@
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg">
+<br>
+
 # Computer Science Trainings
 
 <table>
