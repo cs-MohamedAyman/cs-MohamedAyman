@@ -64,4 +64,18 @@
                  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp40.jpg" width="45%"></img></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp41.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp42.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp43.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp44.jpg" width="45%"></img></td>
+        </tr>
+    </tbody>
 </table>
