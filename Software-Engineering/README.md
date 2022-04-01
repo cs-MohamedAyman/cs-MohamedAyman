@@ -41,8 +41,8 @@
 <table>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Software Developer / Software Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Cloud Developer / Cloud Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -55,8 +55,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">DevOps Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Software Quality Assurance Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -69,8 +69,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Frontend Developer / Frontend Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Backend Developer / Backend Engineer</a></td>
         </tr>
     </thead>
     <tbody>
