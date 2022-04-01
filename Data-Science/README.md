@@ -25,22 +25,22 @@
     <tbody>
         <tr>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
-        </tr>
-    </tbody>
-    <tbody>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/4.jpg"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/5.jpg"></img></td>
-    </tbody>
-    <tbody>
-        <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
         </tr>
     </tbody>
     <tbody>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/6.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/4.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/7.jpg"></img></td>
+    </tbody>
+    <tbody>
+        <tr>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
+        </tr>
+    </tbody>
+    <tbody>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/6.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/5.jpg"></img></td>
     </tbody>
 </table>
 
