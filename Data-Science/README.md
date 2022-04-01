@@ -78,7 +78,7 @@
     <thead>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Big Data Developer / Big Data Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Big Data Administrator</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Database Administrator / Big Data Administrator</a></td>
         </tr>
     </thead>
     <tbody>
