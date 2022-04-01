@@ -49,8 +49,8 @@
 <table>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Machine Learning Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Deep Learning Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -63,8 +63,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Computer Vision Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Computer Graphics Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -77,8 +77,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Virtual Reality Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Speech Processing Engineer</a></td>
         </tr>
     </thead>
     <tbody>
