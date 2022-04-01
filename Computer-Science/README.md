@@ -41,8 +41,8 @@
 <table>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">C++ Developer / C++ Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Python Developer / Python Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -55,8 +55,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Algorithm Software Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Research and Development Engineer</a></td>
         </tr>
     </thead>
     <tbody>
