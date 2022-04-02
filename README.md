@@ -13,12 +13,12 @@
     </thead>
     <tbody>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg" width="95%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg" width="95%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg" width="95%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg" width="95%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg" width="95%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg" width="95%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg" width="95%"></img></td>
         </tr>
     </tbody>
 </table>
