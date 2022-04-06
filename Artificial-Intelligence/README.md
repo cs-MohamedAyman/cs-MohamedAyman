@@ -10,7 +10,7 @@
         </tr>
     </tbody>
     <tbody>
-<td colspan=2 align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/1.jpg" width="45%"></img></td>
+<td colspan=2 align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/1.jpg" width="50%"></img></td>
     </tbody>
     <tbody>
         <tr>
