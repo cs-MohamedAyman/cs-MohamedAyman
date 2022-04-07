@@ -16,7 +16,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/master/README.md">Data Structures and Algorithms Analysis Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training/blob/master/README.md">Data Structures and Algorithms Analysis Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Operating-Systems-and-Parallel-Computing-Training/blob/master/README.md">Operating Systems and Parallel Computing Training</a></td>
         </tr>
     </tbody>
@@ -26,7 +26,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/blob/master/README.md">Advanced Data Structures and Algorithms Analysis Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md">Advanced Data Structures and Algorithms Analysis Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Theory-of-Computation-and-Compiler-Design-Training/blob/master/README.md">Theory of Computation and Compiler Design Training</a></td>
         </tr>
     </tbody>
