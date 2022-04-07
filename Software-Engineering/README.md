@@ -55,7 +55,7 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">DevOps Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">DevOps Engineer / MLOps Engineer</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Software-Engineering/Jobs.md">Software Quality Assurance Engineer</a></td>
         </tr>
     </thead>
