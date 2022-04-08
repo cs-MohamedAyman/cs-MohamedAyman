@@ -26,7 +26,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/main/README.md">Advanced Data Structures and Algorithms Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Training/blob/master/README.md">Advanced Data Structures and Algorithms Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Theory-of-Computation-and-Compiler-Design-Training/blob/main/README.md">Theory of Computation and Compiler Design Training</a></td>
         </tr>
     </tbody>
