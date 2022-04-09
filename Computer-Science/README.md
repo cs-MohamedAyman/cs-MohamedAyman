@@ -22,7 +22,7 @@
     </tbody>
     <tbody>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/3.jpg"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/5.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/4.jpg"></img></td>
     </tbody>
     <tbody>
         <tr>
@@ -31,7 +31,7 @@
         </tr>
     </tbody>
     <tbody>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/4.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/5.jpg"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/6.jpg"></img></td>
     </tbody>
 </table>
