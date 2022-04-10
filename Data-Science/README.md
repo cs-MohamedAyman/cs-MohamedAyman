@@ -30,7 +30,7 @@
     </tbody>
     <tbody>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/4.jpg"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/7.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/5.jpg"></img></td>
     </tbody>
     <tbody>
         <tr>
@@ -40,7 +40,7 @@
     </tbody>
     <tbody>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/6.jpg"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/5.jpg"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/7.jpg"></img></td>
     </tbody>
 </table>
 
