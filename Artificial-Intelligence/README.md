@@ -90,3 +90,24 @@
         </tr>
     </tbody>
 </table>
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
+
+# Artificial Intelligence [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
+
+# Artificial Intelligence [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+
+# Artificial Intelligence [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Artificial-Intelligence-Textbooks/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md)
+
