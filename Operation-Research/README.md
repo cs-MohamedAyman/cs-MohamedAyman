@@ -82,3 +82,24 @@
         </tr>
     </tbody>
 </table>
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
+
+# Operation Research [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Operation-Research-Playlists/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
+
+# Operation Research [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+
+# Operation Research [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Operation-Research-Textbooks/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Operation Research [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md)
+
