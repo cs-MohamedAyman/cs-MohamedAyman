@@ -102,6 +102,11 @@
 # Artificial Intelligence [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md)
 
 <br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
+
+# Artificial Intelligence [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
+
+<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Artificial Intelligence [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Artificial-Intelligence-Textbooks/README.md)
