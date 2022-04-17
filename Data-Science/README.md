@@ -102,6 +102,11 @@
 # Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/README.md)
 
 <br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
+
+# Data Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
+
+<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Data Science [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Data-Science-Textbooks/README.md)
