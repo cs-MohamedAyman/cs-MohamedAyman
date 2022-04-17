@@ -90,3 +90,24 @@
         </tr>
     </tbody>
 </table>
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
+
+# Software Engineering [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Software-Engineering-Playlists/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
+
+# Software Engineering [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/README.md)
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+
+# Software Engineering [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Software-Engineering-Textbooks/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Software Engineering [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering-Projects/README.md)
+
