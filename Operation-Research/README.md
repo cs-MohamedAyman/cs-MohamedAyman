@@ -49,8 +49,8 @@
 <table>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Analyst</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Developer / Operations Research Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -63,8 +63,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operation Researcher</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Scientist</a></td>
         </tr>
     </thead>
     <tbody>
@@ -77,8 +77,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Project Coordinator</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Project Manager</a></td>
         </tr>
     </thead>
     <tbody>
