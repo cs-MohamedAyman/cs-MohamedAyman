@@ -15,7 +15,7 @@
     <tbody>
         <tr>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Natural-Language-Processing-Training/blob/main/README.md">Natural Language Processing Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Natural-Language-Processing-and-Text-Mining-Training/blob/main/README.md">Natural Language Processing and Text Mining Training</a></td>
         </tr>
     </tbody>
     <tbody>
