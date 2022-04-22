@@ -24,7 +24,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Reinforcement-Learning-Training/blob/main/README.md">Reinforcement Learning Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Reinforcement-Learning-and-Game-Theory-Training/blob/main/README.md">Reinforcement Learning and Game Theory Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Advanced-Simulations-Training/blob/main/README.md">Advanced Simulations Training</a></td>
         </tr>
     </tbody>
