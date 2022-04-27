@@ -55,7 +55,7 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Algorithm Software Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Algorithm Engineer</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Research and Development Engineer</a></td>
         </tr>
     </thead>
