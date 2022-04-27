@@ -55,8 +55,8 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Algorithm Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Research and Development Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Operating Systems Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Computer Graphics Engineer</a></td>
         </tr>
     </thead>
     <tbody>
@@ -65,6 +65,20 @@
                  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp06.jpg" width="45%"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp07.jpg" width="45%"></img>
                  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp08.jpg" width="45%"></img></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Algorithm Engineer</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Computer-Science/Jobs.md">Research and Development Engineer</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp57.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp58.jpg" width="45%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp59.jpg" width="45%"></img>
+                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp60.jpg" width="45%"></img></td>
         </tr>
     </tbody>
 </table>
