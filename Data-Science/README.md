@@ -109,7 +109,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
-# Data Science [Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Data-Science-Textbooks/README.md)
+# Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Data-Science-Textbooks/README.md)
 
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
