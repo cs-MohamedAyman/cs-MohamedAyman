@@ -24,7 +24,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-Training/blob/main/README.md">Business Intelligence Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Business-Intelligence-and-Data-Management-Training/blob/main/README.md">Business Intelligence and Data Management Training</a></td>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
         </tr>
     </tbody>
