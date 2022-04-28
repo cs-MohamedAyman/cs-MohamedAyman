@@ -6,7 +6,7 @@
 <table>
     <tbody>
         <tr>
-<td colspan=2 align=center><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Training/blob/main/README.md">Software Engineering Training</a></td>
+<td colspan=2 align=center><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering-Training/blob/main/README.md">Fundamentals of Software Engineering Training</a></td>
         </tr>
     </tbody>
     <tbody>
