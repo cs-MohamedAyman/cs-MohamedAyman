@@ -35,7 +35,7 @@
     <tbody>
         <tr>
 <td align=center><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
-<td align=center><a href="https://github.com/cs-MohamedAyman/Big-Data-Training/blob/main/README.md">Big Data Training</a></td>
+<td align=center><a href="https://github.com/cs-MohamedAyman/Big-Data-Analytics-and-Modeling-Training/blob/main/README.md">Big Data Analytics and Modeling Training</a></td>
         </tr>
     </tbody>
     <tbody>
