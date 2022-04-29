@@ -97,6 +97,11 @@
 # Artificial Intelligence [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Artificial-Intelligence/README.md)
 
 <br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg">
+
+# Artificial Intelligence [Technical Tutorials](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Artificial-Intelligence/README.md)
+
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
 
 # Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md)
