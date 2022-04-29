@@ -84,6 +84,16 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
+
+# Computer Science [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Computer-Science/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Computer Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/README.md)
+
+<br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
 # Computer Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
@@ -97,9 +107,3 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Computer Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Computer-Science-Textbooks/README.md)
-
-<br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
-
-# Computer Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/README.md)
-
