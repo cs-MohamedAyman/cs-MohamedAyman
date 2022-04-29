@@ -92,6 +92,16 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
+
+# Artificial Intelligence [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Artificial-Intelligence/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md)
+
+<br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
 # Artificial Intelligence [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md)
@@ -110,9 +120,3 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Artificial Intelligence [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Artificial-Intelligence-Textbooks/README.md)
-
-<br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
-
-# Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md)
-
