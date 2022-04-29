@@ -92,6 +92,16 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
+
+# Data Science [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Data-Science/README.md)
+
+<br><br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md)
+
+<br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
 # Data Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science-Playlists/README.md)
@@ -110,9 +120,3 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Data-Science-Textbooks/README.md)
-
-<br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
-
-# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md)
-
