@@ -117,6 +117,21 @@
 # Operation Research [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md)
 
 <br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
+
+# Operation Research [Udemy Courses]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+
+# Operation Research [Udacity Nanodegrees]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
+
+# Operation Research [Edx Programs]()
+
+<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Operation Research [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Operation-Research-Textbooks/README.md)
