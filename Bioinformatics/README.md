@@ -127,3 +127,13 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Bioinformatics-Textbooks/README.md)
+
+<br><br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+
+# Bioinformatics [Lecture Notes]()
+
+<br>
+<img align="right" width="240" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
+
+# Bioinformatics [Mini Assignments]()
