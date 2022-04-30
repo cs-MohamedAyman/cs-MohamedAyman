@@ -135,3 +135,13 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Software Engineering [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Software-Engineering-Textbooks/README.md)
+
+<br><br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+
+# Software Engineering [Lecture Notes]()
+
+<br>
+<img align="right" width="240" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
+
+# Software Engineering [Mini Assignments]()
