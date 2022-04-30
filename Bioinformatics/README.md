@@ -109,6 +109,21 @@
 # Bioinformatics [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md)
 
 <br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
+
+# Bioinformatics [Udemy Courses]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+
+# Bioinformatics [Udacity Nanodegrees]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
+
+# Bioinformatics [Edx Programs]()
+
+<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Bioinformatics-Textbooks/README.md)
