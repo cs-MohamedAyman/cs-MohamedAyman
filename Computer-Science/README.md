@@ -109,6 +109,21 @@
 # Computer Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
 <br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
+
+# Computer Science [Udemy Courses]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+
+# Computer Science [Udacity Nanodegrees]()
+
+<br>
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
+
+# Computer Science [Edx Programs]()
+
+<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
 # Computer Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Computer-Science-Textbooks/README.md)
