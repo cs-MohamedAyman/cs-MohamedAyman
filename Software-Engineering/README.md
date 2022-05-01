@@ -95,6 +95,6 @@
 # Software Engineering [Lecture Notes]()
 
 <br>
-<img align="right" width="240" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
 
 # Software Engineering [Mini Assignments]()
