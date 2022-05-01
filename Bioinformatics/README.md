@@ -96,17 +96,17 @@
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
 
-# Bioinformatics [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md)
+# Bioinformatics [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Bioinformatics [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Bioinformatics-Playlists/README.md)
+# Bioinformatics [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Bioinformatics/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Bioinformatics [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md)
+# Bioinformatics [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
@@ -126,7 +126,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
-# Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Bioinformatics-Textbooks/README.md)
+# Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science/blob/master/Bioinformatics/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">

@@ -104,17 +104,17 @@
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
 
-# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md)
+# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Data Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science-Playlists/README.md)
+# Data Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/README.md)
+# Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
@@ -139,7 +139,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
-# Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/Data-Science-Textbooks/README.md)
+# Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science/blob/master/Data-Science/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
