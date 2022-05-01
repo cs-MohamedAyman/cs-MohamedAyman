@@ -134,7 +134,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
-# Software Engineering [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science/blob/master/Software-Engineering/README.md)
+# Software Engineering [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Software-Engineering/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
