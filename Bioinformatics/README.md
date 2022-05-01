@@ -126,7 +126,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
 
-# Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Computer-Science/blob/master/Bioinformatics/README.md)
+# Bioinformatics [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Bioinformatics/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
