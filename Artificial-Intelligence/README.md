@@ -44,53 +44,6 @@
     </tbody>
 </table>
 
-# Artificial Intelligence Jobs
-
-<table>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Machine Learning Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Deep Learning Engineer</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp21.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp22.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp23.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp24.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Computer Vision Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Computer Graphics Engineer</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp25.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp26.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp27.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp28.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Virtual Reality Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/Jobs.md">Speech Processing Engineer</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp29.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp30.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp31.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp32.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-</table>
-
 <br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 

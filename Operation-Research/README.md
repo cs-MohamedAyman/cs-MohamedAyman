@@ -44,53 +44,6 @@
     </tbody>
 </table>
 
-# Operation Research Jobs
-
-<table>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Analyst</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Developer / Operations Research Engineer</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp33.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp34.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp35.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp36.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operation Researcher</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Operations Research Scientist</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp37.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp38.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp39.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp40.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Project Coordinator</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Operation-Research/Jobs.md">Project Manager</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp41.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp42.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp43.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp44.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-</table>
-
 <br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 

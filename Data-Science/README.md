@@ -44,53 +44,6 @@
     </tbody>
 </table>
 
-# Data Science Jobs
-
-<table>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Data Analyst</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Data Scientist</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp21.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp22.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp23.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp24.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Business Intelligence Developer / Business Intelligence Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Data Engineer</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp25.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp26.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp27.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp28.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Big Data Developer / Big Data Engineer</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Data-Science/Jobs.md">Database Administrator / Big Data Administrator</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp29.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp30.jpg" width="45%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp31.jpg" width="45%"></img>
-                 <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/jobs-logos/emp32.jpg" width="45%"></img></td>
-        </tr>
-    </tbody>
-</table>
-
 <br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 
