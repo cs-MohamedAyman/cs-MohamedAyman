@@ -44,7 +44,7 @@
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg">
 
-# Computer Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Computer-Science/README.md)
+# Computer Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Computer-Science/README.md)
 
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
