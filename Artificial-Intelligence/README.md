@@ -52,7 +52,7 @@
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg">
 
-# Artificial Intelligence [Technical Tutorials](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Artificial-Intelligence/README.md)
+# Artificial Intelligence [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Artificial-Intelligence/README.md)
 
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
