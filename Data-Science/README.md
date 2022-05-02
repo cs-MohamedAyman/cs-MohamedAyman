@@ -52,7 +52,7 @@
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg">
 
-# Data Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Data-Science/README.md)
+# Data Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Data-Science/README.md)
 
 <br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
