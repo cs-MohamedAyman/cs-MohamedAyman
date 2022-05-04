@@ -74,4 +74,20 @@
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg" width="85%"></img></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Lecture-Notes/blob/master/README.md">Lecture Notes</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Mini-Assignments/blob/master/README.md">Mini Assignments</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Graduation-Projects-Ideas/blob/master/README.md">Graduation Projects Ideas</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Research-Papers/blob/master/README.md">Research-Papers</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg" width="85%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg" width="85%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/graduation-projects-ideas.jpg" width="85%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/research-papers.jpg" width="85%"></img></td>
+        </tr>
+    </tbody>
 </table>
