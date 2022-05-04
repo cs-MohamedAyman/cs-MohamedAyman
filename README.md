@@ -29,7 +29,7 @@
     <thead>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">Problem Solving Training</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies-Training/blob/master/README.md">Data Science Case Studies Training</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md">Data Science Case Studies</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/README.md">Educational Projects</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/README.md">Job Interviews</a></td>
         </tr>
