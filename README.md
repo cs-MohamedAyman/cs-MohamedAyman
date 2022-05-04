@@ -79,7 +79,7 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Lecture-Notes/blob/master/README.md">Lecture Notes</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Mini-Assignments/blob/master/README.md">Mini Assignments</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Graduation-Projects-Ideas/blob/master/README.md">Graduation Projects Ideas</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Research-Papers/blob/master/README.md">Research-Papers</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Research-Papers/blob/master/README.md">Research Papers</a></td>
         </tr>
     </thead>
     <tbody>
