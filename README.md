@@ -22,3 +22,56 @@
         </tr>
     </tbody>
 </table>
+
+<h2>Main Repositories</a></h2>
+
+<table>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">Problem Solving Training</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies-Training/blob/master/README.md">Data Science Case Studies Training</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/README.md">Educational Projects</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/README.md">Job Interviews</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/problem-solving-training.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-case-studies.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg" width="90%"></img></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/README.md">Technical Tutorials</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">Reference Textbooks</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/README.md">YouTube Playlists</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/README.md">Coursera Specializations</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg" width="60%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="90%"></img></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udemy-Courses/blob/master/README.md">Udemy Courses</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md">DataCamp Tracks</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Edx-Programs/blob/master/README.md">Edx Programs</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udacity-Nanodegrees/blob/master/README.md">Udacity Nanodegrees</a></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg" width="90%"></img></td>
+        </tr>
+    </tbody>
+</table>
