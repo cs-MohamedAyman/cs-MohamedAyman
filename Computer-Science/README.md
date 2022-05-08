@@ -37,6 +37,11 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Computer Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science/README.md)
+
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 
 # Computer Science [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Computer-Science/README.md)
@@ -47,9 +52,9 @@
 # Computer Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Computer-Science/README.md)
 
 <br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg">
 
-# Computer Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science/README.md)
+# Computer Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Computer-Science/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
@@ -67,9 +72,9 @@
 # Computer Science [Udemy Courses]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
 
-# Computer Science [Udacity Nanodegrees]()
+# Computer Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/ComputerCamp-Tracks/blob/master/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
@@ -77,16 +82,16 @@
 # Computer Science [Edx Programs]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
 
-# Computer Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Computer-Science/README.md)
+# Computer Science [Udacity Nanodegrees]()
 
-<br><br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+<br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
 
 # Computer Science [Lecture Notes]()
 
-<br>
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
 
 # Computer Science [Mini Assignments]()
