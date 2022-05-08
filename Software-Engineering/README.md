@@ -45,6 +45,11 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Software Engineering [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md)
+
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 
 # Software Engineering [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Software-Engineering/README.md)
@@ -55,9 +60,9 @@
 # Software Engineering [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Software-Engineering/README.md)
 
 <br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg">
 
-# Software Engineering [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md)
+# Software Engineering [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Software-Engineering/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
@@ -75,9 +80,9 @@
 # Software Engineering [Udemy Courses]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
 
-# Software Engineering [Udacity Nanodegrees]()
+# Software Engineering [DataCamp Tracks](https://github.com/cs-MohamedAyman/ComputerCamp-Tracks/blob/master/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
@@ -85,16 +90,16 @@
 # Software Engineering [Edx Programs]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
 
-# Software Engineering [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Software-Engineering/README.md)
+# Software Engineering [Udacity Nanodegrees]()
 
-<br><br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+<br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
 
 # Software Engineering [Lecture Notes]()
 
-<br>
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
 
 # Software Engineering [Mini Assignments]()
