@@ -45,6 +45,11 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science/README.md)
+
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 
 # Data Science [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Data-Science/README.md)
@@ -55,9 +60,9 @@
 # Data Science [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Data-Science/README.md)
 
 <br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg">
 
-# Data Science [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science/README.md)
+# Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Data-Science/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
@@ -70,19 +75,14 @@
 # Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science/README.md)
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
-
-# Data Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
-
-<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
 
 # Data Science [Udemy Courses]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
 
-# Data Science [Udacity Nanodegrees]()
+# Data Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
@@ -90,16 +90,16 @@
 # Data Science [Edx Programs]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
 
-# Data Science [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Data-Science/README.md)
+# Data Science [Udacity Nanodegrees]()
 
-<br><br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+<br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
 
 # Data Science [Lecture Notes]()
 
-<br>
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
 
 # Data Science [Mini Assignments]()
