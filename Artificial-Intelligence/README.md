@@ -45,6 +45,11 @@
 </table>
 
 <br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+# Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/README.md)
+
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg">
 
 # Artificial Intelligence [Job Interviews](https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/Artificial-Intelligence/README.md)
@@ -55,9 +60,9 @@
 # Artificial Intelligence [Technical Tutorials](https://github.com/cs-MohamedAyman/Technical-Tutorials/blob/master/Artificial-Intelligence/README.md)
 
 <br><br>
-<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg">
 
-# Artificial Intelligence [Educational Projects](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/README.md)
+# Artificial Intelligence [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Artificial-Intelligence/README.md)
 
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
@@ -70,19 +75,14 @@
 # Artificial Intelligence [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence/README.md)
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
-
-# Artificial Intelligence [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
-
-<br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
 
 # Artificial Intelligence [Udemy Courses]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
 
-# Artificial Intelligence [Udacity Nanodegrees]()
+# Artificial Intelligence [DataCamp Tracks](https://github.com/cs-MohamedAyman/ComputerCamp-Tracks/blob/master/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">
@@ -90,16 +90,16 @@
 # Artificial Intelligence [Edx Programs]()
 
 <br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks-logo.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg">
 
-# Artificial Intelligence [Reference Textbooks](https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/Artificial-Intelligence/README.md)
+# Artificial Intelligence [Udacity Nanodegrees]()
 
-<br><br>
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
+<br>
+<img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg">
 
 # Artificial Intelligence [Lecture Notes]()
 
-<br>
+<br><br>
 <img align="right" width="120" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg">
 
 # Artificial Intelligence [Mini Assignments]()
