@@ -90,7 +90,7 @@
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Lecture-Notes/blob/master/README.md">Lecture Notes</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Mini-Assignments/blob/master/README.md">Mini Assignments</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Graduation-Projects-Ideas/blob/master/README.md">Graduation Projects Ideas</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Graduation-Projects-Ideas/blob/master/README.md">Graduation Projects Preparations</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Research-Papers/blob/master/README.md">Research Papers</a></td>
         </tr>
     </thead>
@@ -98,7 +98,7 @@
         <tr>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lecture-notes.jpg" width="80%"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mini-assignments.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/graduation-projects-ideas.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/graduation-projects-preparations.jpg" width="80%"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/research-papers.jpg" width="80%"></img></td>
         </tr>
     </tbody>
