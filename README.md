@@ -74,32 +74,14 @@
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/README.md">Job Interviews</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">Reference Textbooks</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/README.md">YouTube Playlists</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/README.md">Coursera Specializations</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/README.md">eLearning Platforms</a></td>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/job-interviews.jpg" width="80%"></img></td>
 <td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="80%"></img></td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udemy-Courses/blob/master/README.md">Udemy Courses</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md">DataCamp Tracks</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Edx-Programs/blob/master/README.md">Edx Programs</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udacity-Nanodegrees/blob/master/README.md">Udacity Nanodegrees</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg" width="80%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/elearning-platforms.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
