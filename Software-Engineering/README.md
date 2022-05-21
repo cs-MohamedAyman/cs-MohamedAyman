@@ -67,12 +67,12 @@
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Software Engineering [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Software-Engineering/README.md)
+# Software Engineering [YouTube Playlists](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Software Engineering [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering/README.md)
+# Software Engineering [Coursera Specializations](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">

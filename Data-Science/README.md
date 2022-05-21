@@ -67,12 +67,12 @@
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Data Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science/README.md)
+# Data Science [YouTube Playlists](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science/README.md)
+# Data Science [Coursera Specializations](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
@@ -82,7 +82,7 @@
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg">
 
-# Data Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md)
+# Data Science [DataCamp Tracks](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg">

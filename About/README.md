@@ -21,7 +21,7 @@
     </tbody>
 </table>
 
-## Dimensions Summary 
+## Dimensions Summary
 
 <table>
     <tbody>

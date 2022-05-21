@@ -74,8 +74,8 @@
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/master/README.md">Job Interviews</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">Reference Textbooks</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/README.md">YouTube Playlists</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/README.md">Coursera Specializations</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/README.md">YouTube Playlists</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/README.md">Coursera Specializations</a></td>
         </tr>
     </thead>
     <tbody>
@@ -88,10 +88,10 @@
     </tbody>
     <thead>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udemy-Courses/blob/master/README.md">Udemy Courses</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/README.md">DataCamp Tracks</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Edx-Programs/blob/master/README.md">Edx Programs</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Udacity-Nanodegrees/blob/master/README.md">Udacity Nanodegrees</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/blob/master/README.md">Udemy Courses</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/README.md">DataCamp Tracks</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/README.md">Edx Programs</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/README.md">Udacity Nanodegrees</a></td>
         </tr>
     </thead>
     <tbody>

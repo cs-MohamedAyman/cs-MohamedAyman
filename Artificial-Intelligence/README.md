@@ -67,12 +67,12 @@
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Artificial Intelligence [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence/README.md)
+# Artificial Intelligence [YouTube Playlists](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Artificial Intelligence [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence/README.md)
+# Artificial Intelligence [Coursera Specializations](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">

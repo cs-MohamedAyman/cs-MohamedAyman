@@ -59,12 +59,12 @@
 <br><br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-# Computer Science [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/README.md)
+# Computer Science [YouTube Playlists](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Computer-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
-# Computer Science [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science/README.md)
+# Computer Science [Coursera Specializations](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md)
 
 <br>
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg">
