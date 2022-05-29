@@ -73,3 +73,13 @@
 </table>
 
 <h2><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/README.md">About Author</a></h2>
+
+<table>
+    <tbody>
+        <tr>
+<td width="33%" align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase1-.jpg" width="80%"></img></td>
+<td width="33%" align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase2-.jpg" width="80%"></img></td>
+<td width="33%" align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase3-.jpg" width="80%"></img></td>
+        </tr>
+    </tbody>
+</table>
