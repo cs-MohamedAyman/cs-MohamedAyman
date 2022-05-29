@@ -1,6 +1,6 @@
 ## Phases Summary
 
-### [Mar 2019 - Mar 2022](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Mar-2019-Mar-2022.md)
+### [Mar 2019 - Mar 2022](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Mar-2019-Mar-2022.md) [3 years]
 
 <table>
     <tbody>
@@ -11,7 +11,7 @@
     </tbody>
 </table>
 
-### [Mar 2017 - Mar 2019](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Mar-2017-Mar-2019.md)
+### [Mar 2017 - Mar 2019](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Mar-2017-Mar-2019.md) [3 years]
 
 <table>
     <tbody>
@@ -22,7 +22,7 @@
     </tbody>
 </table>
 
-### [Oct 2013 - Mar 2017](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Oct-2013-Mar-2017.md)
+### [Oct 2013 - Mar 2017](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Oct-2013-Mar-2017.md) [3.5 years]
 
 <table>
     <tbody>
