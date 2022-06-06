@@ -42,8 +42,16 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Storage-and-Retrieval-Training/blob/main/README.md">Data Storage and Retrieval Training</a><br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/distributed-database.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-storage.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/file-organization.jpg"></img>
+</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Engineering-Training/blob/main/README.md">Data Engineering Training</a><br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cloud-database.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-governance.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-engineering.jpg"></img>
+</td>
         </tr>
     </tbody>
     <tbody>
@@ -52,7 +60,11 @@
     </tbody>
     <tbody>
         <tr>
-<td colspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Big-Data-Analytics-and-Modeling-Training/blob/main/README.md">Big Data Analytics and Modeling Training</a></td>
+<td colspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Big-Data-Analytics-and-Modeling-Training/blob/main/README.md">Big Data Analytics and Modeling Training</a><br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/database-systems.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-analysis.jpg"></img>
+</td>
         </tr>
     </tbody>
     <tbody>
