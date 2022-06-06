@@ -60,7 +60,11 @@
     </tbody>
     <tbody>
         <tr>
-<td colspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Advanced-Multimedia-Mining-Training/blob/main/README.md">Advanced Multimedia Mining Training</a></td>
+<td colspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Advanced-Multimedia-Mining-Training/blob/main/README.md">Advanced Multimedia Mining Training</a><br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/multimedia-mining.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/speech-processing.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/signla-processing.jpg"></img>
+</td>
         </tr>
     </tbody>
     <tbody>
