@@ -44,8 +44,18 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Development-Training/blob/main/README.md">Web/Mobile Development Training</a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Game-Development-Training/blob/main/README.md">Game Development Training</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Web-Mobile-Development-Training/blob/main/README.md">Web/Mobile Development Training</a>
+<br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/ui-ux.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-testing.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/web-mobile-development.jpg"></img>
+</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Game-Development-Training/blob/main/README.md">Game Development Training</a>
+<br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/ui-ux.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-testing.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/game-development.jpg"></img>
+</td>
         </tr>
     </tbody>
     <tbody>
