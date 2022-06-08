@@ -6,6 +6,16 @@
 <table>
     <tbody>
         <tr>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Bioinformatics-Training/blob/main/README.md">Fundamentals of Bioinformatics</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Computational-Drug-Development-Training/blob/main/README.md">Computational Drug Development</a></td>
+        </tr>
+    </tbody>
+    <tbody>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/1.jpg"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/2.jpg"></img></td>
+    </tbody>
+    <tbody>
+        <tr>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-and-Business-Analytics-Training/blob/main/README.md">Data Science and Business Analytics Training</a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Analysis-and-Visualization-Training/blob/master/README.md">Data Analysis and Visualization Training</a></td>
         </tr>
@@ -23,23 +33,5 @@
     <tbody>
 <td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/1.jpg"></img></td>
 <td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Artificial-Intelligence/2.jpg"></img></td>
-    </tbody>
-    <tbody>
-        <tr>
-<td align="center"><a href="">Template</a></td>
-<td align="center"><a href="">Template</a></td>
-        </tr>
-    </tbody>
-    <tbody>
-<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/1.jpg"></img></td>
-<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/2.jpg"></img></td>
-    </tbody>
-    <tbody>
-        <tr>
-<td colspan=2 align="center"><a href="">Template</a></td>
-        </tr>
-    </tbody>
-    <tbody>
-<td colspan=2 align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/Bioinformatics/3.jpg" width="50%"></img></td>
     </tbody>
 </table>
