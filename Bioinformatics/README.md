@@ -6,12 +6,12 @@
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Bioinformatics-Training/blob/main/README.md">Fundamentals of Bioinformatics</a><br><br>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Bioinformatics-Training/blob/main/README.md">Fundamentals of Bioinformatics Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/next-generation-sequencing.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/biology.jpg"></img>
 </td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Computational-Drug-Development-Training/blob/main/README.md">Computational Drug Development</a><br><br>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Computational-Drug-Development-Training/blob/main/README.md">Computational Drug Development Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/system-biology.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/drug-discovery.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/structure-biology.jpg"></img>
