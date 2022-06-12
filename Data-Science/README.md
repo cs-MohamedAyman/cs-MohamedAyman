@@ -62,8 +62,8 @@
         <tr>
 <td colspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Big-Data-Analytics-and-Modeling-Training/blob/main/README.md">Big Data Analytics and Modeling Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/database-systems.jpg"></img>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data.jpg"></img>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-analysis.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-modeling.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/big-data-analytics.jpg"></img>
 </td>
         </tr>
     </tbody>
