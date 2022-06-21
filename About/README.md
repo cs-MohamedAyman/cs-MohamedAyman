@@ -22,7 +22,7 @@
     </tbody>
 </table>
 
-### [Oct 2013 - Mar 2017](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Oct-2013-Mar-2017.md) [3.5 years]
+### [Sep 2013 - Jun 2017](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Oct-2013-Mar-2017.md) [4 years]
 
 <table>
     <tbody>
