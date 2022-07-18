@@ -48,9 +48,9 @@
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/image-processing.jpg"></img>
 </td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Engineering-for-Production-Training/blob/main/README.md">Machine Learning Engineering for Production Training</a><br><br>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/google-cloud-platform.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mlops.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/systems-development-methodologies.jpg"></img>
 </td>
         </tr>
     </tbody>
