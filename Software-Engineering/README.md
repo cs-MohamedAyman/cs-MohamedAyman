@@ -13,6 +13,7 @@
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.jpg"></img>
 </td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Distributed-Systems-and-Cloud-Computing-Training/blob/main/README.md">Distributed Systems and Cloud Computing Training</a><br><br>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/aws.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cloud-computing.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/distributed-systems.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-networks.jpg"></img>
