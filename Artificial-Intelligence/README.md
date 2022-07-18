@@ -47,7 +47,7 @@
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-vision.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/image-processing.jpg"></img>
 </td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Vision-and-Virtual-Reality-Training/blob/main/README.md">Machine Vision and Virtual Reality Training</a><br><br>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Machine-Learning-Engineering-for-Production-Training/blob/main/README.md">Machine Learning Engineering for Production Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-animation.jpg"></img>
