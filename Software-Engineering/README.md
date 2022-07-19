@@ -33,7 +33,6 @@
 </td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Continuous-Delivery-and-DevOps-Training/blob/main/README.md">Continuous Delivery and DevOps Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/golang.jpg"></img>
-<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bash-scripting.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/continuous-delivery.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/systems-development-methodologies.jpg"></img>
 </td>
