@@ -33,6 +33,7 @@
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Operating-Systems-and-Parallel-Computing-Training/blob/main/README.md">Operating Systems and Parallel Computing Training</a><br><br>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/high-performance-computing.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/parallel-computing.jpg"></img>
+<img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bash-scripting.jpg"></img>
 <img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operating-systems.jpg"></img>
 </td>
         </tr>
