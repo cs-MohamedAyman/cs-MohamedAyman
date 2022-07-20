@@ -5,8 +5,8 @@
 <table>
     <tbody>
     <tr>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase3-.jpg" width="100%"></img></td>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase3.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase3-.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase3.jpg" width="100%"></img></td>
     </tr>
     </tbody>
 </table>
@@ -16,8 +16,8 @@
 <table>
     <tbody>
     <tr>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase2-.jpg" width="100%"></img></td>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase2.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase2-.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase2.jpg" width="100%"></img></td>
     </tr>
     </tbody>
 </table>
@@ -27,8 +27,8 @@
 <table>
     <tbody>
     <tr>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase1-.jpg" width="100%"></img></td>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase1.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase1-.jpg" width="100%"></img></td>
+<td align="center" width="50%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Phases/phase1.jpg" width="100%"></img></td>
     </tr>
     </tbody>
 </table>
@@ -38,14 +38,14 @@
 <table>
     <tbody>
     <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/learning.jpg" width="100%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/developing.jpg" width="100%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/learning.jpg" width="100%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/developing.jpg" width="100%"></img></td>
     </tr>
     </tbody>
     <tbody>
     <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/research-teaching.jpg" width="100%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/skills.jpg" width="100%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/research-teaching.jpg" width="100%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/About/Dimensions/skills.jpg" width="100%"></img></td>
     </tr>
     </tbody>
 </table>
