@@ -4,9 +4,9 @@
     <thead>
         <tr>
 <td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/problem-solving-training/blob/master/README.md">          Problem Solving Training     </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/data-science-case-studies/blob/master/README.md">         Data Science<br>Case Studies </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/README.md">              Educational<br>Projects      </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/README.md">               eLearning<br>Platforms       </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/data-science-case-studies/blob/master/README.md">         Data Science Case Studies    </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/README.md">              Educational Projects         </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/README.md">               eLearning Platforms          </a></td>
         </tr>
     </thead>
     <tbody>
@@ -20,9 +20,9 @@
     <thead>
         <tr>
 <td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/graduation-project-steps/blob/master/README.md">          Graduation Project Steps     </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/job-interviews/blob/master/README.md">                    Job<br>Interviews            </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/Papers-with-Code/blob/master/README.md">                  Papers<br>with Code          </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-for-Kids/blob/master/README.md">              Programming<br>for Kids      </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/job-interviews/blob/master/README.md">                    Job Interviews               </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/Papers-with-Code/blob/master/README.md">                  Papers with Code             </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/Programming-for-Kids/blob/master/README.md">              Programming for Kids         </a></td>
         </tr>
     </thead>
     <tbody>
