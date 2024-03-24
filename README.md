@@ -40,10 +40,10 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/README.md">        Computer<br>Science          </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/software-engineering-trainings/blob/master/README.md">    Software<br>Engineering      </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/artificial-intelligence-trainings/blob/master/README.md"> Artificial<br>Intelligence   </a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/data-science-trainings/blob/master/README.md">            Data<br>Science              </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/README.md">        Computer Science          </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/software-engineering-trainings/blob/master/README.md">    Software Engineering      </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/artificial-intelligence-trainings/blob/master/README.md"> Artificial Intelligence   </a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/data-science-trainings/blob/master/README.md">            Data Science              </a></td>
         </tr>
     </thead>
     <tbody>
