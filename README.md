@@ -84,22 +84,22 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="16.66%"><a href="/certificates/README.md#kaggle-2022---2024">Kaggle</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#deeplearningai-2022---2024">DeepLearning.AI</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#datacamp-2020---2024">DataCamp</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#coursera-2017---2021">Coursera</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#codeforces-2017---2021">Codeforces</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#university-2017---2021">University</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#kaggle">Kaggle</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#deeplearningai">DeepLearning.AI</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#datacamp">DataCamp</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#coursera">Coursera</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#codeforces">Codeforces</a></td>
+<td align="center" width="16.66%"><a href="/certificates/README.md#university">University</a></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/certificates/README.md#kaggle-2022---2024"><img src="/logos/kaggle.png"         width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#deeplearningai-2022---2024"><img src="/logos/deeplearningai.png" width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#datacamp-2020---2024"><img src="/logos/datacamp.png"       width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#coursera-2017---2021"><img src="/logos/coursera.png"       width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#codeforces-2017---2021"><img src="/logos/codeforces.png"     width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#university-2017---2021"><img src="/logos/university.png"     width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#kaggle"><img src="/logos/kaggle.png" width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#deeplearningai"><img src="/logos/deeplearningai.png" width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#datacamp"><img src="/logos/datacamp.png" width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#coursera"><img src="/logos/coursera.png" width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#codeforces"><img src="/logos/codeforces.png" width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#university"><img src="/logos/university.png" width="90%"></img></a></td>
         </tr>
     </tbody>
 </table>
