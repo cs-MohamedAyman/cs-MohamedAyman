@@ -3,7 +3,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/kaggle.png"></img></a>
 
-## Kaggle [2022 - 2024]
+## Kaggle
 
 <details>
     <summary>(5 attachments)</summary>
@@ -30,7 +30,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/deeplearningai.png"></img></a>
 
-## DeepLearning.AI [2022 - 2024]
+## DeepLearning.AI
 
 <details>
     <summary>(6 attachments)</summary>
@@ -56,7 +56,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/datacamp.png"></img></a>
 
-## DataCamp [2020 - 2024]
+## DataCamp
 
 <details>
     <summary>(8 attachments)</summary>
@@ -86,7 +86,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/coursera.png"></img></a>
 
-## Coursera [2017 - 2021]
+## Coursera
 
 <details>
     <summary>(12 attachments)</summary>
@@ -124,7 +124,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
 
-## Codeforces [2017 - 2021]
+## Codeforces
 
 <details>
     <summary>(12 attachments)</summary>
@@ -166,7 +166,7 @@
 <br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/university.png"></img></a>
 
-## University [2017 - 2021]
+## University
 
 <details>
     <summary>(4 attachments)</summary>
