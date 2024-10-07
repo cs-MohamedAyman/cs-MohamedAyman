@@ -24,16 +24,16 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="130px"># Phases</th>
-<th width="450px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Phases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#hackerrank-oj-phases">Level 1 - HackerRank OJ Phases</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
@@ -48,7 +48,7 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#leetcode-oj-phases">Level 1 - LeetCode OJ Phases</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
@@ -63,7 +63,7 @@
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#atcoder-oj-phases">Level 1 - AtCoder OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#atcoder-oj-phases"><img src="/logos/atcoder.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#atcoder-oj-phases"><img src="/logos/atcoder.png" width="45%"></img></a>
@@ -78,7 +78,7 @@
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#codeforces-oj-phases">Level 1 - Codeforces OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
@@ -104,16 +104,16 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="130px"># Phases</th>
-<th width="450px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Phases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#hackerrank-oj-phases">Level 2 - HackerRank OJ Phases</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
@@ -126,7 +126,7 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases">Level 2 - LeetCode OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
@@ -141,7 +141,7 @@
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#atcoder-oj-phases">Level 2 - AtCoder OJ Phases</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#atcoder-oj-phases"><img src="/logos/atcoder.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#atcoder-oj-phases"><img src="/logos/atcoder.png" width="45%"></img></a>
@@ -154,7 +154,7 @@
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#codeforces-oj-phases">Level 2 - Codeforces OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
@@ -180,16 +180,16 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="130px"># Phases</th>
-<th width="450px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Phases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases">Level 3 - HackerRank OJ Phases</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
@@ -202,7 +202,7 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases">Level 3 - LeetCode OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
@@ -217,7 +217,7 @@
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-custom-phases">Level 3 - LeetCode OJ Phases (Interview Questions)</a></td>
-<td align="center">160</td>
+<td align="center">160<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-custom-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-custom-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
@@ -230,7 +230,7 @@
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases">Level 3 - Google Competitions Phases (KickStart)</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
@@ -243,7 +243,7 @@
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases">Level 3 - Google Competitions Phases (CodeJam)</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
@@ -256,7 +256,7 @@
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#codeforces-oj-phases">Level 3 - Codeforces OJ Phases</a></td>
-<td align="center">320</td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
 <td align="center">
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
@@ -293,15 +293,17 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="580px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Releases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">Data Structure Libraries</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -310,7 +312,8 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">2 Player Games</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -319,7 +322,8 @@
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">4 Player Games</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -328,7 +332,8 @@
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">Advanced Data Structure Libraries</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -348,15 +353,17 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="580px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Releases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">Object-Oriented Systems</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -365,7 +372,8 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">Database Systems Apps</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -385,15 +393,17 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="580px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Releases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">Operating Systems Apps</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -402,7 +412,8 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">Parallel Computing Apps</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -422,15 +433,17 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="580px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Releases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">1 Player Games</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -439,7 +452,8 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Algorithmic Quest Games</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -459,15 +473,17 @@
         <tr>
 <th width="30px">#</th>
 <th width="280px">Program Name</th>
-<th width="60px">Program Duration (Hrs)</th>
-<th width="580px">Program Outcome</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Releases</th>
+<th width="400px">Program Outcome</th>
         </tr>
     </thead>
     <tbody>
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">Computer Graphics Apps</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
@@ -476,7 +492,8 @@
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">Data Compression Apps</a></td>
-<td align="center">240</td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">6</td>
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
