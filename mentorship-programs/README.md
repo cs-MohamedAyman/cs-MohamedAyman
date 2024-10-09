@@ -307,6 +307,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Data Structures, Abstract Data Types (ADTs), Algorithms, Complexity Analysis (Big O Notation), Memory Management, Modular Programming, Unit Testing, Code Documentation, Library Design Principles, Performance Optimization}    <br>
 </td>
         </tr>
         <tr>
@@ -317,6 +318,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}    <br>
 </td>
         </tr>
         <tr>
@@ -327,6 +329,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Multiplayer Game Design, Matchmaking Algorithms, User Interface (UI) Design for Multiple Players, Scoring and Leaderboards Implementation, Debugging and Profiling Tools, Testing and Quality Assurance}    <br>
 </td>
         </tr>
         <tr>
@@ -337,6 +340,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Complex Data Structures and Algorithms, Data Structure and Algorithms Optimization, Memory Management Techniques, Complexity Analysis, Testing and Benchmarking, Documentation of Complex Structures}    <br>
 </td>
         </tr>
     </tbody>
@@ -367,6 +371,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Object-Oriented Programming (OOP) Principles, Class Design and Responsibility Assignment, Design Patterns, UML Diagram Creation, Modularity and Code Organization, Unit Testing and Test-Driven Development (TDD), Refactoring Techniques, Documentation and Code Comments}    <br>
 </td>
         </tr>
         <tr>
@@ -377,6 +382,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Database Design Principles, SQL Basics for Data Manipulation, Entity-Relationship Diagrams, CRUD Operations, Data Validation Techniques, File I/O Handling for Data Persistence, Error Handling and Logging, Unit Testing for Database Operations}    <br>
 </td>
         </tr>
     </tbody>
@@ -407,6 +413,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Operating System Concepts, Concurrency and Synchronization, System Calls and APIs, File System Management, Inter-Process Communication (IPC), Error Handling and Logging, Resource Allocation Techniques, Performance Monitoring}    <br>
 </td>
         </tr>
         <tr>
@@ -417,6 +424,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Parallel Programming Concepts, Multi-threading and Concurrency Control, Synchronization Mechanisms (Mutexes, Semaphores), Load Balancing Techniques, Performance Optimization in Parallel Algorithms, Debugging Parallel Applications}    <br>
 </td>
         </tr>
     </tbody>
@@ -447,6 +455,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}    <br>
 </td>
         </tr>
         <tr>
@@ -457,6 +466,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}    <br>
 </td>
         </tr>
     </tbody>
@@ -487,6 +497,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Computer Graphics Fundamentals, 2D & 3D Graphics Programming, Rendering Techniques (Rasterization), Basic Animation Techniques, User Interface (UI) Development in Console Graphics, Mathematics for Graphics, Debugging Graphics Applications, Performance Optimization}    <br>
 </td>
         </tr>
         <tr>
@@ -497,6 +508,7 @@
 <td align="left">
 * 12 implemented Educational Projects    <br>
 * 20+ solved Tasks per Educational Projects    <br>
+* mastered Skills {Data Compression Algorithms, File I/O Handling, Lossy vs. Lossless Compression Techniques, Performance Analysis of Compression Techniques, Testing and Quality Assurance, Error Handling and Data Integrity Checks}    <br>
 </td>
         </tr>
     </tbody>
