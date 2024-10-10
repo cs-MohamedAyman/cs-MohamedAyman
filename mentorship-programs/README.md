@@ -42,7 +42,7 @@
 </td>
 <td align="left">
 * ~300 solved HackerRank OJ Problems    <br>
-* ~10 mastered Topics {Introduction, Arrays and Strings, Functions and Libraries, Structs and Classes, Implementation, Collections, Bash, Text Processing, Arrays in Bash, Grep Sed Awk}    <br>
+* mastered Topics {Introduction, Arrays and Strings, Functions and Libraries, Structs and Classes, Implementation, Collections, Bash, Text Processing, Arrays in Bash, Grep Sed Awk}    <br>
 </td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@
 </td>
 <td align="left">
 * ~200 solved LeetCode OJ Problems    <br>
-* ~4 mastered Topics {Array, Bit Manipulation, Math, String}    <br>
+* mastered Topics {Array, Bit Manipulation, Math, String}    <br>
 </td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@
 </td>
 <td align="left">
 * ~500 solved AtCoder OJ Problems    <br>
-* ~5 mastered Topics {Basic Operator, Condition, Loop, String, List or Array}    <br>
+* mastered Topics {Basic Operator, Condition, Loop, String, List or Array}    <br>
 </td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@
 </td>
 <td align="left">
 * ~500 solved Codeforces OJ Problems    <br>
-* ~5 mastered Topics {Basic Operator, Condition, Loop, String, List or Array}    <br>
+* mastered Topics {Basic Operator, Condition, Loop, String, List or Array}    <br>
 </td>
         </tr>
     </tbody>
@@ -120,7 +120,7 @@
 </td>
 <td align="left">
 * ~200 solved HackerRank OJ Problems    <br>
-* ~10 mastered Topics {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals}    <br>
+* mastered Topics {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals}    <br>
 </td>
         </tr>
         <tr>
@@ -135,7 +135,7 @@
 </td>
 <td align="left">
 * ~300 solved LeetCode OJ Problems    <br>
-* ~15 mastered Topics {Array, Linked List, Stack, Queue and Dequeue, Advanced Topics, Binary Tree, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking}    <br>
+* mastered Topics {Array, Linked List, Stack, Queue and Dequeue, Advanced Topics, Binary Tree, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking}    <br>
 </td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@
 </td>
 <td align="left">
 * ~200 solved AtCoder OJ Problems    <br>
-* ~5 mastered Topics {Data Structure, String, Mathematics, Greedy, Brute Force}    <br>
+* mastered Topics {Data Structure, String, Mathematics, Greedy, Brute Force}    <br>
 </td>
         </tr>
         <tr>
@@ -163,7 +163,7 @@
 </td>
 <td align="left">
 * ~500 solved Codeforces OJ Problems    <br>
-* ~5 mastered Topics {Data Structure, String, Mathematics, Greedy, Brute Force}    <br>
+* mastered Topics {Data Structure, String, Mathematics, Greedy, Brute Force}    <br>
 </td>
         </tr>
     </tbody>
@@ -196,7 +196,7 @@
 </td>
 <td align="left">
 * ~200 solved HackerRank OJ Problems    <br>
-* ~9 mastered Topics {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation}    <br>
+* mastered Topics {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation}    <br>
 </td>
         </tr>
         <tr>
@@ -211,7 +211,7 @@
 </td>
 <td align="left">
 * ~300 solved LeetCode OJ Problems    <br>
-* ~10 mastered Topics {Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking, Math, String, Dynamic Programming}    <br>
+* mastered Topics {Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking, Math, String, Dynamic Programming}    <br>
 </td>
         </tr>
         <tr>
@@ -224,7 +224,7 @@
 </td>
 <td align="left">
 * ~200 solved LeetCode OJ Problems    <br>
-* ~8 mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
+* mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
 </td>
         </tr>
         <tr>
@@ -237,7 +237,7 @@
 </td>
 <td align="left">
 * ~70 solved Google Competitions Contests    <br>
-* ~8 mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
+* mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
 </td>
         </tr>
         <tr>
@@ -250,7 +250,7 @@
 </td>
 <td align="left">
 * ~60 solved Google Competitions Contests    <br>
-* ~8 mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
+* mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
 </td>
         </tr>
         <tr>
@@ -265,7 +265,7 @@
 </td>
 <td align="left">
 * ~500 solved Codeforces OJ Problems    <br>
-* ~7 mastered Topics {Divide and Conquer, Graph, String, Data Structure, Math and Number Theory, Greedy and Brute Force, Dynamic Programming}    <br>
+* mastered Topics {Divide and Conquer, Graph, String, Data Structure, Math and Number Theory, Greedy and Brute Force, Dynamic Programming}    <br>
 </td>
         </tr>
     </tbody>
