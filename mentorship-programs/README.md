@@ -273,8 +273,82 @@
 </details>
 
 ### Level 4: Advanced Data Structures and Algorithms
-* coming soon ...
 
+<details>
+    <summary>(4 programs)</summary>
+    <br>
+<table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="280px">Program Name</th>
+<th width="120px">Program Duration (Hrs)</th>
+<th width="120px"># Phases</th>
+<th width="400px">Program Outcome</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#hackerrank-oj-phases">Level 4 - HackerRank OJ Phases</a></td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#hackerrank-oj-phases"><img src="/logos/hackerrank.png" width="45%"></img></a>
+</td>
+<td align="left">
+* ~300 solved HackerRank OJ Problems    <br>
+* mastered Topics {Linear and Non-linear DS, Strings, Dynamic Programming, Greedy, Graph Theory, Mathematics, Number Theory, Combinatorics, Geometry, Probability}    <br>
+</td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#leetcode-oj-phases">Level 4 - LeetCode OJ Phases</a></td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#leetcode-oj-phases"><img src="/logos/leetcode.png" width="45%"></img></a>
+</td>
+<td align="left">
+* ~300 solved LeetCode OJ Problems    <br>
+* mastered Topics {Array, Stack, Queue, Dequeue, Binary Tree, Heap Tree, Hash Table, Advanced Topics, Breadth First Search, Depth First Search, Backtracking, Binary Search, Greedy, Bit Manipulation, Sorting, Math, String, Dynamic Programming}    <br>
+</td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#google-competitions-phases">Level 4 - Google Competitions Phases (CodeJam)</a></td>
+<td align="center">240<br>[Only 80 Hrs are required]</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#google-competitions-phases"><img src="/logos/googlecompetitions.png" width="45%"></img></a>
+</td>
+<td align="left">
+* ~50 solved Google Competitions Contests    <br>
+* mastered Topics {Array and String, Linked List, Stack and Queue, Binary Tree and Binary Search, Graph and Backtracking, Heap and Bit Manipulation, Hashmap and Math, Dynamic Programming}    <br>
+</td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#codeforces-oj-phases">Level 4 - Codeforces OJ Phases</a></td>
+<td align="center">320<br>[Only 80 Hrs are required]</td>
+<td align="center">
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/README.md#codeforces-oj-phases"><img src="/logos/codeforces.png" width="45%"></img></a>
+</td>
+<td align="left">
+* ~500 solved Codeforces OJ Problems    <br>
+* mastered Topics {Divide and Conquer, Graph, String, Data Structure, Math and Number Theory, Greedy and Brute Force, Dynamic Programming}    <br>
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
 
 
 
