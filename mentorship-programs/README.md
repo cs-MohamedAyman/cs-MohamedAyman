@@ -355,7 +355,7 @@
 <a href="/mentorship-programs/README.md"><img align="right" width="160" src="/logos/educational-projects.png"></img></a>
 <br>
 
-## Mentorship Programs for Educational Projects (Software Engineering)
+## Mentorship Programs for Educational Projects <br> (Computer Science and Software Engineering)
 
 ### Data Structure Libraries and Multiplayer Games
 
@@ -645,7 +645,7 @@
 <a href="/mentorship-programs/README.md"><img align="right" width="160" src="/logos/educational-projects.png"></img></a>
 <br>
 
-## Mentorship Programs for Educational Projects (Data Science)
+## Mentorship Programs for Educational Projects <br> (Artificial Intelligence and Data Science)
 
 ### Data Analysis Reports and Business Intelligence Reports
 * coming soon ...
