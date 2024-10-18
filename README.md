@@ -11,10 +11,6 @@
 <td align="center" width="150px">12 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Computer Science and Software Engineering) </a></td>
-<td align="center" width="150px">coming soon ...</td>
-        </tr>
-        <tr>
 <td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Data Science Case Studies </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
@@ -23,7 +19,7 @@
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Artificial Intelligence and Data Science) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
