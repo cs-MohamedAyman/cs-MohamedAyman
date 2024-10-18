@@ -3,19 +3,35 @@
 <table>
     <tbody>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md#mentorship-programs-for-problem-solving-training"> Mentorship Programs for Problem Solving Training </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Problem Solving Training </a></td>
 <td align="center" width="150px">18 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md#mentorship-programs-for-educational-projects-software-engineering"> Mentorship Programs for Educational Projects (Software Engineering) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Software Engineering) </a></td>
 <td align="center" width="150px">12 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md#mentorship-programs-for-data-science-case-studies"> Mentorship Programs for Data Science Case Studies </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Software Engineering) </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md#mentorship-programs-for-educational-projects-data-science"> Mentorship Programs for Educational Projects (Data Science) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Data Science Case Studies </a></td>
+<td align="center" width="150px">coming soon ...</td>
+        </tr>
+        <tr>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Data Science) </a></td>
+<td align="center" width="150px">coming soon ...</td>
+        </tr>
+        <tr>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Data Science) </a></td>
+<td align="center" width="150px">coming soon ...</td>
+        </tr>
+        <tr>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for eLearning Platforms </a></td>
+<td align="center" width="150px">coming soon ...</td>
+        </tr>
+        <tr>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Graduation Project Steps </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
     </tbody>
