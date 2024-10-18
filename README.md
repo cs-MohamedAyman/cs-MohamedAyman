@@ -7,11 +7,11 @@
 <td align="center" width="150px">18 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Software Engineering) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Computer Science and Software Engineering) </a></td>
 <td align="center" width="150px">12 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Software Engineering) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Computer Science and Software Engineering) </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
@@ -19,11 +19,11 @@
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Data Science) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Artificial Intelligence and Data Science) </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Data Science) </a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation (Artificial Intelligence and Data Science) </a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
