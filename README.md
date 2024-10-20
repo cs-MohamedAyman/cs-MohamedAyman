@@ -1,39 +1,39 @@
-# My Mentorship Program
+# * [My Mentorship Program](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md)
 
 <table>
     <tbody>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Problem Solving Training </a></td>
+<td align="left" width="850px">Mentorship Programs for Problem Solving Training</td>
 <td align="center" width="150px">18 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Computer Science and Software Engineering) </a></td>
+<td align="left" width="850px">Mentorship Programs for Educational Projects (Computer Science and Software Engineering)</td>
 <td align="center" width="150px">12 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Data Science Case Studies </a></td>
+<td align="left" width="850px">Mentorship Programs for Data Science Case Studies</td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Educational Projects (Artificial Intelligence and Data Science) </a></td>
+<td align="left" width="850px">Mentorship Programs for Educational Projects (Artificial Intelligence and Data Science)</td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Interview Preparation</a></td>
+<td align="left" width="850px">Mentorship Programs for Interview Preparation</td>
 <td align="center" width="150px">4 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for eLearning Platforms </a></td>
+<td align="left" width="850px">Mentorship Programs for eLearning Platforms</td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"> Mentorship Programs for Graduation Project Steps </a></td>
+<td align="left" width="850px">Mentorship Programs for Graduation Project Steps</td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
     </tbody>
 </table>
 
-# Main Repositories
+# * Main Repositories
 
 <table>
     <thead>
@@ -70,7 +70,7 @@
     </tbody>
 </table>
 
-# Department Repositories
+# * Department Repositories
 
 <table>
     <thead>
@@ -91,17 +91,17 @@
     </tbody>
 </table>
 
-# My Certificates
+# * [My Certificates](/certificates/README.md)
 
 <table>
     <thead>
         <tr>
-<td align="center" width="16.66%"><a href="/certificates/README.md#kaggle">Kaggle</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#deeplearningai">DeepLearning.AI</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#datacamp">DataCamp</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#coursera">Coursera</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#codeforces">Codeforces</a></td>
-<td align="center" width="16.66%"><a href="/certificates/README.md#university">University</a></td>
+<td align="center" width="16.66%">Kaggle</td>
+<td align="center" width="16.66%">DeepLearning.AI</td>
+<td align="center" width="16.66%">DataCamp</td>
+<td align="center" width="16.66%">Coursera</td>
+<td align="center" width="16.66%">Codeforces</td>
+<td align="center" width="16.66%">University</td>
         </tr>
     </thead>
     <tbody>
