@@ -8,7 +8,7 @@
         </tr>
         <tr>
 <td align="left" width="850px">Mentorship Programs for Educational Projects (Computer Science and Software Engineering)</td>
-<td align="center" width="150px">12 Programs</td>
+<td align="center" width="150px">10 Programs</td>
         </tr>
         <tr>
 <td align="left" width="850px">Mentorship Programs for Data Science Case Studies</td>
