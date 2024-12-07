@@ -1,33 +1,33 @@
-# * [My Mentorship Programs](https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md)
+# * My Mentorship Programs
 
 <table>
     <tbody>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Problem Solving Training</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/problem-solving-training.md"> Mentorship Programs for Problem Solving Training </a></td>
 <td align="center" width="150px">18 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Educational Projects (Computer Science and Software Engineering)</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects-1.md"> Mentorship Programs for Educational Projects (Computer Science and Software Engineering)</a></td>
 <td align="center" width="150px">10 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Data Science Case Studies</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/data-science-case-studies.md"> Mentorship Programs for Data Science Case Studies</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Educational Projects (Artificial Intelligence and Data Science)</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects-2.md"> Mentorship Programs for Educational Projects (Artificial Intelligence and Data Science)</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Interview Preparation</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/interview-preparation.md"> Mentorship Programs for Interview Preparation</a></td>
 <td align="center" width="150px">4 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Graduation Project Steps</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/graduation-project-steps.md"> Mentorship Programs for Graduation Project Steps</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px">Mentorship Programs for Research Papers</td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/research-papers.md"> Mentorship Programs for Research Papers</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
     </tbody>
