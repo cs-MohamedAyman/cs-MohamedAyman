@@ -255,3 +255,23 @@
     </tbody>
 </table>
 </details>
+
+<a href="/mentorship-programs/Educational-Projects-2.md"><img align="right" width="160" src="/logos/educational-projects.png"></img></a>
+<br>
+
+## Mentorship Programs for Educational Projects <br> (Artificial Intelligence and Data Science)
+
+### Data Analysis Reports and Business Intelligence Reports
+* coming soon ...
+
+### Supervised/Unsupervised Predicting Apps
+* coming soon ...
+
+### Deep Predicting Apps and Generative Apps
+* coming soon ...
+
+### Natural Language Processing Apps
+* coming soon ...
+
+### Computer Vision Apps
+* coming soon ...
