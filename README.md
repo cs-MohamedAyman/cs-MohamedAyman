@@ -41,8 +41,8 @@
         <tr>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/problem-solving-training/blob/master/README.md">         <img src="/logos/problem-solving-training.png"           width="80%"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/data-science-case-studies/blob/master/README.md">        <img src="/logos/data-science-case-studies.png"          width="80%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/educational-projects-cs-sw/blob/master/README.md">       <img src="/logos/educational-projects.png"               width="80%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/educational-projects-ai-ds/blob/master/README.md">       <img src="/logos/educational-projects.png"               width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/README.md">             <img src="/logos/educational-projects.png"               width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/README.md">             <img src="/logos/educational-projects.png"               width="80%"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/interview-preparation/blob/master/README.md">            <img src="/logos/interview-preparation.png"              width="80%"></img></a></td>
         </tr>
     </tbody>
