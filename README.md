@@ -7,7 +7,7 @@
 <td align="center" width="150px">18 Programs</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects-1.md"> Mentorship Programs for Educational Projects (CS, SW)</a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects.md"> Mentorship Programs for Educational Projects (CS, SW)</a></td>
 <td align="center" width="150px">10 Programs</td>
         </tr>
         <tr>
@@ -15,7 +15,7 @@
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects-2.md"> Mentorship Programs for Educational Projects (AI, DS)</a></td>
+<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/educational-projects.md"> Mentorship Programs for Educational Projects (AI, DS)</a></td>
 <td align="center" width="150px">coming soon ...</td>
         </tr>
         <tr>
