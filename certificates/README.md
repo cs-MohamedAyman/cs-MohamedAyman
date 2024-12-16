@@ -11,17 +11,19 @@
 <table>
     <tbody>
             <tr>
-<td align=center colspan=2><img width="66%" src="/certificates/kaggle/kaggle-profile.png"></img></td>
+<td><img src="/certificates/kaggle/kaggle-profile.png"></img></td>
+<td><img src="/certificates/kaggle/kaggle-badges.png"></img></td>
             </tr>
             <tr>
-<td align=center colspan=2><img width="66%" src="/certificates/kaggle/kaggle-grid.png"></img></td>
-            </tr>
-            <tr>
-<td align=center colspan=2><img width="66%" src="/certificates/kaggle/kaggle-badges.png"></img></td>
+<td align=center colspan=2><img width="75%" src="/certificates/kaggle/kaggle-grid.png"></img></td>
             </tr>
             <tr>
 <td><img src="/certificates/kaggle/kaggle-program02.png"></img></td>
 <td><img src="/certificates/kaggle/kaggle-program03.png"></img></td>
+            </tr>
+            <tr>
+<td><img src="/certificates/kaggle/kaggle-program04.png"></img></td>
+<td><img src="/certificates/kaggle/kaggle-program05.png"></img></td>
             </tr>
     </tbody>
 </table>
