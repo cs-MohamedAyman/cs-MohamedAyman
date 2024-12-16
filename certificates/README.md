@@ -6,13 +6,13 @@
 ## Kaggle
 
 <details>
-    <summary>(5 attachments)</summary>
+    <summary>(6 attachments)</summary>
     <br>
 <table>
     <tbody>
             <tr>
-<td><img src="/certificates/kaggle/kaggle-profile.png"></img></td>
-<td><img src="/certificates/kaggle/kaggle-badges.png"></img></td>
+<td><img width="75%" src="/certificates/kaggle/kaggle-profile.png"></img></td>
+<td><img width="75%" src="/certificates/kaggle/kaggle-badges.png"></img></td>
             </tr>
             <tr>
 <td align=center colspan=2><img width="75%" src="/certificates/kaggle/kaggle-grid.png"></img></td>
