@@ -180,6 +180,10 @@
 <td><img src="/certificates/universities/auc2.png"></img></td>
             </tr>
             <tr>
+<td><img src="/certificates/universities/auc3.png"></img></td>
+<td><img src="/certificates/universities/auc4.png"></img></td>
+            </tr>
+            <tr>
 <td align=center colspan=2><img width="80%" src="/certificates/universities/my-grades-distribution.png"></img></td>
             </tr>
             <tr>
