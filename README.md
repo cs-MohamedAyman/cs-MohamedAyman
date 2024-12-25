@@ -93,8 +93,8 @@
     <thead>
         <tr>
 <td align="center" width="16.66%">Kaggle</td>
-<td align="center" width="16.66%">DeepLearning.AI</td>
 <td align="center" width="16.66%">DataCamp</td>
+<td align="center" width="16.66%">DeepLearning.AI</td>
 <td align="center" width="16.66%">Coursera</td>
 <td align="center" width="16.66%">Codeforces</td>
 <td align="center" width="16.66%">University</td>
@@ -103,8 +103,8 @@
     <tbody>
         <tr>
 <td align="center"><a href="/certificates/README.md#kaggle">         <img src="/logos/kaggle.png"         width="90%"></img></a></td>
-<td align="center"><a href="/certificates/README.md#deeplearningai"> <img src="/logos/deeplearningai.png" width="90%"></img></a></td>
 <td align="center"><a href="/certificates/README.md#datacamp">       <img src="/logos/datacamp.png"       width="90%"></img></a></td>
+<td align="center"><a href="/certificates/README.md#deeplearningai"> <img src="/logos/deeplearningai.png" width="90%"></img></a></td>
 <td align="center"><a href="/certificates/README.md#coursera">       <img src="/logos/coursera.png"       width="90%"></img></a></td>
 <td align="center"><a href="/certificates/README.md#codeforces">     <img src="/logos/codeforces.png"     width="90%"></img></a></td>
 <td align="center"><a href="/certificates/README.md#university">     <img src="/logos/university.png"     width="90%"></img></a></td>
