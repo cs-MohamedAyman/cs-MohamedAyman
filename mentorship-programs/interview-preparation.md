@@ -136,7 +136,7 @@ See the Program Outcome of the selected Programs
 ### Level 3: Junior Role
 
 <details>
-    <summary>(4 programs)</summary>
+    <summary>(6 programs)</summary>
     <br>
 <table>
     <thead>
@@ -169,7 +169,7 @@ See the Program Outcome of the selected Programs
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md">Data Science Case Studies - Level 2, 3</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md">Data Science Case Studies - Level 2</a></td>
 <td align="center">320</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md"><img src="/logos/data-science-case-studies.png" width="90%"></img></a></td>
 <td align="left">
@@ -178,6 +178,24 @@ See the Program Outcome of the selected Programs
         </tr>
         <tr>
 <td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md">Data Science Educational Projects</a></td>
+<td align="center">320</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md"><img src="/logos/data-science-educational-projects.png" width="90%"></img></a></td>            
+<td align="left">
+See the Program Outcome of the selected Programs
+</td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md">Data Science Case Studies - Level 3</a></td>
+<td align="center">320</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md"><img src="/logos/data-science-case-studies.png" width="90%"></img></a></td>
+<td align="left">
+See the Program Outcome of the selected Programs
+</td>
+        </tr>
+        <tr>
+<td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md">Data Science Educational Projects</a></td>
 <td align="center">320</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Interview-Preparation/blob/master/level-3/README.md"><img src="/logos/data-science-educational-projects.png" width="90%"></img></a></td>            
