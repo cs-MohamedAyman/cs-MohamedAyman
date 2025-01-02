@@ -209,7 +209,7 @@ See the Program Outcome of the selected Programs
 
 <br><br>
 
-## Data Analyst, Machine/Deep Learning Engineer, Data/ML Scientist, AI Engineer
+## Data Analyst, ML/DL Engineer, Data/ML Scientist, AI Engineer
 
 <table>
     <tbody>
