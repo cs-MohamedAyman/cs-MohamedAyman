@@ -59,7 +59,7 @@
 
 <br><br>
 
-## Data Analyst, ML/DL Engineer, Data/ML Scientist, AI Engineer
+## Data Analyst, ML/DL Engineer, Data Scientist, AI Engineer
 
 <table>
     <tbody>
