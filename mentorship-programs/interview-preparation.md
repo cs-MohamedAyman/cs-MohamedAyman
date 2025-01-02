@@ -206,3 +206,15 @@ See the Program Outcome of the selected Programs
     </tbody>
 </table>
 </details>
+
+<br><br>
+
+## Data Analyst, Machine/Deep Learning Engineer, Data/ML Scientist, AI Engineer
+
+<table>
+    <tbody>
+        <tr>
+<td width="1000px" align="center"><a href="/mentorship-programs/interview-preparation.md"><img src="/logos/program1.png" width="100%"></img></a></td>
+        </tr>
+    </tbody>
+</table>
