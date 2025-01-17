@@ -3,13 +3,13 @@
 <table>
     <tbody>
         <tr>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> Undergraduate Intern  </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> Graduate Intern       </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> Software Engineer     </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> Data Analyst          </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> ML/DL Engineer        </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> MLOps/LLMOps Engineer </a></td>
-<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"><br> ML/DL Researcher      </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> Undergraduate Intern  <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> Graduate Intern       <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> Software Engineer     <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> Data Analyst          <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> ML/DL Engineer        <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> MLOps/LLMOps Engineer <br> Skills </a></td>
+<td align="center" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md"> ML/DL Researcher      <br> Skills </a></td>
         </tr>
     </tbody>
 </table>
