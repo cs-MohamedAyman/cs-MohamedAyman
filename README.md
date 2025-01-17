@@ -3,24 +3,13 @@
 <table>
     <tbody>
         <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/problem-solving-training.md"> Mentorship Programs for Problem Solving Training </a></td>
-<td align="center" width="150px">4 Programs</td>
-        </tr>
-        <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/software-engineering-educational-projects.md"> Mentorship Programs for Software Engineering Educational Projects</a></td>
-<td align="center" width="150px">5 Programs</td>
-        </tr>
-        <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/data-science-case-studies.md"> Mentorship Programs for Data Science Case Studies</a></td>
-<td align="center" width="150px">4 Programs</td>
-        </tr>
-        <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/data-science-educational-projects.md"> Mentorship Programs for Data Science Educational Projects</a></td>
-<td align="center" width="150px">5 Programs</td>
-        </tr>
-        <tr>
-<td align="left" width="850px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/interview-preparation.md"> Mentorship Programs for Interview Preparation</a></td>
-<td align="center" width="150px">4 Programs</td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">Undergraduate Intern</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">Graduate Intern</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">Software Engineer</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">Data Analyst</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">ML/DL Engineer</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">MLOps/LLMOps Engineer</a></td>
+<td align="left" width="142px"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/my-programs.md">ML/DL Researcher</a></td>
         </tr>
     </tbody>
 </table>
