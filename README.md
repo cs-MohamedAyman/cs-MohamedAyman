@@ -1,4 +1,4 @@
-# * My Mentorship Programs
+# * [My Mentorship Programs](/mentorship-programs/my-programs.md)
 
 <table>
     <tbody>
