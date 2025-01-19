@@ -30,32 +30,6 @@
 </details>
 
 <br>
-<a href="/certificates/README.md"><img align="right" width="80" src="/logos/deeplearningai.png"></img></a>
-
-## DeepLearning.AI
-
-<details>
-    <summary>(6 attachments)</summary>
-    <br>
-<table>
-    <tbody>
-            <tr>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai01.png"></img></td>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai02.png"></img></td>
-            </tr>
-            <tr>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai03.png"></img></td>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai04.png"></img></td>
-            </tr>
-            <tr>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai05.png"></img></td>
-<td><img src="/certificates/deeplearning.ai/deeplearning.ai06.png"></img></td>
-            </tr>
-    </tbody>
-</table>
-</details>
-
-<br>
 <a href="/certificates/README.md"><img align="right" width="80" src="/logos/datacamp.png"></img></a>
 
 ## DataCamp
@@ -80,6 +54,32 @@
             <tr>
 <td><img src="/certificates/datacamp/datacamp07.png"></img></td>
 <td><img src="/certificates/datacamp/datacamp08.png"></img></td>
+            </tr>
+    </tbody>
+</table>
+</details>
+
+<br>
+<a href="/certificates/README.md"><img align="right" width="80" src="/logos/deeplearningai.png"></img></a>
+
+## DeepLearning.AI
+
+<details>
+    <summary>(6 attachments)</summary>
+    <br>
+<table>
+    <tbody>
+            <tr>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai01.png"></img></td>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai02.png"></img></td>
+            </tr>
+            <tr>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai03.png"></img></td>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai04.png"></img></td>
+            </tr>
+            <tr>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai05.png"></img></td>
+<td><img src="/certificates/deeplearning.ai/deeplearning.ai06.png"></img></td>
             </tr>
     </tbody>
 </table>
