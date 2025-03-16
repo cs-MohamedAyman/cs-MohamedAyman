@@ -27,23 +27,10 @@
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/icons/agenda.png"></img></a>
+## Undergraduate Intern Skills
 
-## Table of Contents
-  * [Undergraduate Intern Skills](#Undergraduate-Intern)
-  * [Graduate Intern Skills](#Graduate-Intern)
-  * [Software Engineer Skills](#Software-Engineer)
-  * [DevOps Engineer Skills](#DevOps-Engineer)
-  * [Data Analyst Skills](#Data-Analyst)
-  * [ML/DL Engineer Skills](#MLDL-Engineer)
-  * [MLOps Engineer Skills](#MLOps-Engineer)
-  * [ML/DL Researcher Skills](#MLDL-Researcher)
-
-<br><br>
-
-
-## Undergraduate Intern
-
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -51,9 +38,12 @@
         </tr>
     </tbody>
 </table>
+</details>
 
-## Graduate Intern
+## Graduate Intern Skills
 
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -61,9 +51,12 @@
         </tr>
     </tbody>
 </table>
+</details>
 
-## Software Engineer
+## Software Engineer Skills
 
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -71,12 +64,15 @@
         </tr>
     </tbody>
 </table>
+</details>
 
-## DevOps Engineer
+## DevOps Engineer Skills
 * coming soon
 
-## Data Analyst
+## Data Analyst Skills
 
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -84,9 +80,12 @@
         </tr>
     </tbody>
 </table>
+</details>
 
-## ML/DL Engineer
+## ML/DL Engineer Skills
 
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -94,9 +93,12 @@
         </tr>
     </tbody>
 </table>
+</details>
 
-## MLOps Engineer
+## MLOps Engineer Skills
 
+<details>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -104,6 +106,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## ML/DL Researcher
 * coming soon
