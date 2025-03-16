@@ -110,3 +110,14 @@
 
 ## ML/DL Researcher
 * coming soon
+
+<br><br>
+
+<table>
+    <tbody>
+<tr>
+<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="/icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>looking for a mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
+</tr>
+    </tbody>
+</table>
