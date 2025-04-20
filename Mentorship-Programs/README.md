@@ -241,9 +241,8 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">07  Git Foundations & Linux Command Line</h3>
-* Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving. <br> 
-<br>
+<h3 align="left">07  Graphical User Interface (GUI)</h3>
+* GUI Concepts, Windows, Icons, Menus, Pointers (WIMP), Event-Driven Programming, Widgets & Controls, Buttons, Labels, Text Fields, Dialog Boxes & Tooltips, Menus & Toolbars, Tabs & Panels, Forms & Input Validation, Event Handling, State Management, Drawing & Rendering, Animation & Transitions. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
