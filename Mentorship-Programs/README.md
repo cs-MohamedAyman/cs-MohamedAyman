@@ -773,7 +773,7 @@
 * Context Setting, Few-Shot Prompting, Input-Output Formatting, Task-Specific Instructions, Prompt Templates, Chaining Prompts, Role-Based Prompts, Iterative Refinement, Temperature, Prompt Testing, Prompt Optimization, Evaluation of Prompt Effectiveness. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
+* 4 <a href="/Data-Science-Case-Studies/level-5/README.md">Case Studies</a><br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
@@ -786,7 +786,7 @@
 * Fine-Tuning, Transformer Architecture, Attention Mechanism, Encoder-Decoder Models, Autoregressive Models, Embeddings, Transfer Learning, Prompt-Based Learning, Inference Optimization, Vector DataBases, LangChain, Retrieval Augmented Generation. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
+* 4 <a href="/Data-Science-Case-Studies/level-5/README.md">Case Studies</a><br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
