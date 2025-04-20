@@ -9,6 +9,8 @@
     </tbody>
 </table>
 
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/icons/agenda.png"></img></a>
+
 ## Program Summary
 
 <details>
@@ -162,8 +164,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp04.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp03.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp06.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp05.png"></img></a>
 
 ## Graduate Intern Skills
 
@@ -264,8 +266,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp06.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp05.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp10.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp09.png"></img></a>
 
 ## Software Engineer Skills
 
@@ -368,8 +370,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp08.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp07.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp12.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp11.png"></img></a>
 
 ## DevOps Engineer Skills
 
@@ -432,8 +434,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp10.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp09.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp16.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp15.png"></img></a>
 
 ## Data Analyst Skills
 
@@ -542,8 +544,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp12.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp11.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp18.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp17.png"></img></a>
 
 ## ML/DL Engineer Skills
 
@@ -668,8 +670,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp14.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp13.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp24.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp23.png"></img></a>
 
 ## MLOps Engineer Skills
 
@@ -758,8 +760,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp16.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp15.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp28.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp27.png"></img></a>
 
 ## ML/DL Researcher
 
