@@ -704,7 +704,7 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">03  Building APIs in Python</h3>
+<h3 align="left">03  Building APIs in Python/Golang</h3>
 * API Requests, API Authentication, REST API, FastAPI Basics, JSON CRUD API, Unit Testing, Calling External APIs, Moderation and Validation. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
