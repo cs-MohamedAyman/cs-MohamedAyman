@@ -9,7 +9,7 @@
     </tbody>
 </table>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/icons/agenda.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/agenda.png"></img></a>
 
 ## Program Summary
 
@@ -63,8 +63,8 @@
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp02.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp01.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp02.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp01.png"></img></a>
 
 ## Undergraduate Intern Skills
 
@@ -164,8 +164,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp06.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp05.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp06.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp05.png"></img></a>
 
 ## Graduate Intern Skills
 
@@ -265,8 +265,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp10.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp09.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp10.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp09.png"></img></a>
 
 ## Software Engineer Skills
 
@@ -369,8 +369,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp12.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp11.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp12.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp11.png"></img></a>
 
 ## DevOps Engineer Skills
 
@@ -433,8 +433,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp16.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp15.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp16.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp15.png"></img></a>
 
 ## Data Analyst Skills
 
@@ -543,8 +543,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp18.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp17.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp18.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp17.png"></img></a>
 
 ## ML/DL Engineer Skills
 
@@ -669,8 +669,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp24.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp23.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp24.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp23.png"></img></a>
 
 ## MLOps Engineer Skills
 
@@ -705,7 +705,8 @@
         <tr>
 <td width="500px" align="left">
 <h3 align="left">03  Building APIs in Python/Golang</h3>
-* API Requests, API Authentication, REST API, FastAPI Basics, JSON CRUD API, Unit Testing, Calling External APIs, Moderation and Validation. <br> 
+* RESTful API Concepts, HTTP Methods (GET, POST, PUT, DELETE), Status Codes & Headers, Request/Response Cycle, Routing & Endpoints, URL Parameters & Query Strings, Request Parsing, JSON Serialization/Deserialization, Middleware & Hooks
+Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Upload/Download, API Keys, JWT (JSON Web Tokens), OAuth2, Role-Based Access Control (RBAC), Unit/Integration Testing, API Testing Tools (Postman, curl, HTTPie), Swagger/OpenAPI Documentation, Caching & Rate Limiting, API Versioning, Environment Variables & Config, Containerization (Docker), CI/CD for API Deployment. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
@@ -717,7 +718,7 @@
 </td>
 <td width="500px" align="left">
 <h3 align="left">04  Machine Learning in Production</h3>
-* MLOps Concepts, Deploying and Maintaining ML App in Production, MLflow Models, ML Monitoring, Covariate Shift, Concept Drift Detection. <br> 
+* Model Deployment, Inference Pipeline, Batch vs Real-time Inference, Online vs Offline Learning, ML Architecture Patterns, Model Serialization (Pickle, ONNX, SavedModel), Docker Containers, REST/gRPC Serving, Model Versioning, Model Registry, Model Serving (FastAPI, Flask, TensorFlow Serving, TorchServe), API Gateway, Load Balancing, Scalability & Auto-Scaling, Cloud Deployment (AWS/GCP/Azure), Prediction Monitoring, Model Drift & Data Drift, Performance Metrics (Latency, Throughput), Logging (Input/Output/Error Logs), Alerting & Dashboards (Prometheus, Grafana), MLOps Pipelines, Continuous Training (CT), ML Workflow Orchestration (Airflow, Kubeflow, MLflow). <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
@@ -759,8 +760,8 @@
 </table>
 </details>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp28.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/emp27.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp28.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp27.png"></img></a>
 
 ## ML/DL Researcher
 
