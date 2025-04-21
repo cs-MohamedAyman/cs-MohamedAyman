@@ -375,7 +375,7 @@
 ## DevOps Engineer Skills
 
 <details>
-<summary>4 Skills</summary>
+<summary>6 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -404,7 +404,33 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">03  Cloud Computing (AWS)</h3>
+<h3 align="left">03  Building APIs in C#/Java</h3>
+* RESTful API Concepts, HTTP Methods (GET, POST, PUT, DELETE), Status Codes & Headers, Request/Response Cycle, Routing & Endpoints, URL Parameters & Query Strings, Request Parsing, JSON Serialization/Deserialization, Middleware & Hooks
+Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Upload/Download, API Keys, JWT (JSON Web Tokens), OAuth2, Role-Based Access Control (RBAC), Unit/Integration Testing, API Testing Tools (Postman, curl, HTTPie), Swagger/OpenAPI Documentation, Caching & Rate Limiting, API Versioning, Environment Variables & Config, Containerization (Docker), CI/CD for API Deployment. <br> 
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+<td width="500px" align="left">
+<h3 align="left">04  Software Engineering in Production</h3>
+* Reliability & Availability, Scalability & Performance, Maintainability & Observability, Backward Compatibility, Fault Tolerance, Microservices Architecture, Monolith vs Distributed Systems, API Design (REST/gRPC), Design Patterns, Service-Oriented Architecture (SOA), Infrastructure as Code (Terraform, CloudFormation), Containerization (Docker), Orchestration (Kubernetes), Blue-Green / Canary Deployments, Rollback Strategy, Logging (Structured Logs, Log Rotation), Metrics (Latency, Throughput, Error Rate), Tracing (OpenTelemetry, Jaeger), Alerting (Prometheus, Grafana, PagerDuty), Health Checks. <br> 
+<br>
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">05  Cloud Computing (AWS)</h3>
 * Cloud Deployment, AWS Concepts, AWS Services, AWS Compute Services, AWS Databases, Networking, and Storage, AWS Machine Learning, AWS Security, Cost and Resource Management. <br> 
 <br>
 <br>
@@ -417,7 +443,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">04  Cloud Computing (Microsoft Azure)</h3>
+<h3 align="left">06  Cloud Computing (Microsoft Azure)</h3>
 * Cloud Deployment, Azure Concepts, Azure Services, Azure Compute Services, Azure Databases, Networking, and Storage, Azure Machine Learning, Azure Security, Cost and Resource Management. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
