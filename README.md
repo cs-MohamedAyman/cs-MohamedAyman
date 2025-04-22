@@ -65,21 +65,21 @@
 <td align="center" width="20%"><a href="/Data-Science-Case-Studies/README.md">                 Data Science Case Studies                 </a></td>
 <td align="center" width="20%"><a href="/Software-Engineering-Educational-Projects/README.md"> Software Engineering Educational Projects </a></td>
 <td align="center" width="20%"><a href="/Data-Science-Educational-Projects/README.md">         Data Science Educational Projects         </a></td>
-<td align="center" width="20%"><a href="/Interview-Preparation/README.md">                     Interview Preparation                     </a></td>
+<td align="center" width="20%"><a href="/eLearning-Platform-Resources/README.md">              eLearning Platform Resources              </a></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/Problem-Solving-Training/README.md">                              <img src="/logos/problem-solving-training.png"                  width="80%"></img></a></td>
-<td align="center"><a href="/Data-Science-Case-Studies/README.md">                             <img src="/logos/data-science-case-studies.png"                 width="80%"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">             <img src="/logos/software-engineering-educational-projects.png" width="80%"></img></a></td>
-<td align="center"><a href="/Data-Science-Educational-Projects/README.md">                     <img src="/logos/data-science-educational-projects.png"         width="80%"></img></a></td>
-<td align="center"><a href="/Interview-Preparation/README.md">                                 <img src="/logos/interview-preparation.png"                     width="80%"></img></a></td>
+<td align="center"><a href="/Problem-Solving-Training/README.md">                              <img src="/logos/problem-solving-training.png"                  width="60%"></img></a></td>
+<td align="center"><a href="/Data-Science-Case-Studies/README.md">                             <img src="/logos/data-science-case-studies.png"                 width="60%"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">             <img src="/logos/software-engineering-educational-projects.png" width="60%"></img></a></td>
+<td align="center"><a href="/Data-Science-Educational-Projects/README.md">                     <img src="/logos/data-science-educational-projects.png"         width="60%"></img></a></td>
+<td align="center"><a href="/eLearning-Platform-Resources/README.md">                          <img src="/logos/eLearning-platform-resources.png"              width="60%"></img></a></td>
         </tr>
     </tbody>
     <thead>
         <tr>
-<td align="center" width="20%"><a href="/eLearning-Platform-Resources/README.md">              eLearning Platform Resources              </a></td>
+<td align="center" width="20%"><a href="/Interview-Preparation/README.md">                     Interview Preparation                     </a></td>
 <td align="center" width="20%"><a href="/Graduation-Project-Steps/README.md">                  Graduation Project Steps                  </a></td>
 <td align="center" width="20%"><a href="/Research-Paper-Reviews/README.md">                    Research Paper Reviews                    </a></td>
 <td align="center" width="20%"><a href="/Reference-Textbook-Notes/README.md">                  Reference Textbook Notes                  </a></td>
@@ -88,11 +88,11 @@
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/eLearning-Platform-Resources/README.md">                          <img src="/logos/eLearning-platform-resources.png"              width="80%"></img></a></td>
-<td align="center"><a href="/Graduation-Project-Steps/README.md">                              <img src="/logos/graduation-project-steps.png"                  width="80%"></img></a></td>
-<td align="center"><a href="/Research-Paper-Reviews/README.md">                                <img src="/logos/research-paper-reviews.png"                    width="80%"></img></a></td>
-<td align="center"><a href="/Reference-Textbook-Notes/README.md">                              <img src="/logos/reference-textbook-notes.png"                  width="80%"></img></a></td>
-<td align="center"><a href="/Programming-for-Kids/README.md">                                  <img src="/logos/programming-for-kids.png"                      width="80%"></img></a></td>
+<td align="center"><a href="/Interview-Preparation/README.md">                                 <img src="/logos/interview-preparation.png"                     width="60%"></img></a></td>
+<td align="center"><a href="/Graduation-Project-Steps/README.md">                              <img src="/logos/graduation-project-steps.png"                  width="60%"></img></a></td>
+<td align="center"><a href="/Research-Paper-Reviews/README.md">                                <img src="/logos/research-paper-reviews.png"                    width="60%"></img></a></td>
+<td align="center"><a href="/Reference-Textbook-Notes/README.md">                              <img src="/logos/reference-textbook-notes.png"                  width="60%"></img></a></td>
+<td align="center"><a href="/Programming-for-Kids/README.md">                                  <img src="/logos/programming-for-kids.png"                      width="60%"></img></a></td>
         </tr>
     </tbody>
 </table>
