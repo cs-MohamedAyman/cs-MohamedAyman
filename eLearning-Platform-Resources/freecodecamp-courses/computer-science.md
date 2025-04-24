@@ -534,7 +534,6 @@
 <td align="left"><a href="https://youtube.com/watch?v=VvKcxBBqQJ8">A-Level Computer Science – Programming Concepts for Beginners Course in Visual Basic VB.NET</a></td>
 <td align="center">3</td>
             </tr>
-
     </tbody>
 </table>
 </details>
