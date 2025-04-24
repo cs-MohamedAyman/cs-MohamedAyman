@@ -69,7 +69,7 @@
 ## Data Exploration
 
 <details>
-    <summary>(10 courses)</summary>
+    <summary>(15 courses)</summary>
     <br>
 <table>
     <thead>
@@ -130,6 +130,36 @@
 <td align="left"><a href="https://youtube.com/watch?v=mZomeS0tLxY">jamovi for Data Analysis - Full Tutorial</a></td>
 <td align="center">5</td>
             </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=O3m9m6Ie4gY">Excel Formulas & Functions You Should Know [Full Course]</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">12</td>
+<td align="left"><a href="https://youtube.com/watch?v=BBk3DXgodmI">33 Spreadsheet Projects Course for Beginners – Excel and Google Sheets</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=cWGQncQxaHI">Learn Google Sheets – Full Course for Beginners</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=VV8iRJ-DS0A">Excel Data Visualization Course – Guide to Charts & Dashboards</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=NnSIKA77pD8">Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=mXW7JHJM34k">Intuitive SQL For Data Analytics - Tutorial</a></td>
+<td align="center">11</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -189,6 +219,21 @@
 <td align="center">08</td>
 <td align="left"><a href="https://youtube.com/watch?v=sD468LfeVdc">Data Science Job Interview – Full Mock Interview</a></td>
 <td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">09</td>
+<td align="left"><a href="https://youtube.com/watch?v=BV03sQ0srcU">Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=FTpmwX94_Yo">Python for Data Science Course – Hands-on Projects with EDA, AB Testing & Business Intelligence</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=KZe0C0Qq4p0">Data Science Essentials – Crash Course in A/B Testing with Case Study</a></td>
+<td align="center">3</td>
             </tr>
     </tbody>
 </table>

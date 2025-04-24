@@ -115,6 +115,11 @@
 <td align="left"><a href="https://youtube.com/watch?v=JnTa9XtvmfI">Linear Algebra - Full College Course</a></td>
 <td align="center">12</td>
             </tr>
+            <tr>
+<td align="center">05</td>
+<td align="left"><a href="https://youtube.com/watch?v=Y8oZtFYweTY">College Precalculus – Full Course with Python Code</a></td>
+<td align="center">12</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -180,6 +185,16 @@
 <td align="center">09</td>
 <td align="left"><a href="https://youtube.com/watch?v=SiBw7os-_zI">Intro to Object Oriented Programming - Crash Course</a></td>
 <td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=0ffwhxW-uyw">C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=PaPN51Mm5qQ">Learn C Programming and OOP with Dr. Chuck</a></td>
+<td align="center">20</td>
             </tr>
     </tbody>
 </table>
@@ -281,6 +296,11 @@
 <td align="center">16</td>
 <td align="left"><a href="https://youtube.com/watch?v=8DvywoWv6fI">Python for Everybody - Full University Python Course</a></td>
 <td align="center">14</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=iLRZi0Gu8Go">Python Object Oriented Programming (OOP) - Full Course for Beginners</a></td>
+<td align="center">3</td>
             </tr>
     </tbody>
 </table>
@@ -504,6 +524,17 @@
 <td align="left"><a href="https://youtube.com/watch?v=wfWxdh-_k_4">Create a C# Application from Start to Finish - Complete Course</a></td>
 <td align="center">24</td>
             </tr>
+            <tr>
+<td align="center">06</td>
+<td align="left"><a href="https://youtube.com/watch?v=YrtFtdTTfv0">Learn C# Programming – Full Course with Mini-Projects</a></td>
+<td align="center">9</td>
+            </tr>
+            <tr>
+<td align="center">07</td>
+<td align="left"><a href="https://youtube.com/watch?v=VvKcxBBqQJ8">A-Level Computer Science – Programming Concepts for Beginners Course in Visual Basic VB.NET</a></td>
+<td align="center">3</td>
+            </tr>
+
     </tbody>
 </table>
 </details>
@@ -513,7 +544,7 @@
 ## Data Structures
 
 <details>
-    <summary>(10 courses)</summary>
+    <summary>(15 courses)</summary>
     <br>
 <table>
     <thead>
@@ -583,6 +614,16 @@
 <td align="center">12</td>
 <td align="left"><a href="https://youtube.com/watch?v=O1KeXo8lE8A">Stack Data Structure Tutorial – Solve Coding Challenges</a></td>
 <td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=T0u5nwSA0w0">Neetcode 150 Course - All Coding Interview Questions Solved</a></td>
+<td align="center">40</td>
+            </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=k1IaYPGel3s">Intro to Stacks – Data Structure Explained</a></td>
+<td align="center">3</td>
             </tr>
     </tbody>
 </table>
@@ -708,7 +749,7 @@
 ## Operating Systems
 
 <details>
-    <summary>(10 courses)</summary>
+    <summary>(15 courses)</summary>
     <br>
 <table>
     <thead>
@@ -764,6 +805,31 @@
 <td align="left"><a href="https://youtube.com/watch?v=RZ4p-saaQkc">Vim Tutorial for Beginners</a></td>
 <td align="center">2</td>
             </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=iSiyDHobXHA">Linux Device Drivers Development Course for Beginners</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=86FAWCzIe_4">CUDA Programming Course – High-Performance Computing with GPUs</a></td>
+<td align="center">12</td>
+            </tr>
+            <tr>
+<td align="center">12</td>
+<td align="left"><a href="https://youtube.com/watch?v=yK1uBHPdp30">Operating Systems Course for Beginners</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=gvQGKRlgop4">Multithreading for Beginners</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=6WatcfENsOU">Linux Crash Course for Beginners with Labs</a></td>
+<td align="center">3</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -773,7 +839,7 @@
 ## Go Programming Language
 
 <details>
-    <summary>(5 courses)</summary>
+    <summary>(10 courses)</summary>
     <br>
 <table>
     <thead>
@@ -814,6 +880,16 @@
 <td align="left"><a href="https://youtube.com/watch?v=un6ZyFkqFKo">Go Programming – Golang Course with Bonus Projects</a></td>
 <td align="center">10</td>
             </tr>
+            <tr>
+<td align="center">07</td>
+<td align="left"><a href="https://youtube.com/watch?v=akosxcqJorU">Go for Absolute Beginners – Tutorial</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=IoY6bE--A54">Distributed File Storage In Go – Full Course</a></td>
+<td align="center">10</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -823,7 +899,7 @@
 ## Git Version Control System
 
 <details>
-    <summary>(5 courses)</summary>
+    <summary>(10 courses)</summary>
     <br>
 <table>
     <thead>
@@ -866,6 +942,26 @@
             </tr>
             <tr>
 <td align="center">07</td>
+<td align="left"><a href="https://youtube.com/watch?v=Jdc0i7RcBv8">GitHub Foundations Certification Course – Pass the exam in 10 hours!</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=i740xlsqxEM">GitHub Advanced Security Certification – Pass the Exam!</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">09</td>
+<td align="left"><a href="https://youtube.com/watch?v=zTjRZNkhiEU">Learn Git – Full Course for Beginners</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=Tz7FsunBbfQ">GitHub Actions Certification – Full Course to PASS the Exam</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
 <td align="left"><a href="https://youtube.com/watch?v=Jdc0i7RcBv8">GitHub Foundations Certification Course – Pass the exam in 10 hours!</a></td>
 <td align="center">10</td>
             </tr>

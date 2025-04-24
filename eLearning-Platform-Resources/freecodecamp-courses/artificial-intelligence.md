@@ -9,7 +9,7 @@
 ## Machine Learning
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(25 courses)</summary>
     <br>
 <table>
     <thead>
@@ -89,6 +89,56 @@
 <td align="center">14</td>
 <td align="left"><a href="https://youtube.com/watch?v=RiCQzBluTxU">Gradio Course - Create User Interfaces for Machine Learning Models</a></td>
 <td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=PcbuKRNtCUc">Essential Machine Learning and AI Concepts Animated</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=tmB5JIX3Lxk">Intro to Machine Learning featuring Generative AI</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=QCPJ0VdpM00">Linear Algebra for Machine Learning</a></td>
+<td align="center">11</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=F0GQ0l2NfHA">Generative AI for Developers – Comprehensive Course</a></td>
+<td align="center">22</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=o6vbe5G7xNo">End-to-End Machine Learning Project – AI, MLOps</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=ECotpcPCTaU">Machine Learning in JavaScript with ml5.js</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=rSjt1E9WHaQ">Linear Algebra Course – Mathematics for Machine Learning and Generative AI</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">22</td>
+<td align="left"><a href="https://youtube.com/watch?v=y4SLh1cpap4">Non-Technical Intro to Generative AI</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">23</td>
+<td align="left"><a href="https://youtube.com/watch?v=bmmQA8A-yUA">Machine Learning in 2024 – Beginner's Course</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">24</td>
+<td align="left"><a href="https://youtube.com/watch?v=0oyDqO8PjIg">AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science</a></td>
+<td align="center">11</td>
             </tr>
     </tbody>
 </table>
@@ -195,6 +245,11 @@
 <td align="left"><a href="https://youtube.com/watch?v=tPYj3fFJGjk">TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial</a></td>
 <td align="center">7</td>
             </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=VgzHT9quo5c">Understanding AI from Scratch – Neural Networks Course</a></td>
+<td align="center">4</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -204,7 +259,7 @@
 ## Deep Learning
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -294,6 +349,36 @@
 <td align="center">16</td>
 <td align="left"><a href="https://youtube.com/watch?v=8m3LvPg8EuI">TensorFlow Course – Building and Evaluating Medical AI Models</a></td>
 <td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=E0bwEAWmVEM">Learn PyTorch in 5 Projects – Tutorial</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=4XgDdxpXHEQ">Vision Transformer from Scratch Tutorial</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=onU5Hbb3qao">Understanding Deep Learning Research Tutorial - Theory, Code and Math</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=kG9l41Dtuyo">Build a Stable Diffusion VAE From Scratch using Pytorch</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=HJd1I3FdSnY">Deep Learning Course for Beginners</a></td>
+<td align="center">14</td>
+            </tr>
+            <tr>
+<td align="center">22</td>
+<td align="left"><a href="https://youtube.com/watch?v=BAregq0sdyY">Deep Learning Interview Prep Course</a></td>
+<td align="center">4</td>
             </tr>
     </tbody>
 </table>
@@ -416,10 +501,10 @@
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="/logos/generative-adversarial-network.png"></img></a>
 
-## Prompt Engineering
+## Large Language Models (LLMs)
 
 <details>
-    <summary>(10 courses)</summary>
+    <summary>(30 courses)</summary>
     <br>
 <table>
     <thead>
@@ -469,6 +554,111 @@
 <td align="center">08</td>
 <td align="left"><a href="https://youtube.com/watch?v=x0AnCE9SE4A">LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2</a></td>
 <td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">09</td>
+<td align="left"><a href="https://youtube.com/watch?v=biveB0gOlak">Understand and Code Llama 4 From Scratch</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=T23Bs75F7ZQ">Data Engineering with Python and AI/LLMs – Data Loading Tutorial</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=9Ge0sMm65jo">Train Your Own LLM – Tutorial</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">12</td>
+<td align="left"><a href="https://youtube.com/watch?v=5avSMc79V-w">Code DeepSeek V3 From Scratch in Python - Full Course</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=K34gBCjzni8">DeepSeek R1 Theory Tutorial – Architecture, GRPO, KL Divergence</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=b-JFDTZ5e1U">Build a Full Stack AI-Powered Web App with ChatGPT API</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=nYXVvK-Wmn0">AI Engineer Roadmap – How to Learn AI in 2025</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=_CXwZ5xyFno">DeepSeek-R1 Crash Course</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=Q7mS1VHm3Yw">LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=nJ25yl34Uqw">GenAI Essentials – Full Course for Beginners</a></td>
+<td align="center">23</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=GWB9ApTPTv4">Ollama Course – Build AI Apps Locally</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=d-VKYF4Zow0">Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=QfJB9d0J3Iw">Learn Claude AI – Build Text Summarizers, Image Describers, and More with the Anthropic API</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">22</td>
+<td align="left"><a href="https://youtube.com/watch?v=3-4qAkFRpAk">Multimodal Data Analysis with LLMs and Python – Tutorial</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">23</td>
+<td align="left"><a href="https://youtube.com/watch?v=vXjOywyMBN8">Gemini AI MultiModal Model Course</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">24</td>
+<td align="left"><a href="https://youtube.com/watch?v=ea2W8IogX80">RAG Fundamentals and Advanced Techniques – Full Course</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">25</td>
+<td align="left"><a href="https://youtube.com/watch?v=mNMDd6D1om8">Learn Mistral AI – JavaScript Tutorial</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">26</td>
+<td align="left"><a href="https://youtube.com/watch?v=iOdFUJiB0Zc">Fine Tuning LLM Models – Generative AI Course</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">27</td>
+<td align="left"><a href="https://youtube.com/watch?v=sVcwVQRHIc8">Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">28</td>
+<td align="left"><a href="https://youtube.com/watch?v=5kJv254sebQ">Easily Automate Business Tasks – No-Code Automation Course</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">29</td>
+<td align="left"><a href="https://youtube.com/watch?v=DJtX3S7qx2s">Google Gemini AI Course for Beginners</a></td>
+<td align="center">2</td>
             </tr>
     </tbody>
 </table>
@@ -534,6 +724,16 @@
 <td align="center">09</td>
 <td align="left"><a href="https://youtube.com/watch?v=qDunJ0wVIec">Build and Deploy Notion Clone – Full Stack Tutorial (NextJS 13, DALL•E, DrizzleORM, OpenAI, Vercel)</a></td>
 <td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=Yjy837dDvOY">Intro to AI Engineering – OpenAI JavaScript Tutorial</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=qHPonmSX4Ms">OpenAI Assistants API – Course for Beginners</a></td>
+<td align="center">4</td>
             </tr>
     </tbody>
 </table>
