@@ -1,4 +1,4 @@
-<a href="https://freecodecamp.com/"><img align="right" width="160" src="/logos/freecodecamp.png"></img></a>
+<a href="https://freecodecamp.com/"><img align="right" width="120" src="/logos/freecodecamp.png"></img></a>
 
 # Computer Science Courses
 
