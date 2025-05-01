@@ -803,7 +803,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * 4 <a href="/Data-Science-Case-Studies/level-5/README.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/data-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/artificial-intelligence.md">Coursera Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
@@ -816,7 +816,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * 4 <a href="/Data-Science-Case-Studies/level-5/README.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/data-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/artificial-intelligence.md">Coursera Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
