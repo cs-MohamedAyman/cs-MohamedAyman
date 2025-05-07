@@ -271,7 +271,7 @@
 ## Software Engineer Skills
 
 <details>
-<summary>8 Skills</summary>
+<summary>10 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -363,6 +363,18 @@
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">09  System Design Principles</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">10  Microservices Architecture Fundamentals</h3>
+* coming soon <br> 
+<br>
 </td>
         </tr>
     </tbody>
@@ -465,12 +477,12 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 ## Data Analyst Skills
 
 <details>
-<summary>8 Skills</summary>
+<summary>10 Skills</summary>
 <table>
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Python Programming</h3>
+<h3 align="left">01  Python/R Programming</h3>
 * Data Types, Conditions, Loops, Functions, Modules, Packages, OOP Concepts, Exception Handling, File Handling, Debugging, Unit Testing, Data Serialization. <br> 
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
@@ -542,7 +554,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">07  SQL Fundamentals</h3>
+<h3 align="left">07  SQL/NoSQL Databases Fundamentals</h3>
 * Basic Syntax, Data Definition Language, Data Manipulation Language, Querying Data, Joins, Aggregating Data, Subqueries and Nested Queries. <br> 
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Case Studies</a><br> 
@@ -565,6 +577,18 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
         </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">09  Dashboard Development using PowerBI</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">10  Dashboard Development using Tableau</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -575,7 +599,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 ## ML/DL Engineer Skills
 
 <details>
-<summary>8 Skills</summary>
+<summary>10 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -691,6 +715,18 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
         </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">09  Hyperparameter Tuning</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">10  Model Deployment</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -789,10 +825,71 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp28.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp27.png"></img></a>
 
+## Data Engineer
+
+<details>
+<summary>8 Skills</summary>
+<table>
+    <tbody>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">01  Scala/Java Programming</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">02  SQL/NoSQL Databases Fundamentals</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">03  Data Warehousing Fundamentals</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">04  Big Data Ecosystem</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">05  Streaming Data Processing</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">06  Data Pipeline Development</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">07  Data Quality Management Fundamentals</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">08  Data Security and Governance Fundamentals</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp30.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp29.png"></img></a>
+
 ## ML/DL Researcher
 
 <details>
-<summary>2 Skills</summary>
+<summary>6 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -810,7 +907,27 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">02  Large Language Models Fundamentals</h3>
+<h3 align="left">02  Transformer Architectures</h3>
+* coming soon <br> 
+<br>
+<br><br><br><br><br><br><br><br><br><br><br>
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">03  Natural Language Processing Advanced Techniques</h3>
+* coming soon <br> 
+<br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">04  Computer Vision Advanced Techniques</h3>
+* coming soon <br> 
+<br>
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">05  Large Language Model (LLM) Fine-tuning Fundamentals</h3>
 * Fine-Tuning, Transformer Architecture, Attention Mechanism, Encoder-Decoder Models, Autoregressive Models, Embeddings, Transfer Learning, Prompt-Based Learning, Inference Optimization, Vector DataBases, LangChain, Retrieval Augmented Generation. <br> 
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -821,6 +938,12 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * <a href="/eLearning-Platform-Resources/coursera-specializations/artificial-intelligence.md">Coursera Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
 * Udemy Courses <br> 
+</td>
+<td width="500px" align="left">
+<h3 align="left">06  Large Vision Model (LVM) Fine-tuning Fundamentals</h3>
+* coming soon <br> 
+<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 </td>
         </tr>
     </tbody>
