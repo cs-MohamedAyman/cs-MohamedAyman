@@ -825,7 +825,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp28.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp27.png"></img></a>
 
-## Data Engineer
+## Data Engineer Skills
 
 <details>
 <summary>8 Skills</summary>
@@ -886,7 +886,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp30.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp29.png"></img></a>
 
-## ML/DL Researcher
+## ML/DL Researcher Skills
 
 <details>
 <summary>6 Skills</summary>
