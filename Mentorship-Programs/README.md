@@ -276,7 +276,7 @@
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Database Systems</h3>
+<h3 align="left">01  SQL/NoSQL Databases Fundamentals</h3>
 * Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
