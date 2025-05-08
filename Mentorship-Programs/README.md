@@ -392,7 +392,7 @@
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Git Foundations & Linux Command Line</h3>
+<h3 align="left">01  Git and Shell Foundations</h3>
 * Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -742,7 +742,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Git Foundations & Linux Command Line</h3>
+<h3 align="left">01  Git and Shell Foundations</h3>
 * Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
