@@ -32,7 +32,7 @@
 <td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Data Analyst         Skills </a></td>
 <td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer       Skills </a></td>
 <td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> MLOps Engineer       Skills </a></td>
-<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> ML/DL Researcher     Skills </a></td>
+<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Data Engineer        Skills </a></td>
         </tr>
         <tr>
 <td align="center">
