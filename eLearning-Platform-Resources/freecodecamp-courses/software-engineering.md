@@ -1,4 +1,4 @@
-<a href="https://freecodecamp.com/"><img align="right" width="160" src="/logos/freecodecamp.png"></img></a>
+<a href="https://freecodecamp.com/"><img align="right" width="120" src="/logos/freecodecamp.png"></img></a>
 
 # Software Engineering Courses
 
@@ -76,6 +76,16 @@
 <td align="left"><a href="https://youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></td>
 <td align="center">14</td>
             </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=FiXOaYnW64w">Learn High-Level System Design by Coding YouTube – Full Course</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=F2FmTdLtb_4">System Design Concepts Course and Interview Prep</a></td>
+<td align="center">1</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -86,7 +96,7 @@
 ## Java, Spring Boot
 
 <details>
-    <summary>(5 courses)</summary>
+    <summary>(10 courses)</summary>
     <br>
 <table>
     <thead>
@@ -122,6 +132,31 @@
 <td align="left"><a href="https://youtube.com/watch?v=flpmSXVTqBI">Java Testing - JUnit 5 Crash Course</a></td>
 <td align="center">1</td>
             </tr>
+            <tr>
+<td align="center">06</td>
+<td align="left"><a href="https://youtube.com/watch?v=oGhc5Z-WJSw">Spring Boot, Spring Security, JWT Course – Shopping Cart Backend Java Project</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td align="center">07</td>
+<td align="left"><a href="https://youtube.com/watch?v=QQliGCtqD2w">Java Testing with Selenium Course</a></td>
+<td align="center">8</td>
+            </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=31KTdfRH6nY">Building web applications in Java with Spring Boot 3 – Tutorial</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">09</td>
+<td align="left"><a href="https://youtube.com/watch?v=KZnQ5R8Kd4I">Java Web App with Quarkus and JPAStreamer – Tutorial</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=5rNk7m_zlAg">Spring Boot & Spring Data JPA – Complete Course</a></td>
+<td align="center">13</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -132,7 +167,7 @@
 ## C#, .Net
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -227,6 +262,26 @@
 <td align="center">17</td>
 <td align="left"><a href="https://youtube.com/watch?v=Pi46L7UYP8I">ASP.NET Core MVC Course (.NET 5)</a></td>
 <td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=rylaiB2uH2A">Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners</a></td>
+<td align="center">12</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=fv2-A5e-KHA">MongoDB Provider for EF Core – C# Tutorial</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=nKovSmd5DWY">ASP.NET Core Tutorial – Full Auction App</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=RWXKysImabs">ASP.NET Core MVC Course for Beginners (.NET 9)</a></td>
+<td align="center">2</td>
             </tr>
     </tbody>
 </table>
@@ -338,7 +393,7 @@
 ## Software Engineering Projects
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -381,8 +436,8 @@
             </tr>
             <tr>
 <td align="center">07</td>
-<td align="left"><a href="https://youtube.com/watch?v=KZnQ5R8Kd4I">Java Web App with Quarkus and JPAStreamer – Tutorial</a></td>
-<td align="center">1</td>
+<td align="left"><a href="https://youtube.com/watch?v=9Crrhz0pm8s">Spring AI Full Course with Projects – Build Smarter Spring Boot Applications</a></td>
+<td align="center">5</td>
             </tr>
             <tr>
 <td align="center">08</td>
@@ -433,6 +488,16 @@
 <td align="center">17</td>
 <td align="left"><a href="https://youtube.com/watch?v=Yg5zkd9nm6w">E-commerce Website With Django and Vue Tutorial (Django Rest Framework)</a></td>
 <td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=6SAFgcMie4U">ASP.NET Core Tutorial – Beginner to Advanced Projects</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=QtiM87MV27w">How to Build an ASP.NET Core MVC Web App – Tutorial</a></td>
+<td align="center">1</td>
             </tr>
     </tbody>
 </table>
@@ -519,6 +584,11 @@
 <td align="center">13</td>
 <td align="left"><a href="https://youtube.com/watch?v=-fW2X7fh7Yg">SQL Tutorial for Beginners (and Technical Interview Questions Solved)</a></td>
 <td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=pPqazMTzNOM">Databases In-Depth – Complete Course</a></td>
+<td align="center">4</td>
             </tr>
     </tbody>
 </table>
@@ -657,7 +727,7 @@
 ## AWS
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -733,6 +803,46 @@
 <td align="left"><a href="https://youtube.com/watch?v=KX_AfyrhlgQ">AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)</a></td>
 <td align="center">12</td>
             </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=ajExOgOCJXY">AWS Cognito Course – Authentication and Authorization</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=hyEw7dQ9-JE">AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=WZeZZ8_W-M4">AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=TTcyhhH2FWE">AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=QN574SUEP2I">Prepare for the AWS SysOps Administrator Associate (SOA-C02) – Full Course to PASS the Exam</a></td>
+<td align="center">70</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=c3Cn4xYfxJY">AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=cxgAN7T3rq8">Serverless Node.js Tutorial – Neon Serverless Postgres, AWS Lambda, Next.js, Vercel</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=Zr6fnhvJKlw">Event Driven Architecture on AWS – Course for Beginners</a></td>
+<td align="center">2</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -788,6 +898,11 @@
 <td align="center">07</td>
 <td align="left"><a href="https://youtube.com/watch?v=XcjqapXfrhk">Full Gitpod Course – ExamPro Cloud Developer Environment Certification</a></td>
 <td align="center">13</td>
+            </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=cbcd6-m8sHg">Google Cloud Digital Leader Certification Course - Pass the Exam!</a></td>
+<td align="center">7</td>
             </tr>
     </tbody>
 </table>
@@ -849,6 +964,26 @@
 <td align="center">08</td>
 <td align="left"><a href="https://youtube.com/watch?v=P3qmqUZJ7l0">Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam</a></td>
 <td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">09</td>
+<td align="left"><a href="https://youtube.com/watch?v=hHjmr_YOqnU">Azure AI Fundamentals Certification 2024 (AI-900) - Full Course to PASS the Exam</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">10</td>
+<td align="left"><a href="https://youtube.com/watch?v=scJ4mobwjBQ">Azure AI Engineer Associate Certification (AI-102) – Full Course to PASS the Exam</a></td>
+<td align="center">14</td>
+            </tr>
+            <tr>
+<td align="center">11</td>
+<td align="left"><a href="https://youtube.com/watch?v=vROMXzOWqec">How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">12</td>
+<td align="left"><a href="https://youtube.com/watch?v=11KT1hPNkY4">Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam</a></td>
+<td align="center">8</td>
             </tr>
     </tbody>
 </table>
@@ -2298,7 +2433,7 @@
 ## Web App Development Back-end Projects
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -2768,7 +2903,7 @@
 ## JavaScript, TypeScript
 
 <details>
-    <summary>(10 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -2833,6 +2968,41 @@
 <td align="center">11</td>
 <td align="left"><a href="https://youtube.com/watch?v=I549C6SmUnk">Game Development with LÖVE 2D and Lua – Full Course</a></td>
 <td align="center">12</td>
+            </tr>
+            <tr>
+<td align="center">12</td>
+<td align="left"><a href="https://youtube.com/watch?v=JHEB7RhJG1Y">Practical TypeScript – Course for Beginners</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td align="center">13</td>
+<td align="left"><a href="https://youtube.com/watch?v=KkC_wYM_Co4">Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">14</td>
+<td align="left"><a href="https://youtube.com/watch?v=zMJSyzg63o0">Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind</a></td>
+<td align="center">9</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=fP-371MN0Ck">Electron Course - Code Desktop Applications (inc. React and Typescript)</a></td>
+<td align="center">4</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=SpwzRDUQ1GI">Learn TypeScript - Full Course for Beginners</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=s5YM1kH1ht8">Full Stack Tutorial – Fiverr Clone with NextJS, React, Convex, Typescript, Tailwind CSS, ShadCN</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=R6WvJOiX99s">Code Your Own Kirby Game in a Browser – TypeScript GameDev Tutorial</a></td>
+<td align="center">2</td>
             </tr>
     </tbody>
 </table>

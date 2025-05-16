@@ -1,4 +1,4 @@
-<a href="https://freecodecamp.com/"><img align="right" width="160" src="/logos/freecodecamp.png"></img></a>
+<a href="https://freecodecamp.com/"><img align="right" width="120" src="/logos/freecodecamp.png"></img></a>
 
 # Artificial Intelligence Courses
 
@@ -9,7 +9,7 @@
 ## Machine Learning
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(25 courses)</summary>
     <br>
 <table>
     <thead>
@@ -89,6 +89,56 @@
 <td align="center">14</td>
 <td align="left"><a href="https://youtube.com/watch?v=RiCQzBluTxU">Gradio Course - Create User Interfaces for Machine Learning Models</a></td>
 <td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">15</td>
+<td align="left"><a href="https://youtube.com/watch?v=PcbuKRNtCUc">Essential Machine Learning and AI Concepts Animated</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">16</td>
+<td align="left"><a href="https://youtube.com/watch?v=tmB5JIX3Lxk">Intro to Machine Learning featuring Generative AI</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=QCPJ0VdpM00">Linear Algebra for Machine Learning</a></td>
+<td align="center">11</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=F0GQ0l2NfHA">Generative AI for Developers – Comprehensive Course</a></td>
+<td align="center">22</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=o6vbe5G7xNo">End-to-End Machine Learning Project – AI, MLOps</a></td>
+<td align="center">3</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=ECotpcPCTaU">Machine Learning in JavaScript with ml5.js</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=rSjt1E9WHaQ">Linear Algebra Course – Mathematics for Machine Learning and Generative AI</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">22</td>
+<td align="left"><a href="https://youtube.com/watch?v=y4SLh1cpap4">Non-Technical Intro to Generative AI</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">23</td>
+<td align="left"><a href="https://youtube.com/watch?v=bmmQA8A-yUA">Machine Learning in 2024 – Beginner's Course</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td align="center">24</td>
+<td align="left"><a href="https://youtube.com/watch?v=0oyDqO8PjIg">AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science</a></td>
+<td align="center">11</td>
             </tr>
     </tbody>
 </table>
@@ -195,6 +245,11 @@
 <td align="left"><a href="https://youtube.com/watch?v=tPYj3fFJGjk">TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial</a></td>
 <td align="center">7</td>
             </tr>
+            <tr>
+<td align="center">08</td>
+<td align="left"><a href="https://youtube.com/watch?v=VgzHT9quo5c">Understanding AI from Scratch – Neural Networks Course</a></td>
+<td align="center">4</td>
+            </tr>
     </tbody>
 </table>
 </details>
@@ -204,7 +259,7 @@
 ## Deep Learning
 
 <details>
-    <summary>(15 courses)</summary>
+    <summary>(20 courses)</summary>
     <br>
 <table>
     <thead>
@@ -294,6 +349,36 @@
 <td align="center">16</td>
 <td align="left"><a href="https://youtube.com/watch?v=8m3LvPg8EuI">TensorFlow Course – Building and Evaluating Medical AI Models</a></td>
 <td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">17</td>
+<td align="left"><a href="https://youtube.com/watch?v=E0bwEAWmVEM">Learn PyTorch in 5 Projects – Tutorial</a></td>
+<td align="center">6</td>
+            </tr>
+            <tr>
+<td align="center">18</td>
+<td align="left"><a href="https://youtube.com/watch?v=4XgDdxpXHEQ">Vision Transformer from Scratch Tutorial</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">19</td>
+<td align="left"><a href="https://youtube.com/watch?v=onU5Hbb3qao">Understanding Deep Learning Research Tutorial - Theory, Code and Math</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td align="center">20</td>
+<td align="left"><a href="https://youtube.com/watch?v=kG9l41Dtuyo">Build a Stable Diffusion VAE From Scratch using Pytorch</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td align="center">21</td>
+<td align="left"><a href="https://youtube.com/watch?v=HJd1I3FdSnY">Deep Learning Course for Beginners</a></td>
+<td align="center">14</td>
+            </tr>
+            <tr>
+<td align="center">22</td>
+<td align="left"><a href="https://youtube.com/watch?v=BAregq0sdyY">Deep Learning Interview Prep Course</a></td>
+<td align="center">4</td>
             </tr>
     </tbody>
 </table>
@@ -409,131 +494,6 @@
 <td align="center">07</td>
 <td align="left"><a href="https://youtube.com/watch?v=ZfQFUJhPqMM">Learn Regular Expressions (Regex) - Crash Course for Beginners</a></td>
 <td align="center">1</td>
-            </tr>
-    </tbody>
-</table>
-</details>
-
-<a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="/logos/generative-adversarial-network.png"></img></a>
-
-## Prompt Engineering
-
-<details>
-    <summary>(10 courses)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
-<th width="25px">#</th>
-<th width="1200px">Course Name</th>
-<th width="25px">Hrs</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-<td align="center">01</td>
-<td align="left"><a href="https://youtube.com/watch?v=ScKCy2udln8">Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial</a></td>
-<td align="center">4</td>
-            </tr>
-            <tr>
-<td align="center">02</td>
-<td align="left"><a href="https://youtube.com/watch?v=_ZvnD73m40o">Prompt Engineering Tutorial – Master ChatGPT and LLM Responses</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td align="center">03</td>
-<td align="left"><a href="https://youtube.com/watch?v=dJhlMn2otxA">Learn to Code using AI - ChatGPT Programming Tutorial (Full Course)</a></td>
-<td align="center">5</td>
-            </tr>
-            <tr>
-<td align="center">04</td>
-<td align="left"><a href="https://youtube.com/watch?v=GizsSo-EevA">Use ChatGPT to Code a Full Stack App – Full Course</a></td>
-<td align="center">3</td>
-            </tr>
-            <tr>
-<td align="center">05</td>
-<td align="left"><a href="https://youtube.com/watch?v=jlogLBkPZ2A">Build AI Apps with ChatGPT, DALL-E, and GPT-4 – Full Course for Beginners</a></td>
-<td align="center">5</td>
-            </tr>
-            <tr>
-<td align="center">06</td>
-<td align="left"><a href="https://youtube.com/watch?v=DJtX3S7qx2s">Google Gemini AI Course for Beginners</a></td>
-<td align="center">2</td>
-            </tr>
-            <tr>
-<td align="center">07</td>
-<td align="left"><a href="https://youtube.com/watch?v=yfHHvmaMkcA">Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td align="center">08</td>
-<td align="left"><a href="https://youtube.com/watch?v=x0AnCE9SE4A">LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2</a></td>
-<td align="center">4</td>
-            </tr>
-    </tbody>
-</table>
-</details>
-
-<a href="/eLearning-Platform-Resources/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="/logos/openai.png"></img></a>
-
-## OpenAI APIs
-
-<details>
-    <summary>(10 courses)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
-<th width="25px">#</th>
-<th width="1200px">Course Name</th>
-<th width="25px">Hrs</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-<td align="center">01</td>
-<td align="left"><a href="https://youtube.com/watch?v=98bGwOYoEGg">ChatGPT Clone – OpenAI API and React Tutorial</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td align="center">02</td>
-<td align="left"><a href="https://youtube.com/watch?v=D6Xj_W4leu8">Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td align="center">03</td>
-<td align="left"><a href="https://youtube.com/watch?v=uRQH2CFvedY">ChatGPT Course – Use The OpenAI API to Code 5 Projects</a></td>
-<td align="center">6</td>
-            </tr>
-            <tr>
-<td align="center">04</td>
-<td align="left"><a href="https://youtube.com/watch?v=qHPonmSX4Ms">OpenAI Assistants API – Course for Beginners</a></td>
-<td align="center">4</td>
-            </tr>
-            <tr>
-<td align="center">05</td>
-<td align="left"><a href="https://youtube.com/watch?v=mCjRYS1Wr0Q">Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast</a></td>
-<td align="center">2</td>
-            </tr>
-            <tr>
-<td align="center">06</td>
-<td align="left"><a href="https://youtube.com/watch?v=mEsleV16qdo">Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More</a></td>
-<td align="center">30</td>
-            </tr>
-            <tr>
-<td align="center">07</td>
-<td align="left"><a href="https://youtube.com/watch?v=xZDB1naRUlk">Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma</a></td>
-<td align="center">2</td>
-            </tr>
-            <tr>
-<td align="center">08</td>
-<td align="left"><a href="https://youtube.com/watch?v=r895rFUbGtE">Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)</a></td>
-<td align="center">5</td>
-            </tr>
-            <tr>
-<td align="center">09</td>
-<td align="left"><a href="https://youtube.com/watch?v=qDunJ0wVIec">Build and Deploy Notion Clone – Full Stack Tutorial (NextJS 13, DALL•E, DrizzleORM, OpenAI, Vercel)</a></td>
-<td align="center">3</td>
             </tr>
     </tbody>
 </table>
