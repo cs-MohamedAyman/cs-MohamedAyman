@@ -69,7 +69,7 @@
 ## Undergraduate Intern Skills
 
 <details>
-<summary>8 Skills</summary>
+<summary>10 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -160,6 +160,28 @@
 * Udemy Courses <br> 
 </td>
         </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">09  Basic Algorithms Analysis & Design</h3>
+* Sorting, Searching, Recursion, Time/Space complexity, Divide and Conquer, Mathematical Algorithms, Brute Force, Greedy Algorithms. <br> 
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+<td width="500px" align="left">
+<h3 align="left">10  Graph Algorithms Analysis & Design</h3>
+* Graph Theory, BFS, DFS, Shortest Path Algorithms, Geometric Algorithms, String Algorithms, Network Flow, Connected Components, Topological Sorting. <br> 
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -175,29 +197,7 @@
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Basic Algorithms Analysis & Design</h3>
-* Sorting, Searching, Recursion, Time/Space complexity, Divide and Conquer, Mathematical Algorithms, Brute Force, Greedy Algorithms. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-<td width="500px" align="left">
-<h3 align="left">02  Graph Algorithms Analysis & Design</h3>
-* Graph Theory, BFS, DFS, Shortest Path Algorithms, Geometric Algorithms, String Algorithms, Network Flow, Connected Components, Topological Sorting. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">03  HackerRank/AtCoder Online Judge Phases</h3>
+<h3 align="left">01  HackerRank/AtCoder Online Judge Phases</h3>
 * 200+ Problems on: Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation. <br> 
 <br>
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a><br>
@@ -207,7 +207,7 @@
 * Udemy Courses <br>  
 </td>
 <td width="500px" align="left">
-<h3 align="left">04  LeetCode/Codeforces Online Judge Phases</h3>
+<h3 align="left">02  LeetCode/Codeforces Online Judge Phases</h3>
 * 200+ Problems on: Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking, Math, String, Dynamic Programming. <br> 
 <br>
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a><br>
@@ -219,7 +219,7 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">05  Operating Systems & Bash Scripting</h3>
+<h3 align="left">03  Operating Systems & Bash Scripting</h3>
 * Processes, Threads, Scheduling, Memory Management, Virtual Memory, File Systems, I/O Management, Multitasking, Shell Commands, Bash Scripts. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -229,7 +229,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">06  Parallel Computing and Multithreading</h3>
+<h3 align="left">04  Parallel Computing and Multithreading</h3>
 * Concurrency, Threads, Locks, GPU, Synchronization, Parallelism, Multithreading, Multiprocessing, Distributed Computing, Load Balancing, Task Scheduling. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -241,7 +241,7 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">07  Graphical User Interface (GUI)</h3>
+<h3 align="left">05  Graphical User Interface (GUI)</h3>
 * GUI Concepts, Windows, Icons, Menus, Pointers (WIMP), Event-Driven Programming, Widgets & Controls, Buttons, Labels, Text Fields, Dialog Boxes & Tooltips, Menus & Toolbars, Tabs & Panels, Forms & Input Validation, Event Handling, State Management, Drawing & Rendering, Animation & Transitions. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -251,8 +251,30 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">08  Unit Testing and Package Manager</h3>
+<h3 align="left">06  Unit Testing and Package Manager</h3>
 * Test-driven development (TDD),  test suites, assertions, mocking, stubbing, fixtures, test coverage, regression testing, edge cases, black-box testing, white-box testing, integration testing, frameworks (JUnit, PyTest, Mocha, Jest, NUnit), automated testing, debugging. <br> 
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+        </tr>
+        <tr>
+<td width="500px" align="left">
+<h3 align="left">07  SQL/NoSQL Databases Fundamentals</h3>
+* Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
+<br>
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* YouTube Courses <br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
+* Udemy Courses <br> 
+</td>
+<td width="500px" align="left">
+<h3 align="left">08  Database Design</h3>
+* Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
@@ -271,34 +293,12 @@
 ## Software Engineer Skills
 
 <details>
-<summary>10 Skills</summary>
+<summary>8 Skills</summary>
 <table>
     <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  SQL/NoSQL Databases Fundamentals</h3>
-* Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-<td width="500px" align="left">
-<h3 align="left">02  Database Design</h3>
-* Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">03  Object-Oriented Design</h3>
+<h3 align="left">01  Object-Oriented Design</h3>
 * Design Principles, Design Patterns, UML Diagrams, Abstraction, Encapsulation, Inheritance, Polymorphism, Interface Design, Cohesion, Coupling, Dependency Injection, Architectural Patterns. <br> 
 <br>
 <br>
@@ -309,7 +309,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">04  Code Review and Refactoring</h3>
+<h3 align="left">02  Code Review and Refactoring</h3>
 * Clean Code, Modularity, Readability, Code Smells, Dead Code Removal, Duplicate Code Elimination, Cyclomatic Complexity, Performance Improvement, Maintainability, Removing Technical Debt, Improving Architecture. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -321,7 +321,7 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">05  Advanced Data Structures</h3>
+<h3 align="left">03  Advanced Data Structures</h3>
 * Tries, B/B+ Tree, K-D Tree, Treap Tree, Skip List, Interval Tree, Segment Tree, Binary Indexed Tree, Suffix Array, Suffix Tree, Suffix Automaton. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -331,7 +331,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">06  Advanced Algorithms Analysis & Design</h3>
+<h3 align="left">04  Advanced Algorithms Analysis & Design</h3>
 * Dynamic Programming, Divide and Conquer, Greedy Algorithms, Backtracking, Geometric Algorithms, Graph Algorithms. <br> 
 <br>
 <br>
@@ -344,7 +344,7 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">07  HackerRank/AtCoder Online Judge Phases</h3>
+<h3 align="left">05  HackerRank/AtCoder Online Judge Phases</h3>
 * 200+ Problems on: Linear and Non-linear DS, Strings, Dynamic Programming, Greedy, Graph Theory, Mathematics, Number Theory, Combinatorics, Geometry, Probability <br> 
 <br>
 <br>
@@ -355,7 +355,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">08  LeetCode/Codeforces Online Judge Phases</h3>
+<h3 align="left">06  LeetCode/Codeforces Online Judge Phases</h3>
 * 200+ Problems on: Array, Stack, Queue, Dequeue, Binary Tree, Heap Tree, Hash Table, Breadth/Depth First Search, Backtracking, Binary Search, Greedy, Bit Manipulation, Sorting, Math, String, Dynamic Programming. <br> 
 <br>
 * 4 <a href="/Problem-Solving-Training/level-4/README.md">Problem Solving Phases</a><br>
@@ -367,12 +367,12 @@
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">09  System Design Principles</h3>
+<h3 align="left">07  System Design Principles</h3>
 * coming soon <br> 
 <br>
 </td>
 <td width="500px" align="left">
-<h3 align="left">10  Microservices Architecture Fundamentals</h3>
+<h3 align="left">08  Microservices Architecture Fundamentals</h3>
 * coming soon <br> 
 <br>
 </td>
@@ -443,28 +443,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         <tr>
 <td width="500px" align="left">
 <h3 align="left">05  Cloud Computing (AWS)</h3>
-* Cloud Deployment, AWS Concepts, AWS Services, AWS Compute Services, AWS Databases, Networking, and Storage, AWS Machine Learning, AWS Security, Cost and Resource Management. <br> 
-<br>
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+* coming soon <br> 
 </td>
 <td width="500px" align="left">
 <h3 align="left">06  Cloud Computing (Microsoft Azure)</h3>
-* Cloud Deployment, Azure Concepts, Azure Services, Azure Compute Services, Azure Databases, Networking, and Storage, Azure Machine Learning, Azure Security, Cost and Resource Management. <br> 
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+* coming soon <br> 
 </td>
         </tr>
     </tbody>
@@ -794,28 +777,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         <tr>
 <td width="500px" align="left">
 <h3 align="left">05  Cloud Computing (AWS)</h3>
-* Cloud Deployment, AWS Concepts, AWS Services, AWS Compute Services, AWS Databases, Networking, and Storage, AWS Machine Learning, AWS Security, Cost and Resource Management. <br> 
-<br>
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+* coming soon <br> 
 </td>
 <td width="500px" align="left">
 <h3 align="left">06  Cloud Computing (Microsoft Azure)</h3>
-* Cloud Deployment, Azure Concepts, Azure Services, Azure Compute Services, Azure Databases, Networking, and Storage, Azure Machine Learning, Azure Security, Cost and Resource Management. <br> 
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+* coming soon <br> 
 </td>
         </tr>
     </tbody>
