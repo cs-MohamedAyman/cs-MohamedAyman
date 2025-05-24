@@ -1,8 +1,8 @@
-<a href="https://coursera.org/"><img align="right" width="160" src="/logos/coursera.png"></img></a>
+<a href="https://coursera.org/"><img align="right" width="120" src="/logos/coursera.png"></img></a>
 
 # Computer Science Specializations
 
-<br><br><br>
+<br><br>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md"><img align="right" width="80" src="/logos/fundamentals-of-computer-science.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md"><img align="right" width="80" src="/logos/probability-statistics.png"></img></a>

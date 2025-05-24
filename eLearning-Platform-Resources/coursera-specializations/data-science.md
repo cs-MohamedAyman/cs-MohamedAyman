@@ -1,8 +1,8 @@
-<a href="https://coursera.org/"><img align="right" width="160" src="/logos/coursera.png"></img></a>
+<a href="https://coursera.org/"><img align="right" width="120" src="/logos/coursera.png"></img></a>
 
 # Data Science Specializations
 
-<br><br><br>
+<br><br>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations/data-science.md"><img align="right" width="80" src="/logos/data-analytics.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations/data-science.md"><img align="right" width="80" src="/logos/data-visualization.png"></img></a>

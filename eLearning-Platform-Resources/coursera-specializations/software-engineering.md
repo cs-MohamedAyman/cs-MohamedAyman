@@ -1,8 +1,8 @@
-<a href="https://coursera.org/"><img align="right" width="160" src="/logos/coursera.png"></img></a>
+<a href="https://coursera.org/"><img align="right" width="120" src="/logos/coursera.png"></img></a>
 
 # Software Engineering Specializations
 
-<br><br><br>
+<br><br>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md"><img align="right" width="80" src="/logos/system-analysis.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md"><img align="right" width="80" src="/logos/software-engineering.png"></img></a>

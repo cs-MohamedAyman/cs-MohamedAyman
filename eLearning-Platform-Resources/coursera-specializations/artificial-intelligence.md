@@ -1,8 +1,8 @@
-<a href="https://coursera.org/"><img align="right" width="160" src="/logos/coursera.png"></img></a>
+<a href="https://coursera.org/"><img align="right" width="120" src="/logos/coursera.png"></img></a>
 
 # Artificial Intelligence Specializations
 
-<br><br><br>
+<br><br>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations/artificial-intelligence.md"><img align="right" width="80" src="/logos/computational-cognitive-science.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations/artificial-intelligence.md"><img align="right" width="80" src="/logos/soft-computing.png"></img></a>

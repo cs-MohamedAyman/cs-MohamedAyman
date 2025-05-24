@@ -1,4 +1,4 @@
-<a href="https://datacamp.com/"><img align="right" width="160" src="/logos/datacamp.png"></img></a>
+<a href="https://datacamp.com/"><img align="right" width="120" src="/logos/datacamp.png"></img></a>
 
 # DataCamp Tracks
 DataCamp Tracks road map for computer science students.
@@ -160,7 +160,6 @@ DataCamp Tracks road map for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/python.png"></img></a>
 <br>
@@ -325,7 +324,6 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/r.png"></img></a>
 <br>
 
@@ -336,7 +334,6 @@ DataCamp Tracks road map for computer science students.
     <br>
 </details>
 
-
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/r.png"></img></a>
 <br>
 
@@ -346,7 +343,6 @@ DataCamp Tracks road map for computer science students.
     <summary>(0 skills)</summary>
     <br>
 </details>
-
 
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/sql.png"></img></a>
 <br>
@@ -429,7 +425,6 @@ DataCamp Tracks road map for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/theory.png"></img></a>
 <br>
@@ -661,7 +656,6 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/excel.png"></img></a>
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/spreadsheet.png"></img></a>
 <br>
@@ -736,7 +730,6 @@ DataCamp Tracks road map for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/powerbi.png"></img></a>
 <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/tableau.png"></img></a>
