@@ -1,17 +1,10 @@
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="160" src="/Data-Science-Case-Studies/logos/level-3.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-3.png"></img></a>
 
 # Level 3: Machine Learning
-
-<br><br><br>
-
-This level simply consists of 150 case studies, 50 case studies on DataCamp, 90 case studies on Kaggle, 10 case studies on 8WeekSqlChallenge.
-
-The time estimate for level case studies is between 1 day to 2 days for each case study, including reading time, thinking time, coding time, debugging time, and learning time, and you can consider that the level is done when you solved at least 30% of the phase case studies.
 
 <br><br>
 
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
-<br>
 
 ## DataCamp Case Studies
 
@@ -135,9 +128,7 @@ The time estimate for level case studies is between 1 day to 2 days for each cas
 </table>
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/8weeksqlchallenge.png"></img></a>
-<br>
 
 ## 8WeekSqlChallenge Case Studies
 
@@ -174,9 +165,7 @@ The time estimate for level case studies is between 1 day to 2 days for each cas
 </table>
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
-<br>
 
 ## Kaggle Case Studies
 

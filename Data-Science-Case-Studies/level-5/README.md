@@ -1,10 +1,6 @@
-<a href="/Data-Science-Case-Studies/level-5/README.md"><img align="right" width="160" src="/Data-Science-Case-Studies/logos/level-5.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-5/README.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-5.png"></img></a>
 
 # Level 5: Industries
-
-* coming soon
-
-<br><br>
 
 <br><br>
 

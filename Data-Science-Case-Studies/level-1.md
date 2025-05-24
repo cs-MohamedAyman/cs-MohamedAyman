@@ -1,17 +1,10 @@
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="160" src="/Data-Science-Case-Studies/logos/level-1.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-1.png"></img></a>
 
 # Level 1: SQL / NoSQL
-
-<br><br><br>
-
-This level simply consists of 160 problems, 20 problems on W3Schools, 60 problems on HackerRank, 50 problems on LeetCode, 20 problems on DataCamp, 10 problems on 8WeekSqlChallenge, 0 problems on Kaggle.
-
-The time estimate for level case studies is between 30 min to 45 min for each problem, including reading time, thinking time, coding time, debugging time, and learning time, and you can consider that the level is done when you solved at least 30% of the phase case studies.
 
 <br><br>
 
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/w3schools.png"></img></a>
-<br>
 
 ## W3Schools Practices
 
@@ -71,9 +64,7 @@ The time estimate for level case studies is between 30 min to 45 min for each pr
 </table>
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/hackerrank.png"></img></a>
-<br>
 
 ## HackerRank Practices
 
@@ -226,12 +217,9 @@ The time estimate for level case studies is between 30 min to 45 min for each pr
         </tr>
     </tbody>
 </table>
-
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/leetcode.png"></img></a>
-<br>
 
 ## LeetCode Practices
 
@@ -368,12 +356,9 @@ The time estimate for level case studies is between 30 min to 45 min for each pr
         </tr>
     </tbody>
 </table>
-
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
-<br>
 
 ## DataCamp Case Studies
 
@@ -433,9 +418,7 @@ The time estimate for level case studies is between 30 min to 45 min for each pr
 </table>
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/8weeksqlchallenge.png"></img></a>
-<br>
 
 ## 8WeekSqlChallenge Case Studies
 
@@ -472,9 +455,7 @@ The time estimate for level case studies is between 30 min to 45 min for each pr
 </table>
 </details>
 
-
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
-<br>
 
 ## Kaggle Case Studies
 

@@ -1,18 +1,18 @@
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="160" src="/Data-Science-Case-Studies/logos/level-4.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-4.png"></img></a>
 
 # Level 4: Deep Learning
-
-* coming soon
 
 <br><br>
 
 <a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
-<br>
 
 ## DataCamp Case Studies
 
+<details>
+    <summary>(0 case studies)</summary>
+</details>
+
 <a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
-<br>
 
 ## Kaggle Case Studies
 
