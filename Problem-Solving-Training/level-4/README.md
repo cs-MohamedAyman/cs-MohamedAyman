@@ -1,33 +1,22 @@
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="160" src="/Problem-Solving-Training/logos/level-4.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/level-4.png"></img></a>
 
 # Level 4: Advanced Data Structures and Algorithms
 
-<br><br><br>
-
-coming soon ...
-
-<br>
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/icons/agenda.png"></img></a>
-
-## Table of Contents
-  * [HackerRank Online Judge Phases](#hackerrank-oj-phases)
-  * [LeetCode Online Judge Phases](#leetcode-oj-phases)
-  * [Google Competitions Phases](#google-competitions-phases)
-  * [Codeforces Online Judge Phases](#codeforces-oj-phases)
-  * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
-  * [AtCoder Online Judge Phases](#atcoder-oj-phases)
-
 <br><br>
+
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -35,8 +24,6 @@ coming soon ...
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/data-structures-hard-problems-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/data-structures-hard-problems-1.md">HackerRank OJ <br> Data Structures Hard Problems 1</a></td>
 <td align="center">
 Linear and Non-linear DS <br>
@@ -57,8 +44,6 @@ Advanced <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/data-structures-hard-problems-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/data-structures-hard-problems-2.md">HackerRank OJ <br> Data Structures Hard Problems 2</a></td>
 <td align="center">
 Linear and Non-linear DS <br>
@@ -79,8 +64,6 @@ Advanced <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/algorithms-hard-problems-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/algorithms-hard-problems-1.md">HackerRank OJ <br> Algorithms Hard Problems 1</a></td>
 <td align="center">
 Greedy <br>
@@ -101,8 +84,6 @@ Combinatorics, Geometry, Probability <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/algorithms-hard-problems-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerrank/algorithms-hard-problems-2.md">HackerRank OJ <br> Algorithms Hard Problems 2</a></td>
 <td align="center">
 Greedy <br>
@@ -123,18 +104,21 @@ Combinatorics, Geometry, Probability <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -142,8 +126,6 @@ Combinatorics, Geometry, Probability <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/data-structures-hard-problems.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/data-structures-hard-problems.md">LeetCode OJ <br> Data Structures Hard Problems</a></td>
 <td align="center">
 Array <br>
@@ -166,8 +148,6 @@ Advanced Topics <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/algorithms-hard-problems.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/algorithms-hard-problems.md">LeetCode OJ <br> Algorithms Hard Problems</a></td>
 <td align="center">
 Breadth First Search <br>
@@ -190,8 +170,6 @@ Bit Manipulation, Sorting <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/mathematics-strings.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/mathematics-strings.md">LeetCode OJ <br> Mathematics and Strings</a></td>
 <td align="center">
 Math I <br>
@@ -214,8 +192,6 @@ String III <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/dynamic-programming.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/leetcode/dynamic-programming.md">LeetCode OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
@@ -238,18 +214,21 @@ Dynamic Programming VI <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a>
 
 ## Google Competitions Phases
 
+<details>
+    <summary>(2 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -257,8 +236,6 @@ Dynamic Programming VI <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/googlecompetitions/codejam-1/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/googlecompetitions/codejam-1/README.md">Google Competitions <br> CodeJam 1</a></td>
 <td align="center">
 CodeJam Round 2 <br>
@@ -275,8 +252,6 @@ CodeJam Round World Finals <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/googlecompetitions/codejam-2/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/googlecompetitions/codejam-2/README.md">Google Competitions <br> CodeJam 2</a></td>
 <td align="center">
 CodeJam Round 2 <br>
@@ -293,24 +268,30 @@ CodeJam Round World Finals <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
-coming soon ...
+<details>
+    <summary>(0 Phases)</summary>
+    <br>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -318,8 +299,6 @@ coming soon ...
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/mathematics-strings.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/mathematics-strings.md">HackerEarth OJ <br> Mathematics Strings</a></td>
 <td align="center">
 Basic Number Theory <br>
@@ -338,8 +317,6 @@ String Searching and Z Algorithm <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/graph.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/graph.md">HackerEarth OJ <br> Graph</a></td>
 <td align="center">
 Depth First Search <br>
@@ -360,8 +337,6 @@ Min Cost and Max Flow <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/dynamic-programming.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/dynamic-programming.md">HackerEarth OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
@@ -382,8 +357,6 @@ DP and Bit Masking <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/advanced-data-structures.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/hackerearth/advanced-data-structures.md">HackerEarth OJ <br> Advanced Data Structures</a></td>
 <td align="center">
 Segment Tree <br>
@@ -402,18 +375,21 @@ Suffix Tree and Suffix Array <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/atcoder.png"></img></a>
 
 ## AtCoder OJ Phases
 
+<details>
+    <summary>(2 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -421,8 +397,6 @@ Suffix Tree and Suffix Array <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/atcoder/phase-3-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/atcoder.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/atcoder/phase-3-1.md">AtCoder OJ <br> Phase 3-1</a></td>
 <td align="center">
 2016-2017 Grand Contests <br>
@@ -439,8 +413,6 @@ Suffix Tree and Suffix Array <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-4/atcoder/phase-3-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/atcoder.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-4/atcoder/phase-3-2.md">AtCoder OJ <br> Phase 3-2</a></td>
 <td align="center">
 2016-2017 Grand Contests <br>
@@ -457,3 +429,4 @@ Suffix Tree and Suffix Array <br>
         </tr>
     </tbody>
 </table>
+</details>

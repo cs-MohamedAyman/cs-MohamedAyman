@@ -1,4 +1,4 @@
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="160" src="/logos/software-engineering-educational-projects.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="120" src="/logos/software-engineering-educational-projects.png"></img></a>
 
 # Software Engineering Educational Projects
 Software Engineering Educational Projects for computer science students.
@@ -115,7 +115,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"></img></a>
 
 ## `Advanced Data Structure Libraries`
@@ -216,7 +215,6 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 
@@ -319,7 +317,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 
 ## `Algorithmic Quest Games`
@@ -420,7 +417,6 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
 
@@ -523,7 +519,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png"></img></a>
 
 ## `Database Systems Apps`
@@ -625,7 +620,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
 
 ## `Operating System Apps`
@@ -684,7 +678,6 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
 
@@ -745,8 +738,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
-
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/computer-graphics-apps.png"></img></a>
 
 ## `Computer Graphics Apps`
@@ -805,7 +796,6 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
 </table>
 </details>
-
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/data-compression-apps.png"></img></a>
 

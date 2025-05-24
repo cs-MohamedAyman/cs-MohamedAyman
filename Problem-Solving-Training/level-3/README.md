@@ -1,35 +1,22 @@
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="160" src="/Problem-Solving-Training/logos/level-3.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/level-3.png"></img></a>
 
 # Level 3: Intermediate Data Structures and Algorithms
 
-<br><br><br>
-
-* This level simply consists of 22 phases, 2 phases on HackerRank Online Judge, 6 phases on LeetCode Online Judge, 4 phases on Google Competitions Online Judge, 6 phases on Codeforces Online Judge, and the last 4 phases on HackerEarth Online Judge.
-
-* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can consider that the phase is done when you solved at least 30% of the phase problems, and the level is done when you solved at least 6 phases.
-
-<br>
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/icons/agenda.png"></img></a>
-
-## Table of Contents
-  * [HackerRank Online Judge Phases](#hackerrank-oj-phases)
-  * [LeetCode Online Judge Phases](#leetcode-oj-phases)
-  * [Google Competitions Phases](#google-competitions-phases)
-  * [Codeforces Online Judge Phases](#codeforces-oj-phases)
-  * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
-  * [UVA Online Judge Phases](#uva-oj-phases)
-
 <br><br>
+
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
+<details>
+    <summary>(2 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -37,8 +24,6 @@
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerrank/mathematical-algorithms.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerrank/mathematical-algorithms.md">HackerRank OJ <br> Mathematical Algorithms</a></td>
 <td align="center">
 Number Theory<br>
@@ -59,8 +44,6 @@ Probability <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerrank/graph-theory-dynamic-programming.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerrank/graph-theory-dynamic-programming.md">HackerRank OJ <br> Graph Theory and Dynamic Programming</a></td>
 <td align="center">
 Graph Theory<br>
@@ -81,18 +64,21 @@ Implementation<br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -100,8 +86,6 @@ Implementation<br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/basic-algorithms.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/basic-algorithms.md">LeetCode OJ <br> Basic Algorithms</a></td>
 <td align="center">
 Binary Search <br>
@@ -122,8 +106,6 @@ Greedy II <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/graph-theory.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/graph-theory.md">LeetCode OJ <br> Graph Theory</a></td>
 <td align="center">
 Breadth First Search <br>
@@ -142,8 +124,6 @@ Backtracking <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/mathematics-strings.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/mathematics-strings.md">LeetCode OJ <br> Mathematics and Strings</a></td>
 <td align="center">
 Math I <br>
@@ -164,8 +144,6 @@ String II <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/dynamic-programming.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/dynamic-programming.md">LeetCode OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
@@ -184,16 +162,21 @@ Dynamic Programming IV <br>
         </tr>
     </tbody>
 </table>
+</details>
+
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 
 ## LeetCode OJ Custom Phases
 
+<details>
+    <summary>(2 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -201,8 +184,6 @@ Dynamic Programming IV <br>
     <tbody>
      <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/interviews-questions-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/interviews-questions-1.md">LeetCode OJ <br> Interviews Questions 1</a></td>
 <td align="center">
 Array and String <br>
@@ -229,8 +210,6 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/interviews-questions-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/leetcode.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/leetcode/interviews-questions-2.md">LeetCode OJ <br> Interviews Questions 2</a></td>
 <td align="center">
 Array and String <br>
@@ -257,18 +236,21 @@ Dynamic Programming <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a>
 
 ## Google Competitions Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -276,8 +258,6 @@ Dynamic Programming <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/kickstart-1/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/kickstart-1/README.md">Google Competitions <br> KickStart 1</a></td>
 <td align="center">
 KickStart 2013 <br>
@@ -300,8 +280,6 @@ KickStart 2018 <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/kickstart-2/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/kickstart-2/README.md">Google Competitions <br> KickStart 2</a></td>
 <td align="center">
 KickStart 2019 <br>
@@ -320,8 +298,6 @@ KickStart 2022 <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/codejam-1/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/codejam-1/README.md">Google Competitions <br> CodeJam 1</a></td>
 <td align="center">
 CodeJam Qualifications <br>
@@ -340,8 +316,6 @@ CodeJam 1C <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/codejam-2/README.md">
-<img width="80%" src="/Problem-Solving-Training/logos/googlecompetitions.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/googlecompetitions/codejam-2/README.md">Google Competitions <br> CodeJam 2</a></td>
 <td align="center">
 CodeJam Qualifications <br>
@@ -360,18 +334,21 @@ CodeJam 1C <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -379,8 +356,6 @@ CodeJam 1C <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-1.md">Codeforces OJ <br> Phase 3-1</a></td>
 <td align="center">
 Divide and Conquer <br>
@@ -407,8 +382,6 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-2.md">Codeforces OJ <br> Phase 3-2</a></td>
 <td align="center">
 Divide and Conquer <br>
@@ -435,8 +408,6 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-3.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-3.md">Codeforces OJ <br> Phase 3-3</a></td>
 <td align="center">
 Divide and Conquer <br>
@@ -463,8 +434,6 @@ Dynamic Programming <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-4.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/phase-3-4.md">Codeforces OJ <br> Phase 3-4</a></td>
 <td align="center">
 Divide and Conquer <br>
@@ -491,16 +460,21 @@ Dynamic Programming <br>
         </tr>
     </tbody>
 </table>
+</details>
+
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/codeforces.png"></img></a>
 
 ## Codeforces OJ Custom Contests
 
+<details>
+    <summary>(2 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -508,8 +482,6 @@ Dynamic Programming <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/educational-contests-1.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/educational-contests-1.md">Codeforces OJ <br> Educational Contests 1</a></td>
 <td align="center">
 Educational Rounds I <br>
@@ -528,8 +500,6 @@ Educational Rounds IV <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/educational-contests-2.md">
-<img width="80%" src="/Problem-Solving-Training/logos/codeforces.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/codeforces/educational-contests-2.md">Codeforces OJ <br> Educational Contests 2</a></td>
 <td align="center">
 Educational Rounds I <br>
@@ -548,18 +518,21 @@ Educational Rounds IV <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
+<details>
+    <summary>(4 Phases)</summary>
+    <br>
 <table>
     <thead>
         <tr>
 <th width="30px">#</th>
-<th width="120px">Phase OJ</th>
-<th width="320px">Phase Name</th>
-<th width="320px">Phase Sections</th>
+<th width="380px">Phase Name</th>
+<th width="380px">Phase Sections</th>
 <th width="120px" colspan=2># Problems</th>
 <th width="30px">Hrs</th>
         </tr>
@@ -567,8 +540,6 @@ Educational Rounds IV <br>
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/mathematics-strings.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/mathematics-strings.md">HackerEarth OJ <br> Mathematics Strings</a></td>
 <td align="center">
 Basic Number Theory <br>
@@ -587,8 +558,6 @@ Basics of String Manipulation <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/graph.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/graph.md">HackerEarth OJ <br> Graph</a></td>
 <td align="center">
 Graph and Topological Sort <br>
@@ -609,8 +578,6 @@ Depth First Search III <br>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/dynamic-programming.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/dynamic-programming.md">HackerEarth OJ <br> Dynamic Programming</a></td>
 <td align="center">
 Dynamic Programming I <br>
@@ -631,8 +598,6 @@ DP and Bit Masking <br>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/advanced-data-structures.md">
-<img width="80%" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a></td>
 <td align="center"><a href="/Problem-Solving-Training/level-3/hackerearth/advanced-data-structures.md">HackerEarth OJ <br> Advanced Data Structures</a></td>
 <td align="center">
 Disjoint Sets <br>
@@ -651,9 +616,13 @@ Segment Tree II <br>
         </tr>
     </tbody>
 </table>
+</details>
 
-<br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/uva.png"></img></a>
 
 ## UVA OJ Phases
 
-coming soon ...
+<details>
+    <summary>(0 Phases)</summary>
+    <br>
+</details>
