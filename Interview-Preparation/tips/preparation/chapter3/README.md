@@ -1,0 +1,41 @@
+# Chapter 3: <br> Handling Common Job Interview Questions <br> `40 slides`
+
+<br>
+<img src="slides/026.png"></img>
+<img src="slides/027.png"></img>
+<img src="slides/028.png"></img>
+<img src="slides/029.png"></img>
+<img src="slides/032.png"></img>
+<img src="slides/033.png"></img>
+<img src="slides/034.png"></img>
+<img src="slides/035.png"></img>
+<img src="slides/036.png"></img>
+<img src="slides/037.png"></img>
+<img src="slides/039.png"></img>
+<img src="slides/040.png"></img>
+<img src="slides/041.png"></img>
+<img src="slides/042.png"></img>
+<img src="slides/043.png"></img>
+<img src="slides/044.png"></img>
+<img src="slides/045.png"></img>
+<img src="slides/046.png"></img>
+<img src="slides/047.png"></img>
+<img src="slides/048.png"></img>
+<img src="slides/049.png"></img>
+<img src="slides/050.png"></img>
+<img src="slides/051.png"></img>
+<img src="slides/052.png"></img>
+<img src="slides/053.png"></img>
+<img src="slides/054.png"></img>
+<img src="slides/055.png"></img>
+<img src="slides/056.png"></img>
+<img src="slides/058.png"></img>
+<img src="slides/059.png"></img>
+<img src="slides/060.png"></img>
+<img src="slides/061.png"></img>
+<img src="slides/062.png"></img>
+<img src="slides/063.png"></img>
+<img src="slides/064.png"></img>
+<img src="slides/065.png"></img>
+<img src="slides/066.png"></img>
+<img src="slides/067.png"></img>
