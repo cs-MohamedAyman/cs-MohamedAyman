@@ -306,7 +306,8 @@
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Java Programming Language
 
@@ -536,9 +537,6 @@
     </tbody>
 </table>
 </details>
-
-<a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/java.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="/logos/data-structures.png"></img></a>
 
