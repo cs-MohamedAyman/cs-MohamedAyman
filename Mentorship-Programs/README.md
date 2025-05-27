@@ -9,6 +9,8 @@
     </tbody>
 </table>
 
+<br><br>
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/agenda.png"></img></a>
 
 ## Program Summary
@@ -912,6 +914,24 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br><br><br><br><br><br><br><br><br><br><br>
 </td>
         </tr>
+    </tbody>
+</table>
+</details>
+
+<br><br>
+
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/subscription-plan.png"></img></a>
+
+## Subscription Plans
+
+<details>
+<summary>4 Subscription Plans</summary>
+<table>
+    <tbody>
+<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan1.png"></img></a></td>
+<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan2.png"></img></a></td>
+<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan3.png"></img></a></td>
+<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan4.png"></img></a></td>
     </tbody>
 </table>
 </details>
