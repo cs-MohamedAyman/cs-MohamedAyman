@@ -400,7 +400,7 @@
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
