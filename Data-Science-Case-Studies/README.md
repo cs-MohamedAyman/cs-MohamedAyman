@@ -30,6 +30,6 @@ Data Science Case Studies for computer science students.
 <br>
 ## [`Level 4`](/Data-Science-Case-Studies/level-4.md): Deep Learning
 
-<a href="/Data-Science-Case-Studies/level-5/README.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-5.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-5.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-5.png"></img></a>
 <br>
-## [`Level 5`](/Data-Science-Case-Studies/level-5/README.md): Industries
+## [`Level 5`](/Data-Science-Case-Studies/level-5.md): Industries
