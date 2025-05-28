@@ -11,7 +11,7 @@
 ## Retail, Supply Chain, and eCommerce
 
 <a href="/Data-Science-Case-Studies/level-5.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/marketing.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-5.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-5.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/digital-marketing.png"></img></a>
 <br>
 
 ## Digital Marketing
