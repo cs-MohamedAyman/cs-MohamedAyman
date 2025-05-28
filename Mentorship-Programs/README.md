@@ -275,7 +275,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">08  Database Design</h3>
+<h3 align="left">08  Database Design Fundamentals</h3>
 * Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
