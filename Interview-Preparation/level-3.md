@@ -39,3 +39,15 @@
 - 06- Outlier and Imbalanced Data Handling
 - 07- SQL/NoSQL Databases Fundamentals
 - 08- Google Sheets and Excel Fundamentals
+
+## [Mentorship Programs](/Mentorship-Programs/README.md)
+- 01- Supervised Machine Learning
+- 02- Unsupervised Machine Learning
+- 03- Deep Learning Fundamentals
+- 04- Generative Models Fundamentals
+- 05- Recommendation Systems
+- 06- Time Series Analysis
+- 07- Intro to Natural Language Processing
+- 08- Intro to Computer Vision
+- 09- Hyperparameter Tuning
+- 10- Model Deployment
