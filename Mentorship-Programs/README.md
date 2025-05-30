@@ -925,13 +925,12 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 ## Subscription Plans
 
 <details>
-<summary>4 Subscription Plans</summary>
+<summary>3 Subscription Plans</summary>
 <table>
     <tbody>
-<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan1.png"></img></a></td>
-<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan2.png"></img></a></td>
-<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan3.png"></img></a></td>
-<td width="500px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan4.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan1.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan2.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan4.png"></img></a></td>
     </tbody>
 </table>
 </details>
