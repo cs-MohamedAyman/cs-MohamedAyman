@@ -79,7 +79,7 @@
 <h3 align="left">01  Programming Language (C/C++/C#/Java)</h3>
 * Variables, Data Types, Loops, Conditionals, Functions, Recursion, Arrays, Memory Allocation, Garbage Collection, Debugging, Collections, Built-in Methods in Collections, Pointers, References, Modules. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games)<br> 
 * YouTube Courses<br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -89,7 +89,7 @@
 <h3 align="left">02  Object-Oriented Programming</h3>
 * Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Access Modifiers, Static Members, Method Overloading, Method Overriding, Interfaces, Exception Handling, File Handling. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -123,7 +123,7 @@
 <h3 align="left">05  Linear Data Structures</h3>
 * Arrays, Lists, Stacks (Array/List Based), Queues (Array/List Based), Deques (Array/List Based), Time Complexity. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -133,7 +133,7 @@
 <h3 align="left">06  Non-Linear Data Structures</h3>
 * Binary Tree, Binary Search Tree, AVL Tree, Red Black Tree, Heap Trees, Hash Tables, Graphs, Tries, Disjoint Sets. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -167,7 +167,7 @@
 <h3 align="left">09  Basic Algorithms Analysis & Design</h3>
 * Sorting, Searching, Recursion, Time/Space complexity, Divide and Conquer, Mathematical Algorithms, Brute Force, Greedy Algorithms. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -177,7 +177,7 @@
 <h3 align="left">10  Graph Algorithms Analysis & Design</h3>
 * Graph Theory, BFS, DFS, Shortest Path Algorithms, Geometric Algorithms, String Algorithms, Network Flow, Connected Components, Topological Sorting. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -224,7 +224,7 @@
 <h3 align="left">03  Operating Systems & Bash Scripting</h3>
 * Processes, Threads, Scheduling, Memory Management, Virtual Memory, File Systems, I/O Management, Multitasking, Shell Commands, Bash Scripts. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -234,7 +234,7 @@
 <h3 align="left">04  Parallel Processing and Computing</h3>
 * Concurrency, Threads, Locks, GPU, Synchronization, Parallelism, Multithreading, Multiprocessing, Distributed Computing, Load Balancing, Task Scheduling. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -246,7 +246,7 @@
 <h3 align="left">05  Graphical User Interface (GUI)</h3>
 * GUI Concepts, Windows, Icons, Menus, Pointers (WIMP), Event-Driven Programming, Widgets & Controls, Buttons, Labels, Text Fields, Dialog Boxes & Tooltips, Menus & Toolbars, Tabs & Panels, Forms & Input Validation, Event Handling, State Management, Drawing & Rendering, Animation & Transitions. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -256,7 +256,7 @@
 <h3 align="left">06  Unit Testing and Package Manager</h3>
 * Test-driven development (TDD),  test suites, assertions, mocking, stubbing, fixtures, test coverage, regression testing, edge cases, black-box testing, white-box testing, integration testing, frameworks (JUnit, PyTest, Mocha, Jest, NUnit), automated testing, debugging. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -268,7 +268,7 @@
 <h3 align="left">07  SQL/NoSQL Databases Fundamentals</h3>
 * Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented Systems, Database Systems Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -278,7 +278,7 @@
 <h3 align="left">08  Database Design Fundamentals</h3>
 * Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented Systems, Database Systems Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -304,7 +304,7 @@
 * Design Principles, Design Patterns, UML Diagrams, Abstraction, Encapsulation, Inheritance, Polymorphism, Interface Design, Cohesion, Coupling, Dependency Injection, Architectural Patterns. <br> 
 <br>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -314,7 +314,7 @@
 <h3 align="left">02  Code Review and Refactoring</h3>
 * Clean Code, Modularity, Readability, Code Smells, Dead Code Removal, Duplicate Code Elimination, Cyclomatic Complexity, Performance Improvement, Maintainability, Removing Technical Debt, Improving Architecture. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/software-engineering.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/software-engineering.md">Coursera Courses</a><br> 
@@ -326,7 +326,7 @@
 <h3 align="left">03  Advanced Data Structures</h3>
 * Tries, B/B+ Tree, K-D Tree, Treap Tree, Skip List, Interval Tree, Segment Tree, Binary Indexed Tree, Suffix Array, Suffix Tree, Suffix Automaton. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
@@ -337,7 +337,7 @@
 * Dynamic Programming, Divide and Conquer, Greedy Algorithms, Backtracking, Geometric Algorithms, Graph Algorithms. <br> 
 <br>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/computer-science.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/computer-science.md">Coursera Courses</a><br> 
