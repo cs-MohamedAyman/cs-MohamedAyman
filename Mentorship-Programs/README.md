@@ -231,7 +231,7 @@
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">04  Parallel Computing and Multithreading</h3>
+<h3 align="left">04  Parallel Processing and Computing</h3>
 * Concurrency, Threads, Locks, GPU, Synchronization, Parallelism, Multithreading, Multiprocessing, Distributed Computing, Load Balancing, Task Scheduling. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
