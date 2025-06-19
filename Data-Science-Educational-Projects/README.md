@@ -15,19 +15,9 @@ Data Science Educational Projects for computer science students.
 <br>
 
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
-
-## `Data Analysis Reports`
-
-<details>
-    <summary>(0 projects)</summary>
-    <br>
-<table>
-</table>
-</details>
-
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"></img></a>
 
-## `Business Intelligence Reports`
+## `Data Analysis and Business Intelligence Reports`
 
 <details>
     <summary>(0 projects)</summary>
@@ -37,19 +27,9 @@ Data Science Educational Projects for computer science students.
 </details>
 
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/supervised-predicting-apps.png"></img></a>
-
-## `Supervised Predicting Apps`
-
-<details>
-    <summary>(0 projects)</summary>
-    <br>
-<table>
-</table>
-</details>
-
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/unsupervised-predicting-apps.png"></img></a>
 
-## `Unsupervised Predicting Apps`
+## `Supervised and Unsupervised Predicting Apps`
 
 <details>
     <summary>(0 projects)</summary>
