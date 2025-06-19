@@ -419,109 +419,9 @@ Software Engineering Educational Projects for computer science students.
 </details>
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
-
-## `Object-Oriented Systems`
-
-<details>
-    <summary>(24 projects)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
-<th width="120px" align="center">Mobile Contacts System</th>
-<th width="120px" align="center">Restaurant Orders System</th>
-<th width="120px" align="center">Issue Tracking System</th>
-<th width="120px" align="center">Ticketing System</th>
-<th width="120px" align="center">Equation Solver</th>
-<th width="120px" align="center">Airport System</th>
-<th width="120px" align="center">Company System</th>
-<th width="120px" align="center">School System</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/mobile-contacts-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/restaurant-orders-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/issue-tracking-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/ticketing-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/equation-solver.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/airport-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/company-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/school-system.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Library System</th>
-<th width="120px" align="center">Bank System</th>
-<th width="120px" align="center">Champions League System</th>
-<th width="120px" align="center">Building System</th>
-<th width="120px" align="center">Hospital System</th>
-<th width="120px" align="center">University System</th>
-<th width="120px" align="center">Cinema System</th>
-<th width="120px" align="center">E-Commerce System</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/library-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/bank-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/champions-league-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/building-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hospital-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/university-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cinema-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/e-commerce-system.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Cooking System</th>
-<th width="120px" align="center">Clinic System</th>
-<th width="120px" align="center">Hotel System</th>
-<th width="120px" align="center">Radio System</th>
-<th width="120px" align="center">Railway Station System</th>
-<th width="120px" align="center">Theater System</th>
-<th width="120px" align="center">Grid Games</th>
-<th width="120px" align="center">Dice Games</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cooking-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/clinic-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hotel-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/radio-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/railway-station-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/theater-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/grid-games.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/dice-games.png"></img></a></td>
-    </tbody>
-</table>
-</details>
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png"></img></a>
 
-## `Database Systems Apps`
+## `Object-Oriented and Database Systems Apps`
 
 <details>
     <summary>(24 projects)</summary>
@@ -621,11 +521,12 @@ Software Engineering Educational Projects for computer science students.
 </details>
 
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
 
-## `Operating System Apps`
+## `Operating System and Parallel Computing Apps`
 
 <details>
-    <summary>(12 projects)</summary>
+    <summary>(24 projects)</summary>
     <br>
 <table>
     <thead>
@@ -660,35 +561,6 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
     <thead>
         <tr>
-<th width="120px" align="center">Page Replacement Simulator</th>
-<th width="120px" align="center">Network Stack Simulator</th>
-<th width="120px" align="center">Containerization System</th>
-<th width="120px" align="center">Virtual Machine Manager</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/page-replacement-simulator.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/network-stack-simulator.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/containerization-system.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/virtual-machine-manager.png"></img></a></td>
-    </tbody>
-</table>
-</details>
-
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
-
-## `Parallel Computing Apps`
-
-<details>
-    <summary>(12 projects)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
 <th width="120px" align="center">Parallel STLs</th>
 <th width="120px" align="center">Parallel 1 Player Games</th>
 <th width="120px" align="center">Parallel 2 Player Games</th>
@@ -719,6 +591,10 @@ Software Engineering Educational Projects for computer science students.
     </tbody>
     <thead>
         <tr>
+<th width="120px" align="center">Page Replacement Simulator</th>
+<th width="120px" align="center">Network Stack Simulator</th>
+<th width="120px" align="center">Containerization System</th>
+<th width="120px" align="center">Virtual Machine Manager</th>
 <th width="120px" align="center">Parallel Genetic Algorithms</th>
 <th width="120px" align="center">Parallel Directory Processing</th>
 <th width="120px" align="center">Parallel Painting Tool</th>
@@ -726,6 +602,14 @@ Software Engineering Educational Projects for computer science students.
         </tr>
     </thead>
     <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/page-replacement-simulator.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/network-stack-simulator.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/containerization-system.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/virtual-machine-manager.png"></img></a></td>
 <td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
 <img width="100%" src="/Software-Engineering-Educational-Projects/logos/parallel-genetic-algorithms.png"></img></a></td>
 <td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
