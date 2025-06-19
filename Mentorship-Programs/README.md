@@ -170,7 +170,7 @@
 <h3 align="left">01  Operating Systems & Bash Scripting</h3>
 * Processes, Threads, Scheduling, Memory Management, Virtual Memory, File Systems, I/O Management, Multitasking, Shell Commands, Bash Scripts. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -180,7 +180,7 @@
 <h3 align="left">02  Parallel Processing and Computing</h3>
 * Concurrency, Threads, Locks, GPU, Synchronization, Parallelism, Multithreading, Multiprocessing, Distributed Computing, Load Balancing, Task Scheduling. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -192,7 +192,7 @@
 <h3 align="left">03  Graphical User Interface (GUI)</h3>
 * GUI Concepts, Windows, Icons, Menus, Pointers (WIMP), Event-Driven Programming, Widgets & Controls, Buttons, Labels, Text Fields, Dialog Boxes & Tooltips, Menus & Toolbars, Tabs & Panels, Forms & Input Validation, Event Handling, State Management, Drawing & Rendering, Animation & Transitions. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -202,7 +202,7 @@
 <h3 align="left">04  Unit Testing and Package Manager</h3>
 * Test-driven development (TDD),  test suites, assertions, mocking, stubbing, fixtures, test coverage, regression testing, edge cases, black-box testing, white-box testing, integration testing, frameworks (JUnit, PyTest, Mocha, Jest, NUnit), automated testing, debugging. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -250,7 +250,7 @@
 * Design Principles, Design Patterns, UML Diagrams, Abstraction, Encapsulation, Inheritance, Polymorphism, Interface Design, Cohesion, Coupling, Dependency Injection, Architectural Patterns. <br> 
 <br>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -260,7 +260,7 @@
 <h3 align="left">02  Code Review and Refactoring</h3>
 * Clean Code, Modularity, Readability, Code Smells, Dead Code Removal, Duplicate Code Elimination, Cyclomatic Complexity, Performance Improvement, Maintainability, Removing Technical Debt, Improving Architecture. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System Apps, Parallel Computing Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
