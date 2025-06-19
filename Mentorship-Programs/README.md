@@ -214,7 +214,7 @@
 <h3 align="left">05  SQL/NoSQL Databases Fundamentals</h3>
 * Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented Systems, Database Systems Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -224,7 +224,7 @@
 <h3 align="left">06  Database Design Fundamentals</h3>
 * Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented Systems, Database Systems Apps)<br> 
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
