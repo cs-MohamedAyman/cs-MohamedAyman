@@ -15,11 +15,9 @@
 - Assist in project planning by estimating task durations and identifying potential challenges or bottlenecks.
 
 ## [Mentorship Programs](/Mentorship-Programs/README.md)
-- 01- HackerRank/AtCoder Online Judge Phases
-- 02- LeetCode/Codeforces Online Judge Phases
-- 03- Operating Systems & Bash Scripting
-- 04- Parallel Computing and Multithreading
-- 05- Graphical User Interface (GUI)
-- 06- Unit Testing and Package Manager
-- 07- SQL/NoSQL Databases Fundamentals
-- 08- Database Design Fundamentals
+- 01- Operating Systems & Bash Scripting
+- 02- Parallel Computing and Multithreading
+- 03- Graphical User Interface (GUI)
+- 04- Unit Testing and Package Manager
+- 05- SQL/NoSQL Databases Fundamentals
+- 06- Database Design Fundamentals
