@@ -14,26 +14,38 @@ Interview Preparation for computer science students.
 </table>
 <br>
 
-<a href="/Interview-Preparation/tips/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/tips.png"></img></a>
-<br>
-## [`Behavioral Interview Tips`](/Interview-Preparation/tips/README.md):
+<a href="/Interview-Preparation/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/tech-docs.png"></img></a>
+<a href="/Interview-Preparation/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/tips.png"></img></a>
 
-<a href="/Interview-Preparation/level-1.md"><img align="right" width="80" src="/Interview-Preparation/logos/level-1.png"></img></a>
-<br>
-## [`Level 1`](/Interview-Preparation/level-1.md): Undergraduate Intern Role
+## Job Interview Prepration Course
 
-<a href="/Interview-Preparation/level-2.md"><img align="right" width="80" src="/Interview-Preparation/logos/level-2.png"></img></a>
-<br>
-## [`Level 2`](/Interview-Preparation/level-2.md): Graduate Intern Role
+<details>
+<summary>8 Chapters</summary>
 
-<a href="/Interview-Preparation/level-3.md"><img align="right" width="80" src="/Interview-Preparation/logos/level-3.png"></img></a>
-<br>
-## [`Level 3`](/Interview-Preparation/level-3.md): Junior Role
+### Chapter 1: [Client Interview Essentials and Preparation Steps](/Interview-Preparation/preparation/chapter1.md)
+### Chapter 2: [Making First Impressions at a Job Interview](/Interview-Preparation/preparation/chapter2.md)
+### Chapter 3: [Handling Common Job Interview Questions](/Interview-Preparation/preparation/chapter3.md)
+### Chapter 4: [Behavioral Job Interview Questions](/Interview-Preparation/preparation/chapter4.md)
+### Chapter 5: [Situational Job Interview Questions](/Interview-Preparation/preparation/chapter5.md)
+### Chapter 6: [Asking Questions at a Job Interview](/Interview-Preparation/preparation/chapter6.md)
+### Chapter 7: [Job Interview Challenges](/Interview-Preparation/preparation/chapter7.md)
+### Chapter 8: [Job Interview Preparation Checklist](/Interview-Preparation/preparation/chapter8.md)
 
-<a href="/Interview-Preparation/level-4.md"><img align="right" width="80" src="/Interview-Preparation/logos/level-4.png"></img></a>
+</details>
 <br>
-## [`Level 4`](/Interview-Preparation/level-4.md): Mid-Level Role
 
-<a href="/Interview-Preparation/level-5.md"><img align="right" width="80" src="/Interview-Preparation/logos/level-5.png"></img></a>
+<a href="/Interview-Preparation/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/english.png"></img></a>
+<a href="/Interview-Preparation/README.md"><img align="right" width="80" src="/Interview-Preparation/logos/deutsch.png"></img></a>
+
+## Enhance Your English/Deutsch Skills
+
+<details>
+<summary>4 Levels</summary>
+
+### A1: [Building Foundations in English/Deutsch](/Interview-Preparation/languages/a1.md)
+### A2: [Strengthening Your English/Deutsch Skills](/Interview-Preparation/languages/a2.md)
+### B1: [Intermediate English/Deutsch: Understanding and Responding](/Interview-Preparation/languages/b1.md)
+### B2: [Advanced English/Deutsch: Fluency and Nuances](/Interview-Preparation/languages/b2.md)
+
+</details>
 <br>
-## [`Level 5`](/Interview-Preparation/level-5.md): Senior Role
