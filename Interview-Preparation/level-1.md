@@ -17,11 +17,7 @@
 ## [Mentorship Programs](/Mentorship-Programs/README.md)
 - 01- Programming Language (C/C++/C#/Java)
 - 02- Object-Oriented Programming
-- 03- HackerRank/AtCoder Online Judge Phases
-- 04- LeetCode/Codeforces Online Judge Phases
-- 05- Linear Data Structures
-- 06- Non-Linear Data Structures
-- 07- HackerRank/AtCoder Online Judge Phases
-- 08- LeetCode/Codeforces Online Judge Phases
-- 09- Basic Algorithms Analysis & Design
-- 10- Graph Algorithms Analysis & Design
+- 03- Linear Data Structures
+- 04- Non-Linear Data Structures
+- 05- Basic Algorithms Analysis & Design
+- 06- Graph Algorithms Analysis & Design
