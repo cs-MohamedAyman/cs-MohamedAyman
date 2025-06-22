@@ -14,208 +14,6 @@ Software Engineering Educational Projects for computer science students.
 </table>
 <br>
 
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
-
-## `Data Structure Libraries`
-
-<details>
-    <summary>(24 projects)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
-<th width="120px" align="center">Array Library</th>
-<th width="120px" align="center">Stack Array Based Library</th>
-<th width="120px" align="center">Queue Array Based Library</th>
-<th width="120px" align="center">Deque Array Based Library</th>
-<th width="120px" align="center">Linked List Library</th>
-<th width="120px" align="center">Stack Linked List Based Library</th>
-<th width="120px" align="center">Queue Linked List Based Library</th>
-<th width="120px" align="center">Deque Linked List Based Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/array-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/stack-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/queue-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/deque-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/linked-list-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/stack-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/queue-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/deque-library.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Binary Search Tree Library</th>
-<th width="120px" align="center">AVL Tree Library</th>
-<th width="120px" align="center">Red Black Tree Library</th>
-<th width="120px" align="center">Splay Tree Library</th>
-<th width="120px" align="center">Trie Library</th>
-<th width="120px" align="center">Disjoint Set Library</th>
-<th width="120px" align="center">Segment Tree Library</th>
-<th width="120px" align="center">Binary Indexed Tree Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-search-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/avl-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/red-black-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/splay-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/trie-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/disjoint-set-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/segment-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-indexed-tree-library.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Binary Heap Library</th>
-<th width="120px" align="center">Binomial Heap Library</th>
-<th width="120px" align="center">Fibonacci Heap Library</th>
-<th width="120px" align="center">Pairing Heap Library</th>
-<th width="120px" align="center">Hash Map Library</th>
-<th width="120px" align="center">Open Addressing Hash Table Library</th>
-<th width="120px" align="center">Chained Hash Table Library</th>
-<th width="120px" align="center">Double Hashing Hash Table Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-heap-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binomial-heap-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/fibonacci-heap-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/pairing-heap-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hash-map-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/open-addressing-hash-table-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/chained-hash-table-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/double-hashing-hash-table-library.png"></img></a></td>
-    </tbody>
-</table>
-</details>
-
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"></img></a>
-
-## `Advanced Data Structure Libraries`
-
-<details>
-    <summary>(24 projects)</summary>
-    <br>
-<table>
-    <thead>
-        <tr>
-<th width="120px" align="center">Treap Library</th>
-<th width="120px" align="center">Interval Tree Library</th>
-<th width="120px" align="center">K-D Tree Library</th>
-<th width="120px" align="center">AA Tree Library</th>
-<th width="120px" align="center">Cartesian Tree Library</th>
-<th width="120px" align="center">2-3 Tree Library</th>
-<th width="120px" align="center">Scapegoat Tree Library</th>
-<th width="120px" align="center">Link-Cut Tree Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/treap-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/interval-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/k-d-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/aa-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cartesian-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/2-3-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/scapegoat-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/link-cut-tree-library.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Skip List Library</th>
-<th width="120px" align="center">B-Tree Library</th>
-<th width="120px" align="center">R-Tree Library</th>
-<th width="120px" align="center">K-ary Tree Library</th>
-<th width="120px" align="center">Cuckoo Hash Table Library</th>
-<th width="120px" align="center">Robin Hood Hash Table Library</th>
-<th width="120px" align="center">Hopscotch Hash Table Library</th>
-<th width="120px" align="center">Dynamic Perfect Hash Table Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/skip-list-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/b-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/r-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/k-ary-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cuckoo-hash-table-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/robin-hood-hash-table-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hopscotch-hash-table-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/dynamic-perfect-hash-table-library.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center">Suffix Array Library</th>
-<th width="120px" align="center">Suffix Tree Library</th>
-<th width="120px" align="center">Suffix Automaton Library</th>
-<th width="120px" align="center">Sparse Suffix Array/Tree Library</th>
-<th width="120px" align="center">Generalized Suffix Array/Tree Library</th>
-<th width="120px" align="center">Dynamic Suffix Array/Tree Library</th>
-<th width="120px" align="center">Online Suffix Array/Tree Library</th>
-<th width="120px" align="center">Compressed Suffix Array/Tree Library</th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-array-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-automaton-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/sparse-suffix-array-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/generalized-suffix-array-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/dynamic-suffix-array-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/online-suffix-array-tree-library.png"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
-<img width="100%" src="/Software-Engineering-Educational-Projects/logos/compressed-suffix-array-tree-library.png"></img></a></td>
-    </tbody>
-</table>
-</details>
-
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 
 ## `Multiplayer Games`
@@ -317,6 +115,107 @@ Software Engineering Educational Projects for computer science students.
 </table>
 </details>
 
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
+
+## `Data Structure Libraries`
+
+<details>
+    <summary>(24 projects)</summary>
+    <br>
+<table>
+    <thead>
+        <tr>
+<th width="120px" align="center">Array Library</th>
+<th width="120px" align="center">Stack Array Based Library</th>
+<th width="120px" align="center">Queue Array Based Library</th>
+<th width="120px" align="center">Deque Array Based Library</th>
+<th width="120px" align="center">Linked List Library</th>
+<th width="120px" align="center">Stack Linked List Based Library</th>
+<th width="120px" align="center">Queue Linked List Based Library</th>
+<th width="120px" align="center">Deque Linked List Based Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/array-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/stack-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/queue-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/deque-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/linked-list-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/stack-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/queue-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/deque-library.png"></img></a></td>
+    </tbody>
+    <thead>
+        <tr>
+<th width="120px" align="center">Binary Search Tree Library</th>
+<th width="120px" align="center">AVL Tree Library</th>
+<th width="120px" align="center">Red Black Tree Library</th>
+<th width="120px" align="center">Splay Tree Library</th>
+<th width="120px" align="center">Trie Library</th>
+<th width="120px" align="center">Disjoint Set Library</th>
+<th width="120px" align="center">Segment Tree Library</th>
+<th width="120px" align="center">Binary Indexed Tree Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-search-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/avl-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/red-black-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/splay-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/trie-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/disjoint-set-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/segment-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-indexed-tree-library.png"></img></a></td>
+    </tbody>
+    <thead>
+        <tr>
+<th width="120px" align="center">Binary Heap Library</th>
+<th width="120px" align="center">Binomial Heap Library</th>
+<th width="120px" align="center">Fibonacci Heap Library</th>
+<th width="120px" align="center">Pairing Heap Library</th>
+<th width="120px" align="center">Hash Map Library</th>
+<th width="120px" align="center">Open Addressing Hash Table Library</th>
+<th width="120px" align="center">Chained Hash Table Library</th>
+<th width="120px" align="center">Double Hashing Hash Table Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binary-heap-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/binomial-heap-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/fibonacci-heap-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/pairing-heap-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hash-map-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/open-addressing-hash-table-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/chained-hash-table-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/double-hashing-hash-table-library.png"></img></a></td>
+    </tbody>
+</table>
+</details>
+
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 
 ## `Algorithmic Quest Games`
@@ -414,6 +313,107 @@ Software Engineering Educational Projects for computer science students.
 <img width="100%" src="/Software-Engineering-Educational-Projects/logos/fruit-master-game.png"></img></a></td>
 <td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
 <img width="100%" src="/Software-Engineering-Educational-Projects/logos/bubble-poke-game.png"></img></a></td>
+    </tbody>
+</table>
+</details>
+
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="80" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"></img></a>
+
+## `Advanced Data Structure Libraries`
+
+<details>
+    <summary>(24 projects)</summary>
+    <br>
+<table>
+    <thead>
+        <tr>
+<th width="120px" align="center">Treap Library</th>
+<th width="120px" align="center">Interval Tree Library</th>
+<th width="120px" align="center">K-D Tree Library</th>
+<th width="120px" align="center">AA Tree Library</th>
+<th width="120px" align="center">Cartesian Tree Library</th>
+<th width="120px" align="center">2-3 Tree Library</th>
+<th width="120px" align="center">Scapegoat Tree Library</th>
+<th width="120px" align="center">Link-Cut Tree Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/treap-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/interval-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/k-d-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/aa-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cartesian-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/2-3-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/scapegoat-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/link-cut-tree-library.png"></img></a></td>
+    </tbody>
+    <thead>
+        <tr>
+<th width="120px" align="center">Skip List Library</th>
+<th width="120px" align="center">B-Tree Library</th>
+<th width="120px" align="center">R-Tree Library</th>
+<th width="120px" align="center">K-ary Tree Library</th>
+<th width="120px" align="center">Cuckoo Hash Table Library</th>
+<th width="120px" align="center">Robin Hood Hash Table Library</th>
+<th width="120px" align="center">Hopscotch Hash Table Library</th>
+<th width="120px" align="center">Dynamic Perfect Hash Table Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/skip-list-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/b-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/r-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/k-ary-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/cuckoo-hash-table-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/robin-hood-hash-table-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/hopscotch-hash-table-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/dynamic-perfect-hash-table-library.png"></img></a></td>
+    </tbody>
+    <thead>
+        <tr>
+<th width="120px" align="center">Suffix Array Library</th>
+<th width="120px" align="center">Suffix Tree Library</th>
+<th width="120px" align="center">Suffix Automaton Library</th>
+<th width="120px" align="center">Sparse Suffix Array/Tree Library</th>
+<th width="120px" align="center">Generalized Suffix Array/Tree Library</th>
+<th width="120px" align="center">Dynamic Suffix Array/Tree Library</th>
+<th width="120px" align="center">Online Suffix Array/Tree Library</th>
+<th width="120px" align="center">Compressed Suffix Array/Tree Library</th>
+        </tr>
+    </thead>
+    <tbody>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-array-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/suffix-automaton-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/sparse-suffix-array-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/generalized-suffix-array-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/dynamic-suffix-array-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/online-suffix-array-tree-library.png"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">
+<img width="100%" src="/Software-Engineering-Educational-Projects/logos/compressed-suffix-array-tree-library.png"></img></a></td>
     </tbody>
 </table>
 </details>
