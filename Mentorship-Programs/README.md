@@ -214,6 +214,7 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games) 20+ Tasks per Project
 * Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
 * Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <br>
 
@@ -244,6 +245,7 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games) 20+ Tasks per Project
 * Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
 * Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <br>
 
