@@ -11,6 +11,7 @@
 
 <br><br>
 
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/agenda.png"></img></a>
 
 ## Program Summary
@@ -77,23 +78,58 @@
         <tr>
 <td width="500px" align="left">
 <h3 align="left">01  Programming Language (C/C++/C#/Java)</h3>
-* Variables, Data Types, Loops, Conditionals, Functions, Recursion, Arrays, Memory Allocation, Garbage Collection, Debugging, Collections, Built-in Methods in Collections, Pointers, References, Modules. <br> 
-* 200+ Problems on: Arrays and Strings, Functions and Libraries, Implementation, Easy Problems. <br> 
+* Introduction to Programming Paradigms, Setting Up the Development Environment, Data Types, Variables, and Constants, Operators and Expressions, Conditional Statements and Loops, Functions and Procedures, Arrays and String Handling, Pointers and References, Structures, Classes and Objects, Dynamic Memory Allocation and Garbage Collection, Recursion in Programming, Standard Libraries and API Usage, Introduction to OOP Concepts, Debugging and Code Optimization Techniques
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
+* Skills {Multiplayer Game Design, Matchmaking Algorithms, User Interface (UI) Design for Multiple Players, Scoring and Leaderboards Implementation, Debugging and Profiling Tools, Testing and Quality Assurance} <br>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games)<br> 
-* 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Arrays and Strings, Functions and Libraries, Implementation, Bit Manipulation, Math, String, Easy Problems} <br>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses<br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
+
+
 <td width="500px" align="left">
 <h3 align="left">02  Object-Oriented Programming</h3>
-* Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Access Modifiers, Static Members, Method Overloading, Method Overriding, Interfaces, Exception Handling, File Handling. <br> 
-* 200+ Array, Implementation, Bit Manipulation, Math, String, Easy Problems. <br> 
+* Introduction to Object-Oriented Concepts, Classes and Objects: Structure and Syntax, Constructors and Destructors, Encapsulation and Data Hiding, Inheritance and Its Types, Method Overloading and Overriding, Polymorphism: Compile-time and Runtime, Abstraction and Abstract Classes, Interfaces and Multiple Inheritance, Static Members and Methods, Association, Aggregation, and Composition, Collections and Generic Classes, File Handling with Object Streams, Exception and Error Handling
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
+* Skills {Multiplayer Game Design, Matchmaking Algorithms, User Interface (UI) Design for Multiple Players, Scoring and Leaderboards Implementation, Debugging and Profiling Tools, Testing and Quality Assurance} <br>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games)<br> 
-* 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Arrays and Strings, Functions and Libraries, Implementation, Bit Manipulation, Math, String, Easy Problems} <br>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -103,23 +139,60 @@
         <tr>
 <td width="500px" align="left">
 <h3 align="left">03  Linear Data Structures</h3>
-* Arrays, Lists, Stacks (Array/List Based), Queues (Array/List Based), Deques (Array/List Based), Time Complexity. <br> 
-* 200+ Problems on: Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals. <br> 
+* Introduction to Linear Data Structures, 
+Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked Lists: Singly, Doubly and Circular Linked Lists, Stack: Array and Linked List Implementations, Queue: Array and Linked List Implementations, Circular Queue and Double-Ended Queue (Deque), Complexity Analysis of Linear Data Structures, Memory Management in Linear Structures, Recursion in Linear Data Structures
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-structures.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+* Skills {Data Structures, Abstract Data Types (ADTs), Algorithms, Complexity Analysis (Big O Notation), Memory Management, Modular Programming, Unit Testing, Code Documentation, Library Design Principles, Performance Optimization}
+* Skills {Complex Data Structures and Algorithms, Data Structure and Algorithms Optimization, Memory Management Techniques, Complexity Analysis, Testing and Benchmarking, Documentation of Complex Structures}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
-* 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals, Queue and Deque, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking} <br>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
+
+
 <td width="500px" align="left">
 <h3 align="left">04  Non-Linear Data Structures</h3>
-* Binary Tree, Binary Search Tree, AVL Tree, Red Black Tree, Heap Trees, Hash Tables, Graphs, Tries, Disjoint Sets. <br> 
-* 200+ Problems on: Array, Linked List, Stack, Queue and Dequeue,   Binary Tree, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking. <br> 
+* Introduction to Non-Linear Data Structures, Trees: Basic Terminologies and Types, Binary Tree: Structure, Traversals (Pre, In, Post-Order), Binary Search Tree (BST): Insertion, Deletion, Search, AVL Tree, Red Black Tree: Balancing, Rotations, Heaps: Max-Heap, Min-Heap, Trie Data Structure and Applications, Introduction to Graph Theory and Representations, Depth-First Search (DFS) and Breadth-First Search (BFS), Applications of Trees and Graphs, Disjoint Set (Union-Find) 
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-structures.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+* Skills {Data Structures, Abstract Data Types (ADTs), Algorithms, Complexity Analysis (Big O Notation), Memory Management, Modular Programming, Unit Testing, Code Documentation, Library Design Principles, Performance Optimization}
+* Skills {Complex Data Structures and Algorithms, Data Structure and Algorithms Optimization, Memory Management Techniques, Complexity Analysis, Testing and Benchmarking, Documentation of Complex Structures}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
-* 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals, Queue and Deque, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking} <br>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -129,23 +202,57 @@
         <tr>
 <td width="500px" align="left">
 <h3 align="left">05  Basic Algorithms Analysis & Design</h3>
-* Sorting, Searching, Recursion, Time/Space complexity, Divide and Conquer, Mathematical Algorithms, Brute Force, Greedy Algorithms. <br> 
-* 200+ Problems on: Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation. <br> 
+* Introduction to Algorithms and Their Classifications, Time and Space Complexity: Big O, Ω, Θ Notations, Recursion and Recursive Algorithm Analysis, Divide and Conquer Approach, Sorting Algorithms: Bubble, Selection, Insertion, Advanced Sorting: Merge Sort, Quick Sort, Heap Sort, Searching Algorithms: Linear and Binary Search, Hashing Techniques and Collision Handling, Greedy Algorithms: Basics and Examples, Dynamic Programming: Principle and Examples, Backtracking: Concepts and Classic Problems, Branch and Bound Technique, Algorithm Design Strategies Overview, Complexity Classes: P, NP, NP-Complete, NP-Hard
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games) 20+ Tasks per Project
+* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
+* Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games)<br> 
-* 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String} <br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
+
+
 <td width="500px" align="left">
 <h3 align="left">06  Graph Algorithms Analysis & Design</h3>
-* Graph Theory, BFS, DFS, Shortest Path Algorithms, Geometric Algorithms, String Algorithms, Network Flow, Connected Components, Topological Sorting. <br> 
-* 200+ Problems on: Binary Search, Sorting, Greedy, Breadth First Search, Depth First Search, Graph, Backtracking, Math, String, Dynamic Programming. <br> 
+* Introduction to Graph Theory and Terminologies, Graph Representation Techniques (Matrix, List, Edge List), Depth-First Search (DFS) with Applications, Breadth-First Search (BFS) with Applications, Topological Sorting of Directed Acyclic Graphs (DAG), Minimum Spanning Trees: Kruskal's and Prim's Algorithms, Dijkstra's Algorithm for Single Source Shortest Path, Bellman-Ford Algorithm and Negative Weights, Floyd-Warshall Algorithm for All-Pairs Shortest Path, A* Search Algorithm, Network Flow Algorithms: Ford-Fulkerson Method, Strongly Connected Components, Articulation Points and Bridges in Graphs, Disjoint Set (Union-Find) 
+<br><br>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games) 20+ Tasks per Project
+* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
+* Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games)<br> 
-* 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a><br>
+
+* 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String} <br>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br>
+
 * YouTube Courses <br> 
 * <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
@@ -155,6 +262,7 @@
     </tbody>
 </table>
 </details>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp06.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp05.png"></img></a>
@@ -235,6 +343,7 @@
 </table>
 </details>
 
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp10.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp09.png"></img></a>
 
@@ -283,7 +392,7 @@
 <td width="500px" align="left">
 <h3 align="left">04  Advanced Algorithms Analysis & Design</h3>
 * Dynamic Programming, Divide and Conquer, Greedy Algorithms, Backtracking, Geometric Algorithms, Graph Algorithms. <br> 
-* 200+ Problems on: Array, Stack, Queue, Dequeue, Binary Tree, Heap Tree, Hash Table, Breadth/Depth First Search, Backtracking, Binary Search, Greedy, Bit Manipulation, Sorting, Math, String, Dynamic Programming. <br> 
+* 200+ Problems on: Array, Stack, Queue, Deque, Binary Tree, Heap Tree, Hash Table, Breadth/Depth First Search, Backtracking, Binary Search, Greedy, Bit Manipulation, Sorting, Math, String, Dynamic Programming. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * 4 <a href="/Problem-Solving-Training/level-4/README.md">Problem Solving Phases</a><br>
@@ -308,6 +417,7 @@
     </tbody>
 </table>
 </details>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp12.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp11.png"></img></a>
@@ -381,6 +491,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
     </tbody>
 </table>
 </details>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp16.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp15.png"></img></a>
@@ -503,6 +614,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
     </tbody>
 </table>
 </details>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp18.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp17.png"></img></a>
@@ -642,6 +754,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </table>
 </details>
 
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp24.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp23.png"></img></a>
 
@@ -716,6 +829,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </table>
 </details>
 
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp28.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp27.png"></img></a>
 
@@ -776,6 +890,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
     </tbody>
 </table>
 </details>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp30.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp29.png"></img></a>
@@ -845,6 +960,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 <br><br>
+
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/subscription-plan.png"></img></a>
 
