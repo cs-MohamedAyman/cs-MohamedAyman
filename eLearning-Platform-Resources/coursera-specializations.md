@@ -5,9 +5,9 @@ Coursera Specializations for computer science students.
 
 <br><br>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/fundamentals-of-computer-science.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/probability-statistics.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/mathematics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/fundamentals-of-computer-science.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/probability-statistics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/mathematics.png"></img></a>
 
 ## Fundamentals of Computer Science
 
@@ -230,9 +230,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/python.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/cpp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/cpp.png"></img></a>
 
 ## C++, Python Programming Languages
 
@@ -461,9 +461,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/csharp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/csharp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/java.png"></img></a>
 
 ## Java, C# Programming Languages
 
@@ -636,9 +636,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/discrete-mathematics.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/algorithms-analysis.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-structures.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/discrete-mathematics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/algorithms-analysis.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-structures.png"></img></a>
 
 ## Data Structures and Algorithms
 
@@ -787,9 +787,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/high-performance-computing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/parallel-computing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/operating-systems.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/high-performance-computing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/parallel-computing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/operating-systems.png"></img></a>
 
 ## Operating Systems and Parallel Computing
 
@@ -1002,9 +1002,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/system-analysis.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/software-engineering.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/object-oriented-design.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/system-analysis.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/software-engineering.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/object-oriented-design.png"></img></a>
 
 ## Fundamentals of Software Engineering
 
@@ -1281,9 +1281,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/database-design.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-warehousing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/database-systems.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/database-design.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-warehousing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/database-systems.png"></img></a>
 
 ## Database Systems and Warehousing
 
@@ -1520,9 +1520,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/cloud-computing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/devops.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/computer-networks.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/cloud-computing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/devops.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/computer-networks.png"></img></a>
 
 ## Continuous Delivery and DevOps
 
@@ -1775,9 +1775,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/web-development.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/web-development.png"></img></a>
 
 ## Web App Development
 
@@ -2046,9 +2046,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/mobile-development.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/mobile-development.png"></img></a>
 
 ## Mobile App Development
 
@@ -2221,9 +2221,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/game-development.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/ui-ux.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/software-testing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/game-development.png"></img></a>
 
 ## Game Development
 
@@ -2560,9 +2560,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/computational-cognitive-science.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/soft-computing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/artificial-intelligence.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/computational-cognitive-science.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/soft-computing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/artificial-intelligence.png"></img></a>
 
 ## Artificial Intelligence Algorithms
 
@@ -2767,9 +2767,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/unsupervised-learning.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/supervised-learning.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/machine-learning.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/unsupervised-learning.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/supervised-learning.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/machine-learning.png"></img></a>
 
 ## Machine Learning and Data Mining
 
@@ -2970,9 +2970,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/generative-adversarial-network.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/deep-learning.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/neural-networks.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/generative-adversarial-network.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/deep-learning.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/neural-networks.png"></img></a>
 
 ## Neural Networks and Deep Learning
 
@@ -3045,9 +3045,9 @@ Coursera Specializations for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/cognitive-automation.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/robotics-process-automation.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/process-mining.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/cognitive-automation.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/robotics-process-automation.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/process-mining.png"></img></a>
 
 ## Intelligent Automation
 
@@ -3190,9 +3190,9 @@ Scrimba</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/pattern-recognition.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/computer-vision.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/image-processing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/pattern-recognition.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/computer-vision.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/image-processing.png"></img></a>
 
 ## Image Processing and Computer Vision
 
@@ -3369,9 +3369,9 @@ Scrimba</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/text-mining.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/natural-language-processing.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-mining.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/text-mining.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/natural-language-processing.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-mining.png"></img></a>
 
 ## Natural Language Processing and Text Mining
 
@@ -3526,9 +3526,9 @@ Scrimba</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-analytics.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-visualization.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-analysis.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-analytics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-visualization.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-analysis.png"></img></a>
 
 ## Data Analysis and Visualization
 
@@ -3782,9 +3782,9 @@ University of Colorado Boulder</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/business-analytics.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/computer-modeling.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-science.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/business-analytics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/computer-modeling.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-science.png"></img></a>
 
 ## Data Science
 
@@ -4078,9 +4078,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/business-intelligence.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-management.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-modeling.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/business-intelligence.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-management.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-modeling.png"></img></a>
 
 ## Business Intelligence
 
@@ -4321,9 +4321,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/cloud-database.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-governance.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/data-engineering.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/cloud-database.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-governance.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/data-engineering.png"></img></a>
 
 ## Data Engineering
 
@@ -4490,9 +4490,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/database-systems.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/big-data-modeling.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations/README.md"><img align="right" width="80" src="/logos/big-data-analytics.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/database-systems.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/big-data-modeling.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/big-data-analytics.png"></img></a>
 
 ## Big Data Analytics and Modeling
 

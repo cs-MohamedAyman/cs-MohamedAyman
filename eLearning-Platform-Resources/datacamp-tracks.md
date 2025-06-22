@@ -5,7 +5,7 @@ DataCamp Tracks road map for computer science students.
 
 <br><br>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/python.png"></img></a>
 
 ## Python Data Analysis
 
@@ -160,7 +160,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/python.png"></img></a>
 
 ## Python Machine Learning
 
@@ -322,7 +322,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/r.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/r.png"></img></a>
 
 ## R Data Analysis
 
@@ -331,7 +331,7 @@ DataCamp Tracks road map for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/r.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/r.png"></img></a>
 
 ## R Machine Learning
 
@@ -340,7 +340,7 @@ DataCamp Tracks road map for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/sql.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/sql.png"></img></a>
 
 ## SQL
 
@@ -421,7 +421,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/theory.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/theory.png"></img></a>
 
 ## Theory
 
@@ -650,8 +650,8 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/excel.png"></img></a>
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/spreadsheet.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/excel.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/spreadsheet.png"></img></a>
 
 ## Spreadsheets and Excel
 
@@ -724,8 +724,8 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/powerbi.png"></img></a>
-<a href="/eLearning-Platform-Resources/datacamp-tracks/README.md"><img align="right" width="80" src="/eLearning-Platform-Resources/datacamp-tracks/logos/tableau.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/powerbi.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/tableau.png"></img></a>
 
 ## Tableau and Power-BI
 

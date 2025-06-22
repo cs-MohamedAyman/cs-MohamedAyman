@@ -100,8 +100,8 @@
 <br>
 
 * YouTube Courses<br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 
@@ -131,8 +131,8 @@
 <br>
 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -163,8 +163,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 
@@ -194,8 +194,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -224,8 +224,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 
@@ -254,8 +254,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -280,8 +280,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -290,8 +290,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -302,8 +302,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -312,8 +312,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -324,8 +324,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -334,8 +334,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -361,8 +361,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -371,8 +371,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -385,8 +385,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * 4 <a href="/Problem-Solving-Training/level-4/README.md">Problem Solving Phases</a><br>
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -397,8 +397,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Data Structure Libraries, Advanced Data Structure Libraries)<br> 
 * 4 <a href="/Problem-Solving-Training/level-4/README.md">Problem Solving Phases</a><br>
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -435,9 +435,9 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -446,9 +446,9 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -460,9 +460,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -472,9 +472,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -509,9 +509,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -520,9 +520,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -533,9 +533,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -544,9 +544,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -557,9 +557,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -568,9 +568,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -581,9 +581,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -593,9 +593,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -632,11 +632,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -645,11 +645,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -660,11 +660,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -673,11 +673,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -688,11 +688,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -701,11 +701,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -716,11 +716,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -730,11 +730,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -771,9 +771,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -782,9 +782,9 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -796,10 +796,10 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -808,10 +808,10 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations/README.md">Google Cloud Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
 </td>
         </tr>
@@ -909,10 +909,10 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
@@ -942,10 +942,10 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
 * 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
 * YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses/README.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks/README.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations/README.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations/README.md">DeepLearning.AI Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
+* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
