@@ -1,14 +1,10 @@
 # LeetCode OJ - Array and Bit Manipulation <br> `60 problems` `40 hrs`
 
-## Table of Content
-
-- ***Bit Manipulation I***     `15 problems`
-- ***Bit Manipulation II***    `15 problems`
-- ***Array I***                `15 problems`
-- ***Array II***               `15 problems`
-
 ## LeetCode - Bit Manipulation I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -57,9 +53,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Bit Manipulation II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -108,9 +108,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Array I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -151,9 +155,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Array II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -198,3 +206,4 @@
         </tr>
     </tbody>
 </table>
+</details>
