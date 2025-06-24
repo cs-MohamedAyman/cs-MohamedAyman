@@ -1,15 +1,10 @@
 # HackerRank OJ - Linux Shell <br> `65 problems` `40 hrs`
 
-## Table of Content
-
-- ***Bash***                `10 problems`
-- ***Text Processing I***   `15 problems`
-- ***Text Processing II***  `15 problems`
-- ***Arrays in Bash***      `10 problems`
-- ***Grep Sed Awk***        `15 problems`
-
 ## HackerRank - Bash
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -45,9 +40,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Text Processing I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -92,9 +91,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Text Processing II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -139,9 +142,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Arrays in Bash
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -170,9 +177,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Grep Sed Awk
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -213,3 +224,4 @@
         </tr>
     </tbody>
 </table>
+</details>
