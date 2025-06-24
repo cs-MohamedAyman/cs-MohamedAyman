@@ -1,14 +1,10 @@
 # LeetCode OJ - Array 2 <br> `60 problems` `40 hrs`
 
-## Table of Content
-
-- ***Array I***             `15 problems`
-- ***Array II***            `15 problems`
-- ***Array III***           `15 problems`
-- ***Array IV***            `15 problems`
-
 ## LeetCode - Array I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -53,9 +49,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Array II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -100,9 +100,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Array III
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -147,9 +151,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Array IV
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -194,3 +202,4 @@
         </tr>
     </tbody>
 </table>
+</details>
