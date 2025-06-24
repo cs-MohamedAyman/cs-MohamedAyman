@@ -1,15 +1,10 @@
 # HackerRank OJ - Java Programming Language <br> `65 problems` `40 hrs`
 
-## Table of Content
-
-- ***Introduction***                `15 problems`
-- ***Strings and BigNumber***       `15 problems`
-- ***Data Structures***             `15 problems`
-- ***Object Oriented Programming*** `10 problems`
-- ***Advanced***                    `10 problems`
-
 ## HackerRank - Introduction
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -49,9 +44,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Strings and BigNumber
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -92,9 +91,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Data Structures
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -138,9 +141,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Object Oriented Programming
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -173,9 +180,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Advanced
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -212,3 +223,4 @@
         </tr>
     </tbody>
 </table>
+</details>
