@@ -1,15 +1,10 @@
 # HackerRank OJ - C++ Programming Language <br> `70 problems` `40 hrs`
 
-## Table of Content
-
-- ***Introduction***                 `20 problems`
-- ***Arrays and Strings***           `10 problems`
-- ***Functions and Libraries***      `10 problems`
-- ***Structs and Classes***          `15 problems`
-- ***Implementation***               `15 problems`
-
 ## HackerRank - Introduction
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -61,9 +56,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Arrays and Strings
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -92,9 +91,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Functions and Libraries
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -134,9 +137,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Structs and Classes
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -184,9 +191,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerRank - Implementation
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -223,3 +234,4 @@
         </tr>
     </tbody>
 </table>
+</details>
