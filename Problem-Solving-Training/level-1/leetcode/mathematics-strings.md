@@ -1,14 +1,10 @@
 # LeetCode OJ - Mathematics and Strings <br> `60 problems` `40 hrs`
 
-## Table of Content
-
-- ***Math I***        `15 problems`
-- ***Math II***       `15 problems`
-- ***String I***      `15 problems`
-- ***String II***     `15 problems`
-
 ## LeetCode - Math I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -49,9 +45,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - Math II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -92,9 +92,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - String I
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -135,9 +139,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## LeetCode - String II
 
+<details>
+    <summary>(15 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -178,3 +186,4 @@
         </tr>
     </tbody>
 </table>
+</details>
