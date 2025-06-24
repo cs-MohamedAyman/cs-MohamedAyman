@@ -1,16 +1,10 @@
 # Codeforces OJ - Phase 1.3 <br> `125 problems` `80 hrs`
 
-## Table of Content
-
-- ***Basic Operator***   `10 problems`
-- ***Condition***        `20 problems`
-- ***Loop***             `25 problems`
-- ***String***           `30 problems`
-- ***List / Array I***   `20 problems`
-- ***List / Array II***  `20 problems`
-
 ## Codeforces - Basic Operator
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -39,9 +33,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## Codeforces - Condition
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -90,9 +88,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## Codeforces - Loop
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -157,9 +159,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## Codeforces - String
 
+<details>
+    <summary>(30 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -236,9 +242,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## Codeforces - List / Array I
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -291,9 +301,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## Codeforces - List / Array II
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -346,3 +360,4 @@
         </tr>
     </tbody>
 </table>
+</details>
