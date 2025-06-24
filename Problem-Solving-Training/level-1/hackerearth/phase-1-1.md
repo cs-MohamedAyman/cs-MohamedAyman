@@ -1,14 +1,10 @@
 # HackerEarth OJ - Phase 1.1 <br> `100 problems` `80 hrs`
 
-## Table of Content
-
-- ***Implementation I***   `25 problems`
-- ***Implementation II***  `25 problems`
-- ***Implementation III*** `25 problems`
-- ***Implementation IV***  `25 problems`
-
 ## HackerEarth - Implementation I
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -72,9 +68,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Implementation II
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -138,9 +138,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Implementation III
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -204,9 +208,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Implementation IV
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -270,3 +278,4 @@
         </tr>
     </tbody>
 </table>
+</details>
