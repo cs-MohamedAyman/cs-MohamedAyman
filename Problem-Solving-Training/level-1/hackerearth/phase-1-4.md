@@ -1,14 +1,10 @@
 # HackerEarth OJ - Phase 1.4 <br> `125 problems` `80 hrs`
 
-## Table of Content
-
-- ***Input/Output***      `40 problems`
-- ***Bit Manipulation***  `40 problems`
-- ***Recursion***         `10 problems`
-- ***Operators***         `35 problems`
-
 ## HackerEarth - Input/Output
 
+<details>
+    <summary>(40 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -117,9 +113,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Bit Manipulation
 
+<details>
+    <summary>(40 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -212,9 +212,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Recursion
 
+<details>
+    <summary>(10 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -251,9 +255,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## HackerEarth - Operators
 
+<details>
+    <summary>(35 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -337,3 +345,4 @@
         </tr>
     </tbody>
 </table>
+</details>
