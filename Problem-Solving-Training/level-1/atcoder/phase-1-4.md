@@ -1,15 +1,10 @@
 # AtCoder OJ - Phase 1.4 <br> `135 problems` `80 hrs`
 
-## Table of Content
-
-- ***2016-2017 Beginner Contests***      `20 problems`
-- ***2018-2019 Beginner Contests***      `30 problems`
-- ***2020-2021 Beginner Contests***      `35 problems`
-- ***2022 Beginner Contests***           `25 problems`
-- ***2023 Beginner Contests***           `25 problems`
-
 ## AtCoder - 2016-2017 Beginner Contests
 
+<details>
+    <summary>(20 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -65,9 +60,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## AtCoder - 2018-2019 Beginner Contests
 
+<details>
+    <summary>(30 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -147,9 +146,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## AtCoder - 2020-2021 Beginner Contests
 
+<details>
+    <summary>(35 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -230,9 +233,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## AtCoder - 2022 Beginner Contests
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -296,9 +303,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 ## AtCoder - 2023 Beginner Contests
 
+<details>
+    <summary>(25 Problems)</summary>
+    <br>
 <table>
     <head>
         <tr>
@@ -362,3 +373,4 @@
         </tr>
     </tbody>
 </table>
+</details>
