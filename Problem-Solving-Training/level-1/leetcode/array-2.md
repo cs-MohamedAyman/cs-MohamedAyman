@@ -44,7 +44,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fair-candy-swap/">fair candy swap</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/">make two arrays equal by reversing sub arrays</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/">make two arrays equal by reversing sub arrays</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/missing-ranges/">missing ranges</a></th>
         </tr>
     </tbody>
