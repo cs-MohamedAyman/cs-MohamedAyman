@@ -698,7 +698,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">06  Time Series Analysis</h3>
+<h3 align="left">06  Time Series Analysis and Forecasting</h3>
 * Trend, Seasonality, Noise, Stationarity, Autocorrelation, Lagging, Time Series Decomposition, Rolling Statistics, Differencing, Holt-Winters Exponential Smoothing, Fourier Transforms, ARIMA/SARIMA, VAR, LSTM, GRU, Transformer. <br> 
 <br>
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
