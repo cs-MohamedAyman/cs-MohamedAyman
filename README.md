@@ -10,20 +10,20 @@
         </tr>
         <tr>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp01.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp02.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp01.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp02.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp05.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp06.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp05.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp06.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp09.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp10.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp09.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp10.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp11.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp12.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp11.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp12.png" width="33%"></img></a>
 </td>
         </tr>
     </tbody>
@@ -36,20 +36,20 @@
         </tr>
         <tr>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp15.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp16.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp15.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp16.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp17.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp18.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp17.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp18.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp23.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp24.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp23.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp24.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp27.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/Interview-Preparation/logos/emp28.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp27.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp28.png" width="33%"></img></a>
 </td>
         </tr>
     </tbody>

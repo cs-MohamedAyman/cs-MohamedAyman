@@ -66,8 +66,8 @@
 
 <br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp02.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp01.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp02.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp01.png"></img></a>
 
 ## Undergraduate Intern Skills
 
@@ -266,8 +266,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp06.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp05.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp06.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp05.png"></img></a>
 
 ## Graduate Intern Skills
 
@@ -346,8 +346,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp10.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp09.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp10.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp09.png"></img></a>
 
 ## Software Engineer Skills
 
@@ -421,8 +421,8 @@ Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp12.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp11.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp12.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp11.png"></img></a>
 
 ## DevOps Engineer Skills
 
@@ -495,8 +495,8 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp16.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp15.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp16.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp15.png"></img></a>
 
 ## Data Analyst Skills
 
@@ -618,8 +618,8 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp18.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp17.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp18.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp17.png"></img></a>
 
 ## ML/DL Engineer Skills
 
@@ -757,8 +757,8 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp24.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp23.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp24.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp23.png"></img></a>
 
 ## MLOps Engineer Skills
 
@@ -832,8 +832,8 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp28.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp27.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp28.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp27.png"></img></a>
 
 ## Data Engineer Skills
 
@@ -894,8 +894,8 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </details>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp30.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/Interview-Preparation/logos/emp29.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp30.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp29.png"></img></a>
 
 ## ML/DL Researcher Skills
 
