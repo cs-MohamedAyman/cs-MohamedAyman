@@ -906,22 +906,13 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         <tr>
 <td width="500px" align="left">
 <h3 align="left">01  Prompt Engineering Fundamentals</h3>
-* Context Setting, Few-Shot Prompting, Input-Output Formatting, Task-Specific Instructions, Prompt Templates, Chaining Prompts, Role-Based Prompts, Iterative Refinement, Temperature, Prompt Testing, Prompt Optimization, Evaluation of Prompt Effectiveness. <br> 
+* coming soon <br> 
 <br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
 <h3 align="left">02  Transformer Architectures</h3>
 * coming soon <br> 
 <br>
-<br><br><br><br><br><br><br><br><br><br><br>
 </td>
         </tr>
         <tr>
@@ -938,23 +929,14 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">05  Large Language Model (LLM) Fine-tuning Fundamentals</h3>
-* Fine-Tuning, Transformer Architecture, Attention Mechanism, Encoder-Decoder Models, Autoregressive Models, Embeddings, Transfer Learning, Prompt-Based Learning, Inference Optimization, Vector DataBases, LangChain, Retrieval Augmented Generation. <br> 
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* 4 <a href="/Data-Science-Case-Studies/level-5.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-<td width="500px" align="left">
-<h3 align="left">06  Large Vision Model (LVM) Fine-tuning Fundamentals</h3>
+<h3 align="left">05  Large Language Model (LLM) Fundamentals</h3>
 * coming soon <br> 
 <br>
-<br><br><br><br><br><br><br><br><br><br><br>
+</td>
+<td width="500px" align="left">
+<h3 align="left">06  Large Vision Model (LVM) Fundamentals</h3>
+* coming soon <br> 
+<br>
 </td>
         </tr>
     </tbody>
