@@ -34,7 +34,7 @@
         </tr>
         <tr>
 <td align="left">04- Job Title Duration</td>
-<td align="left">Completing an entire job title takes 8, or 16 months, depending on the skill durations chosen.</td>
+<td align="left">Completing an entire job title takes 6, or 12 months, depending on the skill durations chosen.</td>
         </tr>
         <tr>
 <td align="left">05- Break Flexibility</td>
@@ -74,7 +74,7 @@
 ## Undergraduate Intern and Graduate Intern Skills
 
 <details>
-<summary>3 Skills</summary>
+<summary>6 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -84,6 +84,8 @@
         <tr>
 <td align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
@@ -96,6 +98,8 @@
 
 <td align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-structures.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
@@ -104,6 +108,7 @@
 
 * Introduction to Linear Data Structures, Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked Lists: Singly, Doubly and Circular Linked Lists, Stack: Array and Linked List Implementations, Queue: Array and Linked List Implementations, Circular Queue and Double-Ended Queue (Deque), Complexity Analysis of Linear Data Structures, Memory Management in Linear Structures, Recursion in Linear Data Structures
 * Introduction to Non-Linear Data Structures, Trees: Basic Terminologies and Types, Binary Tree: Structure, Traversals (Pre, In, Post-Order), Binary Search Tree (BST): Insertion, Deletion, Search, AVL Tree, Red Black Tree: Balancing, Rotations, Heaps: Max-Heap, Min-Heap, Trie Data Structure and Applications, Introduction to Graph Theory and Representations, Depth-First Search (DFS) and Breadth-First Search (BFS), Applications of Trees and Graphs, Disjoint Set (Union-Find)
+<br><br>
 </td>
         </tr>
         <tr>
@@ -113,9 +118,6 @@
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
-* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
-* Skills {Multiplayer Game Design, Matchmaking Algorithms, User Interface (UI) Design for Multiple Players, Scoring and Leaderboards Implementation, Debugging and Profiling Tools, Testing and Quality Assurance} <br>
-<br>
 </td>
 <td align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
@@ -123,8 +125,6 @@
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
-* Skills {Data Structures, Abstract Data Types (ADTs), Algorithms, Complexity Analysis (Big O Notation), Memory Management, Modular Programming, Unit Testing, Code Documentation, Library Design Principles, Performance Optimization}
-* Skills {Complex Data Structures and Algorithms, Data Structure and Algorithms Optimization, Memory Management Techniques, Complexity Analysis, Testing and Benchmarking, Documentation of Complex Structures}
 </td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
-* Skills {Arrays and Strings, Functions and Libraries, Implementation, Bit Manipulation, Math, String, Easy Problems} <br>
+* Skills {Arrays and Strings, Functions and Libraries, Implementation, Bit Manipulation, Math, String, Easy Problems}
 <br><br><br>
 </td>
 <td align="left">
@@ -143,7 +143,7 @@
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
-* Skills {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals, Queue and Deque, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking} <br>
+* Skills {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals, Queue and Deque, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking}
 </td>
         </tr>
         <tr>
@@ -170,11 +170,13 @@ Udemy Courses
         </tr>
         <tr>
 <td width="500px" align="left"><h3 align="left">03- Basic and Graph Algorithms Analysis & Design</h3></td>
-<td width="500px" align="left"><h3 align="left"></h3></td>
+<td width="500px" align="left"><h3 align="left">04- Graphical User Interface (GUI) and Unit Testing</h3></td>
         </tr>
         <tr>
 <td align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
@@ -185,33 +187,54 @@ Udemy Courses
 * Introduction to Graph Theory and Terminologies, Graph Representation Techniques (Matrix, List, Edge List), Depth-First Search (DFS) with Applications, Breadth-First Search (BFS) with Applications, Topological Sorting of Directed Acyclic Graphs (DAG), Minimum Spanning Trees: Kruskal's and Prim's Algorithms, Dijkstra's Algorithm for Single Source Shortest Path, Bellman-Ford Algorithm and Negative Weights, Floyd-Warshall Algorithm for All-Pairs Shortest Path, A* Search Algorithm, Network Flow Algorithms: Ford-Fulkerson Method, Strongly Connected Components, Articulation Points and Bridges in Graphs, Disjoint Set (Union-Find) 
 </td>
 <td align="left">
-</td>
-        <tr>
-        </tr>
-<td align="left">
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/software-testing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
 <br><br>
 
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games) 20+ Tasks per Project
-* Skills {Player Interaction, Game Loop Implementation, State Management, User Input Handling, Debugging Techniques, Testing and Quality Assurance}
-* Skills {Algorithm Design and Analysis, Puzzle and Challenge Creation, Game Mechanics Implementation, User Interface (UI) Design for Quests, Randomization Techniques, Game State Management, Feedback Mechanisms, Testing and Debugging Techniques}
+* GUI Concepts, GUI Frameworks, Event-Driven Programming Concepts, Windows, Panels, and Layout Management, Widgets and Controls, Menus, Toolbars, and Dialog Boxes, Managing User Input and Validations, Model–View–Controller (MVC) in GUI Design, Custom Widgets and Component Styling, Handling Images, Icons, and Multimedia Elements, Forms, Data Binding, and GUI–Backend Communication, Multi-Window Applications, Accessibility and Usability in GUI Design, Localization and Internationalization of GUIs, GUI Testing and Automated UI Testing
+* Test-Driven Development (TDD) Principles, Testing Frameworks Overview, Test Fixtures, Setup, and Teardown, Assertions and Matchers, Mocking and Stubbing, Testing Exceptions and Edge Cases, Parameterized and Data-Driven Tests, Code Coverage and Test Quality Measurement, Integration Between Unit Testing and CI/CD, Testing Asynchronous and Parallel Code, Refactoring Code for Testability
+<br><br><br><br><br>
+</td>
+        </tr>
+        <tr>
+<td align="left">
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
 </td>
 <td align="left">
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"></img></a>
+<br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
 </td>
-        <tr>
         </tr>
+        <tr>
 <td align="left">
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
-* Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String} </td>
-<td align="left">
+* Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String}
 </td>
-        <tr>
+<td align="left">
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<br><br>
+
+* 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
+* Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String}
+</td>
         </tr>
+        <tr>
 <td align="left">
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
@@ -223,82 +246,83 @@ Udemy Courses
 Udemy Courses
 </td>
 <td align="left">
-</td>
-        </tr>
-    </tbody>
-</table>
-</details>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
 
-
-
-<details>
-<summary>3 Skills</summary>
-<table>
-    <tbody>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">01  Operating Systems & Bash Scripting</h3>
-* Processes, Threads, Scheduling, Memory Management, Virtual Memory, File Systems, I/O Management, Multitasking, Shell Commands, Bash Scripts. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-<td width="500px" align="left">
-<h3 align="left">01  Parallel Processing and Computing</h3>
-* Concurrency, Threads, Locks, GPU, Synchronization, Parallelism, Multithreading, Multiprocessing, Distributed Computing, Load Balancing, Task Scheduling. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">02  Graphical User Interface (GUI)</h3>
-* GUI Concepts, Windows, Icons, Menus, Pointers (WIMP), Event-Driven Programming, Widgets & Controls, Buttons, Labels, Text Fields, Dialog Boxes & Tooltips, Menus & Toolbars, Tabs & Panels, Forms & Input Validation, Event Handling, State Management, Drawing & Rendering, Animation & Transitions. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td width="500px" align="left"><h3 align="left">05- Operating Systems and Parallel Processing & Computing</h3></td>
+<td width="500px" align="left"><h3 align="left">06- SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
+        </tr>
+        <tr>
+<td align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/operating-systems.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<br><br>
+
+* Operating Systems Concepts, OS Architecture, Types, and Components, Processes and Process Scheduling, Threads and Multithreading, Inter-Process Communication (Pipes, Shared Memory, Message Queues), Synchronization Issues: Deadlocks, Race Conditions, Synchronization Mechanisms (Mutex, Semaphores, Monitors), Memory Management: Paging and Segmentation, Virtual Memory and Demand Paging, File Systems and Storage Management, I/O Management and Device Drivers, Security and Protection Mechanisms, Distributed Operating Systems, Virtualization and Containerization Concepts
+* Parallel Computing Concepts, Flynn’s Taxonomy and Parallel System Architectures, Processes vs Threads in Parallelism, Thread-Level Parallelism (TLP), Synchronization, Deadlocks, and Race Conditions in Parallel Programs, Shared Memory vs Distributed Memory Models, Parallel Programming Models (OpenMP, MPI, CUDA), Data Parallelism and Task Parallelism, Load Balancing and Work Distribution Strategies, Performance Metrics (Speedup, Efficiency, Scalability), GPU Computing Fundamentals, Parallel Algorithms: Sorting, Searching, MapReduce and Large-Scale Distributed Processing, Debugging and Profiling Parallel Programs, Fault Tolerance in Parallel Systems
 </td>
-<td width="500px" align="left">
-<h3 align="left">02  Unit Testing and Package Manager</h3>
-* Test-driven development (TDD),  test suites, assertions, mocking, stubbing, fixtures, test coverage, regression testing, edge cases, black-box testing, white-box testing, integration testing, frameworks (JUnit, PyTest, Mocha, Jest, NUnit), automated testing, debugging. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Algorithmic Quest Games, Operating System and Parallel Computing Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql-server-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/postgresql-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mysql-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mongo-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cassandra-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/redis-database.png"></img></a>
+<br><br>
+
+* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
+* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">03  SQL/NoSQL Databases Fundamentals</h3>
-* Relational databases, SQL, NoSQL, CRUD, indexing, normalization, denormalization, joins, stored procedures, views, triggers, partitioning, replication, sharding, backup, recovery, query optimization, performance tuning, database engines. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td align="left">
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png"><br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps) 20+ Tasks per Project
 </td>
-<td width="500px" align="left">
-<h3 align="left">03  Database Design Fundamentals</h3>
-* Entity-relationship (ER) diagrams, schemas, tables, attributes, primary keys, foreign keys, composite keys, normalization forms, relationships, constraints, data modeling, data integrity, cascading updates/deletes, indexing strategies, performance considerations. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps)<br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td align="left">
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
+<br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps) 20+ Tasks per Project
+</td>
+        </tr>
+        <tr>
+<td align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
+</td>
+<td align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
         </tr>
     </tbody>
@@ -314,7 +338,7 @@ Udemy Courses
 ## Software Engineer and DevOps Engineer Skills
 
 <details>
-<summary>3 Skills</summary>
+<summary>6 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -378,19 +402,9 @@ Udemy Courses
 <br>
 </td>
         </tr>
-    </tbody>
-</table>
-</details>
-
-
-
-<details>
-<summary>3 Skills</summary>
-<table>
-    <tbody>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">01  Git and Shell Foundations</h3>
+<h3 align="left">04  Git and Shell Foundations</h3>
 * Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -401,7 +415,7 @@ Udemy Courses
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">01  Docker and Kubernetes Foundations</h3>
+<h3 align="left">04  Docker and Kubernetes Foundations</h3>
 * Foundations of Containerization and Virtualization, Docker Containers, Docker Images, Docker Compose, Deploying Software on Kubernetes, Data Engineering and MLOps, Networking in Docker and Kubernetes. <br> 
 <br>
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
@@ -414,7 +428,7 @@ Udemy Courses
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">02  Building APIs in C#/Java</h3>
+<h3 align="left">05  Building APIs in C#/Java</h3>
 * RESTful API Concepts, HTTP Methods (GET, POST, PUT, DELETE), Status Codes & Headers, Request/Response Cycle, Routing & Endpoints, URL Parameters & Query Strings, Request Parsing, JSON Serialization/Deserialization, Middleware & Hooks
 Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Upload/Download, API Keys, JWT (JSON Web Tokens), OAuth2, Role-Based Access Control (RBAC), Unit/Integration Testing, API Testing Tools (Postman, curl, HTTPie), Swagger/OpenAPI Documentation, Caching & Rate Limiting, API Versioning, Environment Variables & Config, Containerization (Docker), CI/CD for API Deployment. <br> 
 <br>
@@ -426,7 +440,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">02  Software Engineering in Production</h3>
+<h3 align="left">05  Software Engineering in Production</h3>
 * Reliability & Availability, Scalability & Performance, Maintainability & Observability, Backward Compatibility, Fault Tolerance, Microservices Architecture, Monolith vs Distributed Systems, API Design (REST/gRPC), Design Patterns, Service-Oriented Architecture (SOA), Infrastructure as Code (Terraform, CloudFormation), Containerization (Docker), Orchestration (Kubernetes), Blue-Green / Canary Deployments, Rollback Strategy, Logging (Structured Logs, Log Rotation), Metrics (Latency, Throughput, Error Rate), Tracing (OpenTelemetry, Jaeger), Alerting (Prometheus, Grafana, PagerDuty), Health Checks. <br> 
 <br>
 <br>
@@ -440,11 +454,11 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
         </tr>
         <tr>
 <td width="500px" align="left">
-<h3 align="left">03  Cloud Computing (AWS)</h3>
+<h3 align="left">06  Cloud Computing (AWS)</h3>
 * coming soon <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">03  Cloud Computing (Microsoft Azure)</h3>
+<h3 align="left">06  Cloud Computing (Microsoft Azure)</h3>
 * coming soon <br> 
 </td>
         </tr>
@@ -688,7 +702,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * Udemy Courses <br> 
 </td>
 <td width="500px" align="left">
-<h3 align="left">04  Intro to Computer Vision</h3>
+<h3 align="left">05  Intro to Computer Vision</h3>
 * Image processing, Filters/Kernels, Contrast, Transformation, Morphology, Image Comparison, Image Restoration, Noise, Segmentation, Tracking, Contours, Detecting Faces, Edge, and Features, Masks and Filters, Measurement, Transfer Learning. <br> 
 <br>
 <br>
@@ -700,18 +714,6 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 * <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
 * <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
 * Udemy Courses <br> 
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">05  Hyperparameter Tuning</h3>
-* coming soon <br> 
-<br>
-</td>
-<td width="500px" align="left">
-<h3 align="left">05  Model Deployment</h3>
-* coming soon <br> 
-<br>
 </td>
         </tr>
     </tbody>
