@@ -26,7 +26,7 @@
         </tr>
         <tr>
 <td align="left">02- Job Titles & Skills</td>
-<td align="left">The program consists of 8 job titles, each containing 8 key skills. Mentees can select only the job titles and skills that interest them.</td>
+<td align="left">The program consists of 5 job titles, each containing 5 key skills. Mentees can select only the job titles and skills that interest them.</td>
         </tr>
         <tr>
 <td align="left">03- Skill Duration</td>
