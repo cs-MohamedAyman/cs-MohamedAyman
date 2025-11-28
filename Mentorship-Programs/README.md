@@ -290,14 +290,15 @@ Udemy Courses
         </tr>
         <tr>
 <td align="left">
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png"><br><br>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
+<br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps) 20+ Tasks per Project
 </td>
 <td align="left">
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png">
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps) 20+ Tasks per Project
