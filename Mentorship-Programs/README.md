@@ -841,7 +841,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 <br>
 </td>
 <td width="500px" align="left">
-<h3 align="left">03  Vision Large Model (VLM) Fundamentals</h3>
+<h3 align="left">03  Large Vision Model (LVM) Fundamentals</h3>
 * coming soon <br> 
 <br>
 </td>
