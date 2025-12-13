@@ -1,6 +1,6 @@
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-1.png"></img></a>
 
-# Level 1: SQL / NoSQL
+# Level 1: Data Analysis
 
 <br><br>
 
