@@ -128,43 +128,6 @@
 </table>
 </details>
 
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/8weeksqlchallenge.png"></img></a>
-
-## 8WeekSqlChallenge Case Studies
-
-<details>
-    <summary>(8 problems)</summary>
-    <br>
-<table>
-    <head>
-        <tr>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-<th align="center">#</th>
-<th align="center" width="600px">Problem Title</th>
-        </tr>
-    </head>
-    <tbody>
-        <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-1/">Case Study #1 - Danny's Diner</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-2/">Case Study #2 - Pizza Runner</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-3/">Case Study #3 - Foodie-Fi</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-4/">Case Study #4 - Data Bank</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-5/">Case Study #5 - Data Mart</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-6/">Case Study #6 - Clique Bait</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-7/">Case Study #7 - Balanced Tree Clothing Co.</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://8weeksqlchallenge.com/case-study-8/">Case Study #8 - Fresh Segments</a></th>
-        </tr>
-    </head>
-</table>
-</details>
-
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
 
 ## Kaggle Case Studies
