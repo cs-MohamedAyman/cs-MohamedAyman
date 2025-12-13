@@ -5,19 +5,19 @@ Data Science Case Studies for computer science students.
 
 <a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-1.png"></img></a>
 <br>
-## [`Level 1`](/Data-Science-Case-Studies/level-1.md): SQL / NoSQL
+## [`Level 1`](/Data-Science-Case-Studies/level-1.md): Data Analysis
 
 <a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-2.png"></img></a>
 <br>
-## [`Level 2`](/Data-Science-Case-Studies/level-2.md): Data Analysis
+## [`Level 2`](/Data-Science-Case-Studies/level-2.md): Machine Learning
 
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-3.png"></img></a>
 <br>
-## [`Level 3`](/Data-Science-Case-Studies/level-3.md): Machine Learning
+## [`Level 3`](/Data-Science-Case-Studies/level-3.md): Deep Learning
 
 <a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-4.png"></img></a>
 <br>
-## [`Level 4`](/Data-Science-Case-Studies/level-4.md): Deep Learning
+## [`Level 4`](/Data-Science-Case-Studies/level-4.md): Natural Language Processing / Computer Vision
 
 <a href="/Data-Science-Case-Studies/level-5.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/level-5.png"></img></a>
 <br>
