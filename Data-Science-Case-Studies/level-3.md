@@ -1,6 +1,6 @@
 <a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-3.png"></img></a>
 
-# Level 3: Machine Learning
+# Level 3: Deep Learning
 
 <br><br>
 
