@@ -3,10 +3,10 @@
 <table>
     <tbody>
         <tr>
-<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Undergraduate Intern and Graduate Intern Skills </a></td>
-<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Data Analyst and Business Intelligence Analyst Skills </a></td>
-<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer and MLOps Engineer Skills </a></td>
-<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> LLM Engineer and LLMOps Engineer Skills </a></td>
+<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Undergraduate Intern and Graduate Intern Skills </a></td>
+<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Data Analyst and Business Intelligence Analyst Skills </a></td>
+<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer and MLOps Engineer Skills </a></td>
+<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> LLM Engineer and LLMOps Engineer Skills </a></td>
         </tr>
         <tr>
 <td align="center">
