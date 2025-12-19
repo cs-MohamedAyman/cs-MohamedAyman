@@ -4,7 +4,6 @@
     <tbody>
         <tr>
 <td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Undergraduate Intern and Graduate Intern Skills </a></td>
-<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Software Engineer and DevOps Engineer Skills </a></td>
 <td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Data Analyst and Business Intelligence Analyst Skills </a></td>
 <td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer and MLOps Engineer Skills </a></td>
 <td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> LLM Engineer and LLMOps Engineer Skills </a></td>
@@ -15,12 +14,6 @@
     <a href="/Mentorship-Programs/README.md"><img src="/logos/emp02.png" width="33%"></img></a>
     <a href="/Mentorship-Programs/README.md"><img src="/logos/emp03.png" width="33%"></img></a>
     <a href="/Mentorship-Programs/README.md"><img src="/logos/emp04.png" width="33%"></img></a>
-</td>
-<td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp05.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp06.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp07.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp08.png" width="33%"></img></a>
 </td>
 <td align="center">
     <a href="/Mentorship-Programs/README.md"><img src="/logos/emp09.png" width="33%"></img></a>
