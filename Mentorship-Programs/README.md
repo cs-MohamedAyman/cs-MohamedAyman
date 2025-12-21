@@ -24,7 +24,7 @@
         </tr>
         <tr>
 <td align="left">02- Job Titles & Skills</td>
-<td align="left">The program consists of 5 job titles, each containing 5 key skills. Mentees can select only the job titles and skills that interest them.</td>
+<td align="left">The program consists of 3 job titles, each containing 6 key skills. Mentees can select only the job titles and skills that interest them.</td>
         </tr>
         <tr>
 <td align="left">03- Skill Duration</td>
@@ -692,49 +692,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 
 ## LLM Engineer and LLMOps Engineer Skills
 
-<details>
-<summary>3 Skills</summary>
-<table>
-    <tbody>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">01  Prompt Engineering Fundamentals</h3>
-* coming soon <br> 
-<br>
-</td>
-<td width="500px" align="left">
-<h3 align="left">01  RAG Fundamentals</h3>
-* coming soon <br> 
-<br>
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">02  Natural Language Processing Advanced Techniques</h3>
-* coming soon <br> 
-<br>
-</td>
-<td width="500px" align="left">
-<h3 align="left">02  Computer Vision Advanced Techniques</h3>
-* coming soon <br> 
-<br>
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">03  Large Language Model (LLM) Fundamentals</h3>
-* coming soon <br> 
-<br>
-</td>
-<td width="500px" align="left">
-<h3 align="left">03  Large Vision Model (LVM) Fundamentals</h3>
-* coming soon <br> 
-<br>
-</td>
-        </tr>
-    </tbody>
-</table>
-</details>
+* coming soon 
 
 <br><br>
 
