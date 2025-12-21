@@ -11,7 +11,6 @@
 
 <br><br>
 
-
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/agenda.png"></img></a>
 
 ## Program Summary
@@ -61,7 +60,7 @@
     </tbody>
 </table>
 
-<br>
+<br><br>
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp04.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp03.png"></img></a>
@@ -80,12 +79,13 @@
         </tr>
     </tbody>
 </table>
+
 <details>
 <summary>2 Skills Details</summary>
 <table>
     <tbody>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
@@ -98,8 +98,7 @@
 * Introduction to Programming Paradigms, Setting Up the Development Environment, Data Types, Variables, and Constants, Operators and Expressions, Conditional Statements and Loops, Functions and Procedures, Arrays and String Handling, Pointers and References, Structures, Classes and Objects, Dynamic Memory Allocation and Garbage Collection, Recursion in Programming, Standard Libraries and API Usage, Introduction to OOP Concepts, Debugging and Code Optimization Techniques
 * Introduction to Object-Oriented Concepts, Classes and Objects: Structure and Syntax, Constructors and Destructors, Encapsulation and Data Hiding, Inheritance and Its Types, Method Overloading and Overriding, Polymorphism: Compile-time and Runtime, Abstraction and Abstract Classes, Interfaces and Multiple Inheritance, Static Members and Methods, Association, Aggregation, and Composition, Collections and Generic Classes, File Handling with Object Streams, Exception and Error Handling
 </td>
-
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-structures.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
@@ -115,7 +114,7 @@
 </td>
         </tr>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br><br>
@@ -131,7 +130,7 @@
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 Udemy Courses
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/data-structure-libraries.png"></img></a>
 <br><br>
@@ -149,7 +148,7 @@ Udemy Courses
 </td>
         </tr>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 <a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 <br><br>
@@ -158,7 +157,7 @@ Udemy Courses
 * Skills {Arrays and Strings, Functions and Libraries, Implementation, Bit Manipulation, Math, String, Easy Problems}
 <br><br><br>
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 <a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 <br><br>
@@ -170,6 +169,7 @@ Udemy Courses
     </tbody>
 </table>
 </details>
+
 <table>
     <tbody>
         <tr>
@@ -180,12 +180,13 @@ Udemy Courses
         </tr>
     </tbody>
 </table>
+
 <details>
 <summary>2 Skills Details</summary>
 <table>
     <tbody>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
@@ -198,7 +199,7 @@ Udemy Courses
 * Introduction to Algorithms and Their Classifications, Time and Space Complexity: Big O, Ω, Θ Notations, Recursion and Recursive Algorithm Analysis, Divide and Conquer Approach, Sorting Algorithms: Bubble, Selection, Insertion, Advanced Sorting: Merge Sort, Quick Sort, Heap Sort, Searching Algorithms: Linear and Binary Search, Hashing Techniques and Collision Handling, Greedy Algorithms: Basics and Examples, Dynamic Programming: Principle and Examples, Backtracking: Concepts and Classic Problems, Branch and Bound Technique, Algorithm Design Strategies Overview, Complexity Classes: P, NP, NP-Complete, NP-Hard
 * Introduction to Graph Theory and Terminologies, Graph Representation Techniques (Matrix, List, Edge List), Depth-First Search (DFS) with Applications, Breadth-First Search (BFS) with Applications, Topological Sorting of Directed Acyclic Graphs (DAG), Minimum Spanning Trees: Kruskal's and Prim's Algorithms, Dijkstra's Algorithm for Single Source Shortest Path, Bellman-Ford Algorithm and Negative Weights, Floyd-Warshall Algorithm for All-Pairs Shortest Path, A* Search Algorithm, Network Flow Algorithms: Ford-Fulkerson Method, Strongly Connected Components, Articulation Points and Bridges in Graphs, Disjoint Set (Union-Find) 
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/software-testing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
@@ -214,7 +215,7 @@ Udemy Courses
 </td>
         </tr>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"><br><br>
 
@@ -229,7 +230,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 Udemy Courses
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"></img></a>
 <br><br>
@@ -244,11 +245,10 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 Udemy Courses
-
 </td>
         </tr>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 <br><br>
@@ -256,7 +256,7 @@ Udemy Courses
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
 * Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String}
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
 <a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
 <br><br>
@@ -268,6 +268,7 @@ Udemy Courses
     </tbody>
 </table>
 </details>
+
 <table>
     <tbody>
         <tr>
@@ -278,12 +279,13 @@ Udemy Courses
         </tr>
     </tbody>
 </table>
+
 <details>
 <summary>2 Skills Details</summary>
 <table>
     <tbody>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/operating-systems.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
@@ -296,7 +298,7 @@ Udemy Courses
 * Operating Systems Concepts, OS Architecture, Types, and Components, Processes and Process Scheduling, Threads and Multithreading, Inter-Process Communication (Pipes, Shared Memory, Message Queues), Synchronization Issues: Deadlocks, Race Conditions, Synchronization Mechanisms (Mutex, Semaphores, Monitors), Memory Management: Paging and Segmentation, Virtual Memory and Demand Paging, File Systems and Storage Management, I/O Management and Device Drivers, Security and Protection Mechanisms, Distributed Operating Systems, Virtualization and Containerization Concepts
 * Parallel Computing Concepts, Flynn’s Taxonomy and Parallel System Architectures, Processes vs Threads in Parallelism, Thread-Level Parallelism (TLP), Synchronization, Deadlocks, and Race Conditions in Parallel Programs, Shared Memory vs Distributed Memory Models, Parallel Programming Models (OpenMP, MPI, CUDA), Data Parallelism and Task Parallelism, Load Balancing and Work Distribution Strategies, Performance Metrics (Speedup, Efficiency, Scalability), GPU Computing Fundamentals, Parallel Algorithms: Sorting, Searching, MapReduce and Large-Scale Distributed Processing, Debugging and Profiling Parallel Programs, Fault Tolerance in Parallel Systems
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql-server-database.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/postgresql-database.png"></img></a>
@@ -311,7 +313,7 @@ Udemy Courses
 </td>
         </tr>
         <tr>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/operating-system-apps.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/parallel-computing-apps.png"></img></a>
 <br><br>
@@ -327,7 +329,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 Udemy Courses
 </td>
-<td colspan="2" align="left">
+<td colspan="2" width="50%" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png">
 <br><br>
@@ -357,117 +359,218 @@ Udemy Courses
 
 ## Data Analyst and Business Intelligence Analyst Skills
 
-<details>
-<summary>5 Skills</summary>
 <table>
     <tbody>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">01  Python/R Programming</h3>
-* Data Types, Conditions, Loops, Functions, Modules, Packages, OOP Concepts, Exception Handling, File Handling, Debugging, Unit Testing, Data Serialization. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics Fundamentals</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Data Manipulation and Data Visualization</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mathematics.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/probability-statistics.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/r.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
+<br><br>
+
+* Data Types, Conditions, Loops, Functions, Modules, Packages, OOP Concepts, Exception Handling, File Handling, Debugging, Unit Testing, Data Serialization, Descriptive Statistics, Probability Distributions, Hypothesis Testing, Sampling Techniques, Experimental Design, A/B Testing, Statistical Inference, Bayesian Statistics
 </td>
-<td width="500px" align="left">
-<h3 align="left">01  Statistics Fundamentals</h3>
-* Descriptive Statistics, Probability Distributions, Hypothesis Testing, Sampling Techniques, Experimental Design, A/B Testing, Statistical Inference, Bayesian Statistics. <br>
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/matplotlib.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pandas.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
+<br><br>
+
+* NumPy, Pandas, Cleaning Data, Filtering and Selecting Data, Reshaping Data, Joining Data, Grouping and Aggregating Data, Pivoting Data, Dates and Times Data, Matplotlib, Seaborn, Visualizing Geospatial Data, Visualizing Time Series Data, Customising Plots, Plot Numerical and Categorical Features <br><br>
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">02  Data Wrangling and Manipulation</h3>
-* NumPy, Pandas, Cleaning Data, Filtering and Selecting Data, Reshaping Data, Joining Data, Grouping and Aggregating Data, Pivoting Data, Dates and Times Data. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
-<td width="500px" align="left">
-<h3 align="left">02  Data Visualization</h3>
-* Matplotlib, Seaborn, Visualizing Geospatial Data, Visualizing Time Series Data, Customising Plots, Plot Numerical and Categorical Features. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Google Sheets and Excel Fundamentals</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analytics.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
+<br><br>
+
+* One-hot Encoding, Bin/Encode Feature, Scale Feature, Transform Feature, Variance Threshold, K Best Features, Features by Significance, Features by Model, Boxplot, Modified Z-Score, Isolation Forest, Local Factor, DBSCAN, k-Means Outlier Detection, SMOTE, Borderline SMOTE, SMOTE ENN, SMOTE Tomek Oversampling
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/googlesheets.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
+<br><br>
+
+* Formulas, Pivot Tables, Charts, Conditional Formatting, Data Preparation, Data Visualization, Error and Uncertainty <br><br><br><br><br>
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">03  Feature Engineering and Selection</h3>
-* One-hot Encoding, Bin/Encode Feature, Scale Feature, Transform Feature, Variance Threshold, K Best Features, Features by Significance, Features by Model. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
-<td width="500px" align="left">
-<h3 align="left">03  Outlier and Imbalanced Data Handling</h3>
-* Boxplot, Modified Z-Score, Isolation Forest, Local Factor, DBSCAN, k-Means Outlier Detection, SMOTE, Borderline SMOTE, SMOTE ENN, SMOTE Tomek Oversampling. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-2.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI or Tableau</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nosql.png"></img></a>
+<br><br>
+
+* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
+* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/powerbi.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tableau.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
+<br><br>
+
+* coming soon <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">04  SQL/NoSQL Databases Fundamentals</h3>
-* Basic Syntax, Data Definition Language, Data Manipulation Language, Querying Data, Joins, Aggregating Data, Subqueries and Nested Queries. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-1.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
+
+* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
-<td width="500px" align="left">
-<h3 align="left">04  Google Sheets and Excel Fundamentals</h3>
-* Formulas, Pivot Tables, Charts, Conditional Formatting, Data Preparation, Data Visualization, Error and Uncertainty. <br> 
-<br>
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-1.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">05  Dashboard Development using PowerBI</h3>
-* coming soon <br> 
-<br>
-</td>
-<td width="500px" align="left">
-<h3 align="left">05  Dashboard Development using Tableau</h3>
-* coming soon <br> 
-<br>
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"></img></a>
+<br><br>
+
+* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
         </tr>
     </tbody>
