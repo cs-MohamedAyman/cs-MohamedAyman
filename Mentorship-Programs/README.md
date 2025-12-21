@@ -121,6 +121,15 @@
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
 <td colspan="2" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/multiplayer-games.png"></img></a>
@@ -128,6 +137,15 @@
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
         </tr>
         <tr>
@@ -147,28 +165,6 @@
 
 * 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
 * Skills {Array and Linked List, Stack and Queue, Binary Tree, Strings, Bit Manipulation, Implementation. Warmup and Recursion, Sorting, Search, Math Fundamentals, Queue and Deque, Heap Tree, Hash Table, Binary Search, Sorting, Greedy, Breadth/Depth First Search, Graph, Backtracking}
-</td>
-        </tr>
-        <tr>
-<td colspan="2" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
-<br><br>
-
-* YouTube Courses,
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
-<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
-Udemy Courses
-</td>
-<td colspan="2" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
-<br><br>
-
-* YouTube Courses,
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
-<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
-Udemy Courses
 </td>
         </tr>
     </tbody>
@@ -223,6 +219,15 @@ Udemy Courses
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/advanced-data-structure-libraries.png"><br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
 </td>
 <td colspan="2" align="left">
 <a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/algorithmic-quest-games.png"></img></a>
@@ -230,6 +235,16 @@ Udemy Courses
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+Udemy Courses
+
 </td>
         </tr>
         <tr>
@@ -248,28 +263,6 @@ Udemy Courses
 
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
 * Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String}
-</td>
-        </tr>
-        <tr>
-<td colspan="2" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
-<br><br>
-
-* YouTube Courses,
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
-<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
-Udemy Courses
-</td>
-<td colspan="2" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
-<br><br>
-
-* YouTube Courses,
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
-<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
-Udemy Courses
 </td>
         </tr>
     </tbody>
@@ -324,17 +317,7 @@ Udemy Courses
 <br><br>
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps) 20+ Tasks per Project
-</td>
-<td colspan="2" align="left">
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png">
-<br><br>
 
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps) 20+ Tasks per Project
-</td>
-        </tr>
-        <tr>
-<td colspan="2" align="left">
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
 <br><br>
@@ -345,6 +328,12 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" align="left">
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/object-oriented-systems.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="40" src="/Software-Engineering-Educational-Projects/logos/database-systems-apps.png">
+<br><br>
+
+* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps) 20+ Tasks per Project
+
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
 <br><br>
@@ -359,6 +348,7 @@ Udemy Courses
 </table>
 </details>
 
+<br><br>
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp12.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp11.png"></img></a>
@@ -484,6 +474,7 @@ Udemy Courses
 </table>
 </details>
 
+<br><br>
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp16.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp15.png"></img></a>
@@ -684,6 +675,7 @@ Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Up
 </table>
 </details>
 
+<br><br>
 
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp20.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp19.png"></img></a>
