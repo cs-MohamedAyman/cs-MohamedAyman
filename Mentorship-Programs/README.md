@@ -16,8 +16,6 @@
 
 ## Program Summary
 
-<details>
-<summary>10 Notes</summary>
 <table>
     <tbody>
         <tr>
@@ -62,7 +60,6 @@
         </tr>
     </tbody>
 </table>
-</details>
 
 <br>
 
@@ -73,8 +70,6 @@
 
 ## Undergraduate Intern and Graduate Intern Skills
 
-<details>
-<summary>6 Skills</summary>
 <table>
     <tbody>
         <tr>
@@ -83,6 +78,12 @@
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Linear and Non-Linear Data Structures</h3></td>
         </tr>
+    </tbody>
+</table>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
         <tr>
 <td colspan="2" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
@@ -170,12 +171,23 @@ Udemy Courses
 Udemy Courses
 </td>
         </tr>
+    </tbody>
+</table>
+</details>
+<table>
+    <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Basic + Graph Algorithms Analysis and Design</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Graphical User Interface (GUI) and Unit Testing</h3></td>
         </tr>
+    </tbody>
+</table>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
         <tr>
 <td colspan="2" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
@@ -260,12 +272,23 @@ Udemy Courses
 Udemy Courses
 </td>
         </tr>
+    </tbody>
+</table>
+</details>
+<table>
+    <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Operating Systems + Parallel Processing and Computing</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
+    </tbody>
+</table>
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
         <tr>
 <td colspan="2" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/operating-systems.png"></img></a>
