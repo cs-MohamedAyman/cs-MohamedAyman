@@ -28,8 +28,9 @@ Data Science Educational Projects for computer science students.
 </details>
 
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/deep-predicting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/generative-apps.png"></img></a>
 
-## `Deep Predicting Apps`
+## `Deep Predicting and Generative Apps`
 
 <details>
     <summary>(0 projects)</summary>
@@ -38,9 +39,10 @@ Data Science Educational Projects for computer science students.
 </table>
 </details>
 
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/generative-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/digital-filters-apps.png"></img></a>
 
-## `Generative Apps`
+## `Time Series Forecasting and Digital Filters Apps`
 
 <details>
     <summary>(0 projects)</summary>
@@ -63,28 +65,6 @@ Data Science Educational Projects for computer science students.
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/computer-vision-apps.png"></img></a>
 
 ## `Computer Vision Apps`
-
-<details>
-    <summary>(0 projects)</summary>
-    <br>
-<table>
-</table>
-</details>
-
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/recommender-system-apps.png"></img></a>
-
-## `Recommender System Apps`
-
-<details>
-    <summary>(0 projects)</summary>
-    <br>
-<table>
-</table>
-</details>
-
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="80" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
-
-## `Time Series Forecasting Apps`
 
 <details>
     <summary>(0 projects)</summary>
