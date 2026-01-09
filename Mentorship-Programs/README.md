@@ -372,7 +372,6 @@ Udemy Courses
     </tbody>
 </table>
 
-</details>
 <details>
 <summary>2 Skills Details</summary>
 <table>
@@ -446,7 +445,6 @@ Udemy Courses
     </tbody>
 </table>
 
-</details>
 <details>
 <summary>2 Skills Details</summary>
 <table>
@@ -518,7 +516,6 @@ Udemy Courses
     </tbody>
 </table>
 
-</details>
 <details>
 <summary>2 Skills Details</summary>
 <table>
@@ -588,192 +585,356 @@ Udemy Courses
 
 ## ML/DL Engineer and MLOps Engineer Skills
 
-<details>
-<summary>5 Skills</summary>
 <table>
     <tbody>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">01  Supervised Machine Learning</h3>
-* Linear Models, Neighbors Models, Tree Models,     Ensemble Models, SVM Models, Neural Networks Models, by Scikit-learn. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Supervised and Unsupervised Machine Learning Fundamentals</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Deep Learning and Generative Models Fundamentals</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/supervised-learning.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/unsupervised-learning.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/machine-learning.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
+<br><br>
+
+* Linear Models, Neighbors Models, Tree Models, Ensemble Models, SVM Models, Neural Networks Models, by Scikit-learn, Cluster Models, Decomposition Models by Scikit-learn, Soft Clustering vs. Hard Clustering, Dimensionality Reduction. <br><br><br>
 </td>
-<td width="500px" align="left">
-<h3 align="left">01  Unsupervised Machine Learning</h3>
-* Cluster Models, Decomposition Models by Scikit-learn,  Soft Clustering vs. Hard Clustering, Dimensionality Reduction. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/neural-networks.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/deep-learning.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/generative-adversarial-network.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
+<br><br>
+
+* Artificial NN, Deep NN, Convolution NN, Recurrent NN, by Tensorflow and PyTorch. Hyperparameter Tuning and Optimization, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), Diffusion Models, Autoregressive Models, Autoregressive Flows, Implicit Density Models.
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">02  Deep Learning Fundamentals</h3>
-* Artificial NN, Deep NN, Convolution NN, Recurrent NN, by Tensorflow and PyTorch. Hyperparameter Tuning and Optimization. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-2.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
 </td>
-<td width="500px" align="left">
-<h3 align="left">02  Generative Models Fundamentals</h3>
-* Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), Diffusion Models, Autoregressive Models, Autoregressive Flows, Implicit Density Models. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-        </tr>
-        <tr>
-<td width="500px" align="left">
-<h3 align="left">03  Recommendation Systems</h3>
-* Collaborative Filtering, Content-Based Filtering, Matrix Factorization, Implicit vs. Explicit Feedback, User-item interaction matrix, Online vs. Offline Evaluation, knowledge graphs for recommendations. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
-</td>
-<td width="500px" align="left">
-<h3 align="left">03  Time Series Analysis and Forecasting</h3>
-* Trend, Seasonality, Noise, Stationarity, Autocorrelation, Lagging, Time Series Decomposition, Rolling Statistics, Differencing, Holt-Winters Exponential Smoothing, Fourier Transforms, ARIMA/SARIMA, VAR, LSTM, GRU, Transformer. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-3.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">04  Intro to Natural Language Processing</h3>
-* Regular Expressions, Word Tokenization, Sentiment Analysis, Stemming, Lemmatization, N-Gram Models, CountVectorizer, TF-IDF, similarity scores, Part-of-Speech Tagging, Named-Entity Recognition, Word Embedding, Transformer Models, Sequence-to-Sequence Models. <br> 
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/supervised-predicting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/unsupervised-predicting-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Supervised and Unsupervised Predicting Apps) 20+ Tasks per Project
 </td>
-<td width="500px" align="left">
-<h3 align="left">05  Intro to Computer Vision</h3>
-* Image processing, Filters/Kernels, Contrast, Transformation, Morphology, Image Comparison, Image Restoration, Noise, Segmentation, Tracking, Contours, Detecting Faces, Edge, and Features, Masks and Filters, Measurement, Transfer Learning. <br> 
-<br>
-<br>
-* 4 <a href="/Data-Science-Case-Studies/level-4.md">Case Studies</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearning.AI Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/deep-predicting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/generative-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Deep Predicting and Generative Apps) 20+ Tasks per Project
 </td>
         </tr>
     </tbody>
 </table>
 </details>
 
-
-
-<details>
-<summary>3 Skills</summary>
 <table>
     <tbody>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">01  Git and Shell Foundations</h3>
-* Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Time Series Analysis and Forecasting</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Statistical Models and Digital Filters</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
+<br><br>
+
+* Trend, Seasonality, Noise, Stationarity, Autocorrelation, Lagging, Time Series Decomposition, Rolling Statistics, Differencing, Holt-Winters Exponential Smoothing, Fourier Transforms, ARIMA/SARIMA, VAR, LSTM, GRU, Transformer
 </td>
-<td width="500px" align="left">
-<h3 align="left">01  Docker and Kubernetes Foundations</h3>
-* Foundations of Containerization and Virtualization, Docker Containers, Docker Images, Docker Compose, Deploying Software on Kubernetes, Data Engineering and MLOps, Networking in Docker and Kubernetes. <br> 
-<br>
-* 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/statsmodels.png"></img></a>
+<br><br>
+
+* coming soon <br><br><br><br>
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">02  Building APIs in Python/Golang</h3>
-* RESTful API Concepts, HTTP Methods (GET, POST, PUT, DELETE), Status Codes & Headers, Request/Response Cycle, Routing & Endpoints, URL Parameters & Query Strings, Request Parsing, JSON Serialization/Deserialization, Middleware & Hooks
-Input Validation, Data Models & Schemas, Form Data & Multipart Handling, File Upload/Download, API Keys, JWT (JSON Web Tokens), OAuth2, Role-Based Access Control (RBAC), Unit/Integration Testing, API Testing Tools (Postman, curl, HTTPie), Swagger/OpenAPI Documentation, Caching & Rate Limiting, API Versioning, Environment Variables & Config, Containerization (Docker), CI/CD for API Deployment. <br> 
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
 </td>
-<td width="500px" align="left">
-<h3 align="left">02  Machine Learning in Production</h3>
-* Model Deployment, Inference Pipeline, Batch vs Real-time Inference, Online vs Offline Learning, ML Architecture Patterns, Model Serialization (Pickle, ONNX, SavedModel), Docker Containers, REST/gRPC Serving, Model Versioning, Model Registry, Model Serving (FastAPI, Flask, TensorFlow Serving, TorchServe), API Gateway, Load Balancing, Scalability & Auto-Scaling, Cloud Deployment (AWS/GCP/Azure), Prediction Monitoring, Model Drift & Data Drift, Performance Metrics (Latency, Throughput), Logging (Input/Output/Error Logs), Alerting & Dashboards (Prometheus, Grafana), MLOps Pipelines, Continuous Training (CT), ML Workflow Orchestration (Airflow, Kubeflow, MLflow). <br> 
-<br>
-* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a><br> 
-* YouTube Courses <br> 
-* <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera Courses</a><br> 
-* <a href="/eLearning-Platform-Resources/google-specializations.md">Google Cloud Courses</a><br> 
-* Udemy Courses <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
 </td>
         </tr>
         <tr>
-<td width="500px" align="left">
-<h3 align="left">03  Cloud Computing (AWS)</h3>
-* coming soon <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting Apps) 20+ Tasks per Project
 </td>
-<td width="500px" align="left">
-<h3 align="left">03  Cloud Computing (Microsoft Azure)</h3>
-* coming soon <br> 
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting Apps) 20+ Tasks per Project
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Intro to Natural Language Processing</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Intro to Computer Vision</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/natural-language-processing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/text-mining.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nltk.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gensim.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/spacy.png"></img></a>
+<br><br>
+
+* Regular Expressions, Word Tokenization, Sentiment Analysis, Stemming, Lemmatization, N-Gram Models, CountVectorizer, TF-IDF, similarity scores, Part-of-Speech Tagging, Named-Entity Recognition, Word Embedding, Transformer Models, Sequence-to-Sequence Models
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-vision.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/image-processing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/opencv.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pillow-pil.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-image.png"></img></a>
+<br><br>
+
+* Image processing, Filters/Kernels, Contrast, Transformation, Morphology, Image Comparison, Image Restoration, Noise, Segmentation, Tracking, Contours, Detecting Faces, Edge, and Features, Masks and Filters, Measurement, Transfer Learning <br><br>
+</td>
+        </tr>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-4.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-4.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
+</td>
+        </tr>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/natural-language-processing-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Natural Language Processing Apps) 20+ Tasks per Project
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/computer-vision-apps.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Computer Vision Apps) 20+ Tasks per Project
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo7.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Foundations</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo8.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/devops.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/git.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/bash.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/docker.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/kubernetes.png"></img></a>
+<br><br>
+
+* Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving, Foundations of Containerization and Virtualization, Docker Containers, Docker Images, Docker Compose, Deploying Software on Kubernetes, Data Engineering and MLOps, Networking in Docker and Kubernetes
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-computing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/aws.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gcp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/azure.png"></img></a>
+<br><br>
+
+* coming soon <br><br><br><br><br><br><br>
+</td>
+        </tr>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/google-cloud.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+Udemy Courses
 </td>
         </tr>
     </tbody>
