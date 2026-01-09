@@ -511,7 +511,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI or Tableau</h3></td>
+<td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI or Tableau Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -686,9 +686,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Time Series Analysis and Forecasting</h3></td>
+<td width="42%" align="left"><h3 align="left">Time Series Analysis and Forecasting Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Statistical Models and Digital Filters</h3></td>
+<td width="42%" align="left"><h3 align="left">Statistical Models and Analog/Digital Filters Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -878,9 +878,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo7.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Foundations</h3></td>
+<td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo8.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure</h3></td>
+<td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
