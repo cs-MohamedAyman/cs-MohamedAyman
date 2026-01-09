@@ -699,8 +699,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/time-series-analysis.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
 <br><br>
 
 * Trend, Seasonality, Noise, Stationarity, Autocorrelation, Lagging, Time Series Decomposition, Rolling Statistics, Differencing, Holt-Winters Exponential Smoothing, Fourier Transforms, ARIMA/SARIMA, VAR, LSTM, GRU, Transformer
@@ -708,6 +709,7 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/statsmodels.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
 <br><br>
 
 * coming soon <br><br><br><br>
@@ -758,15 +760,17 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/digital-filters-apps.png"></img></a>
 <br><br>
 
-* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting Apps) 20+ Tasks per Project
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting and Digital Filters Apps) 20+ Tasks per Project
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/time-series-forecasting-apps.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/digital-filters-apps.png"></img></a>
 <br><br>
 
-* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting Apps) 20+ Tasks per Project
+* 4 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Time Series Forecasting and Digital Filters Apps) 20+ Tasks per Project
 </td>
         </tr>
     </tbody>
