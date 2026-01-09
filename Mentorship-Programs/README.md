@@ -777,9 +777,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Intro to Natural Language Processing</h3></td>
+<td width="42%" align="left"><h3 align="left">Intro to Text Analysis and Natural Language Processing</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Intro to Computer Vision</h3></td>
+<td width="42%" align="left"><h3 align="left">Intro to Image Processing and Computer Vision</h3></td>
         </tr>
     </tbody>
 </table>
