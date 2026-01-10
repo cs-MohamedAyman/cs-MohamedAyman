@@ -611,7 +611,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
 <br><br>
 
-* Linear Models, Neighbors Models, Tree Models, Ensemble Models, SVM Models, Neural Networks Models, by Scikit-learn, Cluster Models, Decomposition Models by Scikit-learn, Soft Clustering vs. Hard Clustering, Dimensionality Reduction. <br><br><br>
+* Introduction to Supervised Learning and Problem Types, Data Preparation and Feature Scaling, Linear Regression and Assumptions, Polynomial Regression and Regularization, Logistic Regression for Classification, k-Nearest Neighbors (k-NN), Decision Trees for Classification and Regression, Ensemble Methods: Bagging and Random Forest, Boosting Algorithms: AdaBoost, Gradient Boosting, XGBoost, Support Vector Machines (SVM), Model Evaluation Metrics and Cross-Validation, Handling Imbalanced Datasets, Feature Selection and Importance, End-to-End Supervised ML Pipeline <br><br>
+* Introduction to Unsupervised Learning, Data Exploration for Unsupervised Tasks, K-Means Clustering and Initialization Strategies, Hierarchical Clustering and Linkage Methods, Density-Based Clustering (DBSCAN, HDBSCAN), Gaussian Mixture Models, Principal Component Analysis (PCA), t-SNE and UMAP for Visualization, Association Rule Mining, Anomaly Detection Techniques, Clustering Evaluation Metrics <br><br><br><br>
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/neural-networks.png"></img></a>
@@ -620,7 +621,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
 <br><br>
 
-* Artificial NN, Deep NN, Convolution NN, Recurrent NN, by Tensorflow and PyTorch. Hyperparameter Tuning and Optimization, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), Diffusion Models, Autoregressive Models, Autoregressive Flows, Implicit Density Models.
+* Introduction to Deep Learning Concepts, Neural Network Architecture and Terminology, Activation Functions and Non-Linearity, Loss Functions for Regression and Classification, Backpropagation and Gradient Descent, Optimizers and Learning Rate Scheduling, Regularization Techniques and Batch Normalization, Weight Initialization Strategies, Convolutional Neural Networks (CNN) Fundamentals, Recurrent Neural Networks (RNN, LSTM, GRU), Training Pipelines and Callbacks, Data Augmentation Techniques, Transfer Learning and Fine-Tuning, Hyperparameter Optimization, Model Explainability and Interpretability, Deploying Deep Learning Models
+* Introduction to Generative Modeling, Probability Distributions and Latent Variables, Autoencoders and Variational Autoencoders (VAE), GAN Architecture and Training Dynamics, Deep Convolutional GANs (DCGAN), Conditional GANs and StyleGAN, Sampling and Latent Space Exploration, Image, Text, and Audio Generation Applications, Advanced GAN Variants (CycleGAN, Pix2Pix), Diffusion Models Fundamentals, Evaluation Metrics for Generative Models, Ethical Risks and Deepfake Detection, Fine-Tuning Pretrained Generative Models, Deploying Generative Models
 </td>
         </tr>
         <tr>
@@ -707,7 +709,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
 <br><br>
 
-* Trend, Seasonality, Noise, Stationarity, Autocorrelation, Lagging, Time Series Decomposition, Rolling Statistics, Differencing, Holt-Winters Exponential Smoothing, Fourier Transforms, ARIMA/SARIMA, VAR, LSTM, GRU, Transformer
+* Introduction to Time Series Data, Components of Time Series, Time Series Decomposition Methods, Moving Averages and Smoothing Techniques, Stationarity and Trend Analysis, Autocorrelation and Partial Autocorrelation, AR, MA, and ARMA Models, ARIMA and SARIMA Modeling, State Space Models, Prophet and Modern Forecasting Tools, Multivariate Time Series Models, Time Series Cross-Validation, Anomaly Detection in Time Series, Time Series Deployment and Monitoring
+* Forecasting Problem Formulation, Baseline Forecasting Techniques, Statistical Forecasting Models, Feature Engineering for Forecasting, Machine Learning for Forecasting, Deep Learning for Forecasting (LSTM, GRU), Handling Seasonality and Holidays, Multi-Step and Multi-Horizon Forecasting, Forecast Evaluation Metrics, Probabilistic Forecasting, Forecasting at Scale, Real-Time Forecast Deployment
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
@@ -715,7 +718,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
 <br><br>
 
-* coming soon <br><br><br><br>
+* Probability Theory and Random Variables, Descriptive Statistics and Distributions, Statistical Inference and Hypothesis Testing, Confidence Intervals and Estimation, Linear Regression Models, Generalized Linear Models (GLM), Model Assumptions and Diagnostics, Multicollinearity and Model Stability, Time Series Statistical Models, Bayesian Statistics Fundamentals, Statistical Model Selection, Applications of Statistical Modeling <br><br><br>
+* Introduction to Signals and Systems, Analog Filters: Low-Pass, High-Pass, Band-Pass, Frequency Response and Bode Plots, Digital Signal Representation, FIR Filters Design, IIR Filters Design, Z-Transform and Stability Analysis, Filter Implementation Techniques, Noise Reduction and Signal Smoothing, Real-World DSP Applications <br><br>
 </td>
         </tr>
         <tr>
@@ -804,7 +808,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/spacy.png"></img></a>
 <br><br>
 
-* Regular Expressions, Word Tokenization, Sentiment Analysis, Stemming, Lemmatization, N-Gram Models, CountVectorizer, TF-IDF, similarity scores, Part-of-Speech Tagging, Named-Entity Recognition, Word Embedding, Transformer Models, Sequence-to-Sequence Models
+* Introduction to Text Analytics, Text Cleaning and Normalization, Tokenization and N-Grams, Bag of Words and TF-IDF, Keyword Extraction Techniques, Topic Modeling (LDA, NMF), Text Similarity and Search, Sentiment Analysis Basics, Text Classification Pipelines, Business Applications of Text Analysis
+* NLP Overview and Applications, Text Preprocessing Pipelines, Tokenization and Morphological Processing, POS Tagging and Parsing, Feature Extraction for Text, Word Embeddings (Word2Vec, GloVe, FastText), Text Classification Models, Named Entity Recognition, Sentiment Analysis, Topic Modeling, Sequence Models for NLP, Transformer-Based NLP Models, Text Generation Techniques, Ethics and Bias in NLP <br><br>
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-vision.png"></img></a>
@@ -814,7 +819,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-image.png"></img></a>
 <br><br>
 
-* Image processing, Filters/Kernels, Contrast, Transformation, Morphology, Image Comparison, Image Restoration, Noise, Segmentation, Tracking, Contours, Detecting Faces, Edge, and Features, Masks and Filters, Measurement, Transfer Learning <br><br>
+* Digital Image Fundamentals, Image Enhancement Techniques, Image Filtering and Edge Detection, Histogram Processing, Morphological Operations, Image Segmentation Basics, Feature Detection and Extraction, Image Compression, Image Noise Reduction, Image Processing Applications
+* Introduction to Computer Vision, Image Representation and Color Spaces, Image Processing with OpenCV, Feature Detection Techniques, Image Classification Fundamentals, Convolutional Neural Networks, Data Augmentation for Vision, Object Detection Models, Image Segmentation Models, Transfer Learning for Vision, Video Processing and Tracking, Face Detection and Recognition, Vision Model Evaluation, Vision Model Deployment
 </td>
         </tr>
         <tr>
@@ -901,7 +907,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/kubernetes.png"></img></a>
 <br><br>
 
-* Git Basics, Version History, Branches, Merge/Rebase Branch, Pull/Push Commits, Resolving Conflicts, File Management, File Content, Permissions, Networking, Process Management, Disk Management, Archiving, Foundations of Containerization and Virtualization, Docker Containers, Docker Images, Docker Compose, Deploying Software on Kubernetes, Data Engineering and MLOps, Networking in Docker and Kubernetes
+* Version Control Concepts and Git Basics, Local and Remote Repositories, Branching and Merging Strategies, Pull Requests and Code Reviews, Resolving Merge Conflicts, Advanced Git Commands, Git Hooks and Automation, Git Workflow Best Practices, Linux File System Navigation, Shell Commands and Utilities, Bash Scripting Fundamentals, Process and Permission Management, Networking and System Logs, Package Management and Updates
+* Containerization Concepts, Docker Architecture and CLI, Writing Dockerfiles, Docker Images and Registries, Docker Networking and Volumes, Docker Compose, Introduction to Container Orchestration, Kubernetes Architecture, Pods, Deployments, and ReplicaSets, Services and Ingress, ConfigMaps and Secrets, Persistent Storage in Kubernetes, Scaling and Rolling Updates, Monitoring and Health Checks, Helm and Kubernetes Package Management
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-computing.png"></img></a>
@@ -911,7 +918,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/azure.png"></img></a>
 <br><br>
 
-* coming soon <br><br><br><br><br><br><br>
+* Cloud Computing Fundamentals, AWS Global Infrastructure, EC2 and Virtual Servers, EBS and Instance Storage, S3 and Object Storage, IAM and Security Management, AWS Lambda and Serverless, RDS and Aurora, DynamoDB, API Gateway and Load Balancers, SageMaker for ML, Auto Scaling and ELB, CloudWatch Monitoring, Infrastructure as Code (CloudFormation), Cost Management and Optimization <br><br>
+* Azure Cloud Fundamentals, Azure Core Services Overview, Azure Virtual Machines, Azure Storage Accounts, Blob Storage and Data Lake, Containers on Azure (ACI, AKS), Azure Functions, Azure DevOps CI/CD Pipelines, Azure ML Studio, Azure App Services, Identity and Access Management, Azure Networking, Azure Monitor and Logging, Backup and Disaster Recovery, Cost Management and Optimization <br><br>
 </td>
         </tr>
         <tr>
