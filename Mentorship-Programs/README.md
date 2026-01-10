@@ -110,9 +110,8 @@
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
 <br><br>
 
-* Introduction to Linear Data Structures, Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked Lists: Singly, Doubly and Circular Linked Lists, Stack: Array and Linked List Implementations, Queue: Array and Linked List Implementations, Circular Queue and Double-Ended Queue (Deque), Complexity Analysis of Linear Data Structures, Memory Management in Linear Structures, Recursion in Linear Data Structures
-* Introduction to Non-Linear Data Structures, Trees: Basic Terminologies and Types, Binary Tree: Structure, Traversals (Pre, In, Post-Order), Binary Search Tree (BST): Insertion, Deletion, Search, AVL Tree, Red Black Tree: Balancing, Rotations, Heaps: Max-Heap, Min-Heap, Trie Data Structure and Applications, Introduction to Graph Theory and Representations, Depth-First Search (DFS) and Breadth-First Search (BFS), Applications of Trees and Graphs, Disjoint Set (Union-Find)
-<br><br>
+* Introduction to Linear Data Structures, Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked Lists: Singly, Doubly and Circular Linked Lists, Stack: Array and Linked List Implementations, Queue: Array and Linked List Implementations, Circular Queue and Double-Ended Queue (Deque), Complexity Analysis of Linear Data Structures, Memory Management in Linear Structures, Recursion in Linear Data Structures <br><br>
+* Introduction to Non-Linear Data Structures, Trees: Basic Terminologies and Types, Binary Tree: Structure, Traversals (Pre, In, Post-Order), Binary Search Tree (BST): Insertion, Deletion, Search, AVL Tree, Red Black Tree: Balancing, Rotations, Heaps: Max-Heap, Min-Heap, Trie Data Structure and Applications, Introduction to Graph Theory and Representations, Depth-First Search (DFS) and Breadth-First Search (BFS), Applications of Trees and Graphs, Disjoint Set (Union-Find) <br><br>
 </td>
         </tr>
         <tr>
@@ -211,9 +210,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
 <br><br>
 
-* GUI Concepts, GUI Frameworks, Event-Driven Programming Concepts, Windows, Panels, and Layout Management, Widgets and Controls, Menus, Toolbars, and Dialog Boxes, Managing User Input and Validations, Model–View–Controller (MVC) in GUI Design, Custom Widgets and Component Styling, Handling Images, Icons, and Multimedia Elements, Forms, Data Binding, and GUI–Backend Communication, Multi-Window Applications, Accessibility and Usability in GUI Design, Localization and Internationalization of GUIs, GUI Testing and Automated UI Testing
-* Test-Driven Development (TDD) Principles, Testing Frameworks Overview, Test Fixtures, Setup, and Teardown, Assertions and Matchers, Mocking and Stubbing, Testing Exceptions and Edge Cases, Parameterized and Data-Driven Tests, Code Coverage and Test Quality Measurement, Integration Between Unit Testing and CI/CD, Testing Asynchronous and Parallel Code, Refactoring Code for Testability
-<br><br><br><br><br>
+* GUI Concepts, GUI Frameworks, Event-Driven Programming Concepts, Windows, Panels, and Layout Management, Widgets and Controls, Menus, Toolbars, and Dialog Boxes, Managing User Input and Validations, Model–View–Controller (MVC) in GUI Design, Custom Widgets and Component Styling, Handling Images, Icons, and Multimedia Elements, Forms, Data Binding, and GUI–Backend Communication, Multi-Window Applications, Accessibility and Usability in GUI Design, Localization and Internationalization of GUIs, GUI Testing and Automated UI Testing <br><br>
+* Test-Driven Development (TDD) Principles, Testing Frameworks Overview, Test Fixtures, Setup, and Teardown, Assertions and Matchers, Mocking and Stubbing, Testing Exceptions and Edge Cases, Parameterized and Data-Driven Tests, Code Coverage and Test Quality Measurement, Integration Between Unit Testing and CI/CD, Testing Asynchronous and Parallel Code, Refactoring Code for Testability <br><br><br><br><br>
 </td>
         </tr>
         <tr>
@@ -310,8 +308,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/redis-database.png"></img></a>
 <br><br>
 
-* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
-* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
+* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning <br>
+* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas) <br><br>
 </td>
         </tr>
         <tr>
@@ -384,7 +382,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
 <br><br>
 
-* Data Types, Conditions, Loops, Functions, Modules, Packages, OOP Concepts, Exception Handling, File Handling, Debugging, Unit Testing, Data Serialization, Descriptive Statistics, Probability Distributions, Hypothesis Testing, Sampling Techniques, Experimental Design, A/B Testing, Statistical Inference, Bayesian Statistics
+* Syntax fundamentals & data types, Control structures (if, for, while), Functions & modules/packages, File handling (read/write), Data structures: lists, tuples, dictionaries, sets, Data manipulation libraries (pandas, numpy / dplyr, tidyr), Regular expressions, Error handling and debugging, Working with APIs and JSON, Virtual environments & dependency management, Jupyter Notebook / RStudio usage, Code style & documentation best practices
+* Descriptive statistics (mean, median, mode), Measures of spread (variance, standard deviation, IQR), Probability theory basics, Probability distributions (Normal, Binomial, Poisson), Hypothesis testing (t-test, chi-square, ANOVA), Confidence intervals, Correlation and causation, P-values and significance levels, Central Limit Theorem, Sampling techniques, Statistical power analysis, Bayesian vs Frequentist approaches
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
@@ -393,7 +392,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
 <br><br>
 
-* NumPy, Pandas, Cleaning Data, Filtering and Selecting Data, Reshaping Data, Joining Data, Grouping and Aggregating Data, Pivoting Data, Dates and Times Data, Matplotlib, Seaborn, Visualizing Geospatial Data, Visualizing Time Series Data, Customising Plots, Plot Numerical and Categorical Features <br><br>
+* Handling missing data, Data type conversions, Merging and joining datasets, Grouping and aggregation, String manipulation, Date and time handling, Pivot tables and reshaping data, Outlier detection & treatment, Data normalization and scaling, Encoding categorical variables, Data deduplication, Feature extraction <br><br><br>
+* Principles of effective visualization, Line, bar, and scatter plots, Histograms and boxplots, Heatmaps and correlation matrices, Geospatial visualizations (maps), Interactive dashboards, Multi-variable plotting, Customizing plots (color, size, labels), Advanced plotting libraries (seaborn, plotly, ggplot2), Storytelling with data, Data-driven infographics, Animation in plots
 </td>
         </tr>
         <tr>
@@ -456,7 +456,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
 <br><br>
 
-* One-hot Encoding, Bin/Encode Feature, Scale Feature, Transform Feature, Variance Threshold, K Best Features, Features by Significance, Features by Model, Boxplot, Modified Z-Score, Isolation Forest, Local Factor, DBSCAN, k-Means Outlier Detection, SMOTE, Borderline SMOTE, SMOTE ENN, SMOTE Tomek Oversampling
+* Binning and discretization, Interaction, Polynomial features, Date-time feature extraction, Encoding techniques (one-hot, label), Handling multicollinearity, Feature importance methods, Recursive Feature Elimination (RFE), Regularization techniques (LASSO, Ridge), Dimensionality reduction (PCA, t-SNE), Domain-specific feature creation
+* Outlier detection (IQR, Z-score, DBSCAN), Capping and flooring techniques, Data transformations (log, Box-Cox), Handling class imbalance (oversampling, SMOTE, undersampling), Evaluation metrics for imbalance (F1-score, ROC-AUC), Isolation Forest and other anomaly detection models, Ensemble-based anomaly detection, Outlier impact analysis, Resampling techniques, Synthetic data generation
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
@@ -464,7 +465,7 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
 <br><br>
 
-* Formulas, Pivot Tables, Charts, Conditional Formatting, Data Preparation, Data Visualization, Error and Uncertainty <br><br><br><br><br>
+* Basic formulas and functions, Lookup and reference functions (VLOOKUP, INDEX-MATCH), Pivot Tables for Data Summarization, Conditional Formatting for Visual Alerts, Data Validation and Error Handling, Creating Charts and Visualizations, Array Formulas and Dynamic Ranges, Automating Tasks with Macros and Scripting, Data Cleaning with Text Functions, Scenario Analysis: What-If and Goal Seek, Import/export from external data sources <br><br><br><br><br><br>
 </td>
         </tr>
         <tr>
@@ -536,7 +537,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
 <br><br>
 
-* coming soon <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+* Introduction to PowerBI Interface and Workflow, Connecting and Importing Data Sources, Data Cleaning and Transformation with Power Query, Data Modeling and Relationships, DAX Basics: Measures and Calculated Columns, Creating Basic and Custom Visualizations, Building Interactive Filters and Slicers, Drill-down, Drill-through, and Tooltip Customization, Bookmarks and Page Navigation, KPI Cards, Gauges, and Indicators, PowerBI Service: Dashboard Sharing and Publishing, Performance Optimization and Query Diagnostics <br><br><br>
+* Tableau Interface and Workflow Basics, Connecting to Various Data Sources, Data Preparation and Cleaning within Tableau, Visualizing Data using Bar, Line, and Scatter Charts, Maps and Geographical Data Visualizations, Calculated Fields and Table Calculations, Interactive Filters, Parameters, and Highlight Actions, Level of Detail (LOD) Expressions, Data Blending and Joining in Tableau, Dashboard and Story Design Principles, Publishing Dashboards to Tableau Public/Server, Security and User Access Control <br><br><br>
 </td>
         </tr>
         <tr>
