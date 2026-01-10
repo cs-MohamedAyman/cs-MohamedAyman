@@ -4,7 +4,7 @@
     <tbody>
 <tr>
 <td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/announcement.png" width="100%"></img></a></td>
-<td align="center" width="50%"><h2>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h2><br></td>
+<td align="center" width="50%"><h3>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
 <td align="center" width="30%"><h3>not sure yet to apply or not? <br><a href="https://forms.gle/UMbhm5CePHb5gS9a8">ask all your questions</a></h3><br></td>
 <td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/memo.png" width="100%"></img></a></td>
 </tr>
@@ -991,7 +991,7 @@ Udemy Courses
     <tbody>
 <tr>
 <td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/announcement.png" width="100%"></img></a></td>
-<td align="center" width="50%"><h2>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h2><br></td>
+<td align="center" width="50%"><h3>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
 <td align="center" width="30%"><h3>not sure yet to apply or not? <br><a href="https://forms.gle/UMbhm5CePHb5gS9a8">ask all your questions</a></h3><br></td>
 <td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/memo.png" width="100%"></img></a></td>
 </tr>
