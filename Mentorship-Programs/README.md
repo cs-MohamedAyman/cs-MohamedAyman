@@ -77,7 +77,7 @@
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Programming Language and Object-Oriented Programming</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Linear and Non-Linear Data Structures</h3></td>
+<td width="42%" align="left"><h3 align="left">Linear and Non-Linear Data Structures Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -176,9 +176,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Basic + Graph Algorithms Analysis and Design</h3></td>
+<td width="42%" align="left"><h3 align="left">Basic/Graph Algorithms Analysis and Design Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Graphical User Interface (GUI) and Unit Testing</h3></td>
+<td width="42%" align="left"><h3 align="left">Graphical User Interface (GUI) and Unit Testing Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -275,7 +275,7 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Operating Systems + Parallel Processing and Computing</h3></td>
+<td width="42%" align="left"><h3 align="left">Operating Systems and Parallel Processing Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
@@ -367,7 +367,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Data Manipulation and Data Visualization</h3></td>
+<td width="42%" align="left"><h3 align="left">Data Manipulation and Visualization Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -440,7 +440,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Google Sheets and Excel Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Google Sheets and Microsoft Excel Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -511,7 +511,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI or Tableau Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI/Tableau Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -589,7 +589,7 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Supervised and Unsupervised Machine Learning Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Supervised/Unsupervised Machine Learning Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Deep Learning and Generative Models Fundamentals</h3></td>
         </tr>
