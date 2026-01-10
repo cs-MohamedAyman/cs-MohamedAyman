@@ -382,8 +382,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
 <br><br>
 
-* Syntax fundamentals & data types, Control structures (if, for, while), Functions & modules/packages, File handling (read/write), Data structures: lists, tuples, dictionaries, sets, Data manipulation libraries (pandas, numpy / dplyr, tidyr), Regular expressions, Error handling and debugging, Working with APIs and JSON, Virtual environments & dependency management, Jupyter Notebook / RStudio usage, Code style & documentation best practices
-* Descriptive statistics (mean, median, mode), Measures of spread (variance, standard deviation, IQR), Probability theory basics, Probability distributions (Normal, Binomial, Poisson), Hypothesis testing (t-test, chi-square, ANOVA), Confidence intervals, Correlation and causation, P-values and significance levels, Central Limit Theorem, Sampling techniques, Statistical power analysis, Bayesian vs Frequentist approaches
+* Introduction to Programming Concepts and Syntax, Data Types and Variable Management, Control Flow: If Statements, Loops, and Logical Operators, Functions, Modules, and Code Structuring, Working with File Systems: Read/Write Operations, Data Structures: Lists, Tuples, Dictionaries, Sets, Error Handling and Debugging Techniques, Data Analysis Libraries: pandas, numpy (or dplyr, tidyr), Regular Expressions for Text Processing, API Integration and JSON Handling, Environment Setup and Dependency Management, Jupyter Notebook / RStudio for Interactive Analysis, Best Practices in Code Style and Documentation
+* Overview of Descriptive and Inferential Statistics, Measures of Central Tendency: Mean, Median, Mode, Measures of Dispersion: Variance, Standard Deviation, Range, Probability Basics and Probability Distributions, Hypothesis Testing: Concepts and Applications, Confidence Intervals and Margin of Error, Correlation and Covariance Analysis, P-values, Statistical Significance, and Errors, Introduction to Bayesian Statistics, Sampling Techniques and Bias Considerations, Central Limit Theorem and Law of Large Numbers, Statistical Power, Effect Size, and Sample Size Calculations
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
@@ -392,8 +392,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
 <br><br>
 
-* Handling missing data, Data type conversions, Merging and joining datasets, Grouping and aggregation, String manipulation, Date and time handling, Pivot tables and reshaping data, Outlier detection & treatment, Data normalization and scaling, Encoding categorical variables, Data deduplication, Feature extraction <br><br><br>
-* Principles of effective visualization, Line, bar, and scatter plots, Histograms and boxplots, Heatmaps and correlation matrices, Geospatial visualizations (maps), Interactive dashboards, Multi-variable plotting, Customizing plots (color, size, labels), Advanced plotting libraries (seaborn, plotly, ggplot2), Storytelling with data, Data-driven infographics, Animation in plots
+* Data Cleaning and Handling Missing Values, Data Type Conversion and Type Inference, Merging, Joining, and Concatenating Datasets, Grouping, Aggregating, and Summarizing Data, String Operations and Text Data Handling, Date and Time Parsing, Extraction, and Formatting, Data Reshaping: Pivoting and Melting, Outlier Detection and Treatment Strategies, Feature Encoding Techniques (Label, One-Hot), Data Normalization and Scaling, Removing Duplicates and Ensuring Data Integrity, Automating Data Preparation Workflows <br><br>
+* Principles of Effective Data Visualization, Creating Line, Bar, and Scatter Plots, Histograms, Boxplots, and Distribution Analysis, Heatmaps and Correlation Matrix Visualizations, Geospatial Mapping and Choropleths, Multi-variable and Subplot Visualizations, Advanced Plot Customization (Colors, Labels, Styles), Interactive Visualization Tools and Techniques, Dashboard Layout Principles and Visual Balance, Visualizing Time Series and Trends, Animating Visualizations for Presentation, Storytelling with Data and Visual Narratives <br><br>
 </td>
         </tr>
         <tr>
@@ -456,8 +456,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
 <br><br>
 
-* Binning and discretization, Interaction, Polynomial features, Date-time feature extraction, Encoding techniques (one-hot, label), Handling multicollinearity, Feature importance methods, Recursive Feature Elimination (RFE), Regularization techniques (LASSO, Ridge), Dimensionality reduction (PCA, t-SNE), Domain-specific feature creation
-* Outlier detection (IQR, Z-score, DBSCAN), Capping and flooring techniques, Data transformations (log, Box-Cox), Handling class imbalance (oversampling, SMOTE, undersampling), Evaluation metrics for imbalance (F1-score, ROC-AUC), Isolation Forest and other anomaly detection models, Ensemble-based anomaly detection, Outlier impact analysis, Resampling techniques, Synthetic data generation
+* Introduction to Feature Engineering Concepts, Handling Categorical Features (Encoding Techniques), Creating Interaction and Polynomial Features, Binning, Bucketing, and Discretizing Numerical Features, Date-Time Feature Extraction (Day, Weekday, Month, etc.), Handling Missing Values in Features, Detecting and Handling Multicollinearity, Using Feature Importance Scores from Models, Recursive Feature Elimination (RFE) Techniques, Regularization Methods (LASSO, Ridge) for Feature Selection, Dimensionality Reduction with PCA, Automated Feature Engineering Tools and Libraries
+* Introduction to Anomalies and Outliers, Outlier Detection using IQR and Z-score Methods, Isolation Forest and DBSCAN for Anomaly Detection, Outlier Treatment: Capping, Flooring, and Removal, Overview of Class Imbalance Challenges, Oversampling and Undersampling Techniques, Synthetic Minority Oversampling (SMOTE), Cost-sensitive Learning Approaches, Adjusting Decision Thresholds, Using ROC-AUC and Precision-Recall Metrics for Evaluation, Generating Synthetic Data for Minority Classes, Ensemble Techniques for Imbalanced Data
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
@@ -465,7 +465,8 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
 <br><br>
 
-* Basic formulas and functions, Lookup and reference functions (VLOOKUP, INDEX-MATCH), Pivot Tables for Data Summarization, Conditional Formatting for Visual Alerts, Data Validation and Error Handling, Creating Charts and Visualizations, Array Formulas and Dynamic Ranges, Automating Tasks with Macros and Scripting, Data Cleaning with Text Functions, Scenario Analysis: What-If and Goal Seek, Import/export from external data sources <br><br><br><br><br><br>
+* Introduction to Google Sheets Interface and Navigation, Data Entry, Formatting, and Cell Referencing, Essential Formulas and Functions, Conditional Formatting and Data Validation, Sorting, Filtering, and Data Cleaning, Pivot Tables and Pivot Charts, Data Visualization with Charts and Dashboards, Collaboration, Sharing, and Version Control, Connecting Google Sheets with External Data Sources, Automation with Google Apps Script (Basics) <br><br><br>
+* Excel Interface, Workbooks, and Worksheets, Cell Referencing, Named Ranges, and Formatting, Core Functions and Formulas, Logical, Lookup, and Text Functions, Data Cleaning and Transformation, Sorting, Filtering, and Advanced Filters, Pivot Tables and Pivot Charts, Excel Charts and Data Visualization, What-If Analysis and Scenario Manager, Data Analysis ToolPak and Statistical Functions, Power Query and Power Pivot Basics, Excel Automation with Macros (VBA Introduction) <br><br><br>
 </td>
         </tr>
         <tr>
