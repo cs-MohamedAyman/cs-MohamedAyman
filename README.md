@@ -10,28 +10,28 @@
         </tr>
         <tr>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp01.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp02.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp03.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp04.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp01.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp02.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp03.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp04.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp09.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp10.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp11.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp12.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp09.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp10.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp11.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp12.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp13.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp14.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp15.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp16.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp13.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp14.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp15.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp16.png" width="33%"></img></a>
 </td>
 <td align="center">
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp17.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp18.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp19.png" width="33%"></img></a>
-    <a href="/Mentorship-Programs/README.md"><img src="/logos/emp20.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp17.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp18.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp19.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp20.png" width="33%"></img></a>
 </td>
         </tr>
     </tbody>

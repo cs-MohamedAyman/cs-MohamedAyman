@@ -3,17 +3,17 @@
 <table>
     <tbody>
 <tr>
-<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/announcement.png" width="100%"></img></a></td>
 <td align="center" width="50%"><h3>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3></td>
 <td align="center" width="30%"><h3>not sure yet to apply or not? <br><a href="https://forms.gle/UMbhm5CePHb5gS9a8">ask all your questions</a></h3></td>
-<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/memo.png" width="100%"></img></a></td>
+<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/memo.png" width="100%"></img></a></td>
 </tr>
     </tbody>
 </table>
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/agenda.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/icons/agenda.png"></img></a>
 
 ## Program Summary
 
@@ -64,19 +64,19 @@
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp04.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp03.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp02.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp01.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp04.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp03.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp02.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp01.png"></img></a>
 
 ## Undergraduate Intern and Graduate Intern Skills
 
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Programming Language and Object-Oriented Programming</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Linear and Non-Linear Data Structures Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -174,9 +174,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Basic/Graph Algorithms Analysis and Design Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Graphical User Interface (GUI) and Unit Testing Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -272,9 +272,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Operating Systems and Parallel Processing Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -352,19 +352,19 @@ Udemy Courses
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp12.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp11.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp10.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp09.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp12.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp11.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp10.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp09.png"></img></a>
 
 ## Data Analyst and Business Intelligence Analyst Skills
 
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Data Manipulation and Visualization Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -437,9 +437,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Google Sheets and Microsoft Excel Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -510,9 +510,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI/Tableau Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -581,19 +581,19 @@ Udemy Courses
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp16.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp15.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp14.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp13.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp16.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp15.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp14.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp13.png"></img></a>
 
 ## ML/DL Engineer and MLOps Engineer Skills
 
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo1.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Supervised/Unsupervised Machine Learning Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo2.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Deep Learning and Generative Models Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -690,9 +690,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo3.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Time Series Analysis and Forecasting Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo4.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Statistical Models and Analog/Digital Filters Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -787,9 +787,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo5.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Intro to Text Analysis and Natural Language Processing</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo6.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Intro to Image Processing and Computer Vision</h3></td>
         </tr>
     </tbody>
@@ -886,9 +886,9 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo7.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo7.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/icons/logo8.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo8.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure Fundamentals</h3></td>
         </tr>
     </tbody>
@@ -958,10 +958,10 @@ Udemy Courses
 
 <br><br>
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp20.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp19.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp18.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/emp17.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp20.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp19.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp18.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp17.png"></img></a>
 
 ## LLM Engineer and LLMOps Engineer Skills
 
@@ -970,7 +970,7 @@ Udemy Courses
 <br><br>
 
 
-<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/icons/subscription-plan.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/icons/subscription-plan.png"></img></a>
 
 ## Subscription Plans
 
@@ -978,9 +978,9 @@ Udemy Courses
 <summary>3 Subscription Plans</summary>
 <table>
     <tbody>
-<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan1.png"></img></a></td>
-<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan2.png"></img></a></td>
-<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/icons/plan3.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/plan1.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/plan2.png"></img></a></td>
+<td width="650px" align="left"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/plan3.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -990,10 +990,10 @@ Udemy Courses
 <table>
     <tbody>
 <tr>
-<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/announcement.png" width="100%"></img></a></td>
 <td align="center" width="50%"><h3>looking for a mentorship program? <br><a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3></td>
 <td align="center" width="30%"><h3>not sure yet to apply or not? <br><a href="https://forms.gle/UMbhm5CePHb5gS9a8">ask all your questions</a></h3></td>
-<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/icons/memo.png" width="100%"></img></a></td>
+<td align="center" width="10%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/memo.png" width="100%"></img></a></td>
 </tr>
     </tbody>
 </table>
