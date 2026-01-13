@@ -1,4 +1,4 @@
-<a href="/Data-Science-Case-Studies/README.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/data-science-case-studies.png"></img></a>
+<a href="/Data-Science-Case-Studies/README.md"><img align="right" width="120" src="/logos/data-science-case-studies.png"></img></a>
 
 # Data Science Case Studies
 Data Science Case Studies for computer science students.

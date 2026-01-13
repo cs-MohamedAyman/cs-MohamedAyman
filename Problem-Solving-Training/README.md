@@ -1,4 +1,4 @@
-<a href="/Problem-Solving-Training/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/problem-solving-training.png"></img></a>
+<a href="/Problem-Solving-Training/README.md"><img align="right" width="120" src="/logos/problem-solving-training.png"></img></a>
 
 # Problem Solving Training
 Problem Solving Training for computer science students.
