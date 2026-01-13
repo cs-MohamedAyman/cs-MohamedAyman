@@ -5,7 +5,7 @@ DataCamp Tracks road map for computer science students.
 
 <br><br>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/languages/python.png"></img></a>
 
 ## Python Data Analysis
 
@@ -160,7 +160,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/languages/python.png"></img></a>
 
 ## Python Machine Learning
 
@@ -322,7 +322,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/r.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/languages/r.png"></img></a>
 
 ## R Data Analysis
 
@@ -331,7 +331,7 @@ DataCamp Tracks road map for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/r.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/languages/r.png"></img></a>
 
 ## R Machine Learning
 

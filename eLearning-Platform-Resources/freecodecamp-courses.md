@@ -125,7 +125,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/cpp.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/cpp.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C++ Programming Language
@@ -201,7 +201,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Python Programming Language
@@ -307,7 +307,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Java Programming Language
@@ -363,7 +363,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/csharp.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C# Programming Language
@@ -419,7 +419,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
 
 ## Python Programming Language Projects
 
@@ -834,7 +834,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/golang.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/golang.png"></img></a>
 
 ## Go Programming Language
 
@@ -1055,7 +1055,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/spring-boot.png"></img></a>
 
 ## Java, Spring Boot
@@ -1126,7 +1126,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/csharp.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/dot-net.png"></img></a>
 
 ## C#, .Net
@@ -1252,7 +1252,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/django.png"></img></a>
 
 ## Python, Django
@@ -2332,7 +2332,7 @@ freeCodeCamp Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/web-development.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/php.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/php.png"></img></a>
 
 ## PHP
 
@@ -2955,7 +2955,7 @@ freeCodeCamp Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/web-development.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/javascript.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/javascript.png"></img></a>
 
 ## JavaScript
 
@@ -3151,7 +3151,7 @@ freeCodeCamp Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/web-development.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/javascript.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/javascript.png"></img></a>
 
 ## JavaScript
 
@@ -4792,7 +4792,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/r.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/r.png"></img></a>
 
 ## R Programming Language
 

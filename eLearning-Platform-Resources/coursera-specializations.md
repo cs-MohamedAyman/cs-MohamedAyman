@@ -231,8 +231,8 @@ Coursera Specializations for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/python.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/cpp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/languages/cpp.png"></img></a>
 
 ## C++, Python Programming Languages
 
@@ -462,8 +462,8 @@ Coursera Specializations for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/csharp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
 
 ## Java, C# Programming Languages
 

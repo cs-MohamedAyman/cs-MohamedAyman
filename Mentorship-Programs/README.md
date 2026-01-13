@@ -89,12 +89,12 @@
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
 * Introduction to Programming Paradigms, Setting Up the Development Environment, Data Types, Variables, and Constants, Operators and Expressions, Conditional Statements and Loops, Functions and Procedures, Arrays and String Handling, Pointers and References, Structures, Classes and Objects, Dynamic Memory Allocation and Garbage Collection, Recursion in Programming, Standard Libraries and API Usage, Introduction to OOP Concepts, Debugging and Code Optimization Techniques
@@ -102,12 +102,12 @@
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-structures.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
 * Introduction to Linear Data Structures, Arrays: Operations and Implementation, Strings as Linear Data Structures, Linked Lists: Singly, Doubly and Circular Linked Lists, Stack: Array and Linked List Implementations, Queue: Array and Linked List Implementations, Circular Queue and Double-Ended Queue (Deque), Complexity Analysis of Linear Data Structures, Memory Management in Linear Structures, Recursion in Linear Data Structures <br><br>
@@ -189,12 +189,12 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/algorithms-analysis.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
 * Introduction to Algorithms and Their Classifications, Time and Space Complexity: Big O, Ω, Θ Notations, Recursion and Recursive Algorithm Analysis, Divide and Conquer Approach, Sorting Algorithms: Bubble, Selection, Insertion, Advanced Sorting: Merge Sort, Quick Sort, Heap Sort, Searching Algorithms: Linear and Binary Search, Hashing Techniques and Collision Handling, Greedy Algorithms: Basics and Examples, Dynamic Programming: Principle and Examples, Backtracking: Concepts and Classic Problems, Branch and Bound Technique, Algorithm Design Strategies Overview, Complexity Classes: P, NP, NP-Complete, NP-Hard
@@ -202,12 +202,12 @@ Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/software-testing.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
 * GUI Concepts, GUI Frameworks, Event-Driven Programming Concepts, Windows, Panels, and Layout Management, Widgets and Controls, Menus, Toolbars, and Dialog Boxes, Managing User Input and Validations, Model–View–Controller (MVC) in GUI Design, Custom Widgets and Component Styling, Handling Images, Icons, and Multimedia Elements, Forms, Data Binding, and GUI–Backend Communication, Multi-Window Applications, Accessibility and Usability in GUI Design, Localization and Internationalization of GUIs, GUI Testing and Automated UI Testing <br><br>
@@ -287,12 +287,12 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/operating-systems.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/golang.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/java.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/csharp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cpp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/c.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/java.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/csharp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
 * Operating Systems Concepts, OS Architecture, Types, and Components, Processes and Process Scheduling, Threads and Multithreading, Inter-Process Communication (Pipes, Shared Memory, Message Queues), Synchronization Issues: Deadlocks, Race Conditions, Synchronization Mechanisms (Mutex, Semaphores, Monitors), Memory Management: Paging and Segmentation, Virtual Memory and Demand Paging, File Systems and Storage Management, I/O Management and Device Drivers, Security and Protection Mechanisms, Distributed Operating Systems, Virtualization and Containerization Concepts
@@ -378,8 +378,8 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mathematics.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/probability-statistics.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/r.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/python.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/r.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
 <br><br>
 
 * Introduction to Programming Concepts and Syntax, Data Types and Variable Management, Control Flow: If Statements, Loops, and Logical Operators, Functions, Modules, and Code Structuring, Working with File Systems: Read/Write Operations, Data Structures: Lists, Tuples, Dictionaries, Sets, Error Handling and Debugging Techniques, Data Analysis Libraries: pandas, numpy (or dplyr, tidyr), Regular Expressions for Text Processing, API Integration and JSON Handling, Environment Setup and Dependency Management, Jupyter Notebook / RStudio for Interactive Analysis, Best Practices in Code Style and Documentation
