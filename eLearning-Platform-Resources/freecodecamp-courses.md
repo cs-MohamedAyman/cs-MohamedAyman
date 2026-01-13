@@ -1,4 +1,4 @@
-<a href="https://freecodecamp.com/"><img align="right" width="120" src="/logos/freecodecamp.png"></img></a>
+<a href="https://freecodecamp.com/"><img align="right" width="120" src="/logos/websites/freecodecamp.png"></img></a>
 
 # freeCodeCamp Courses
 freeCodeCamp Courses for computer science students.
@@ -1813,7 +1813,7 @@ freeCodeCamp Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/cloud-computing.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/websites/google-cloud.png"></img></a>
 
 ## Google Cloud
 

@@ -1,4 +1,4 @@
-<a href="https://cloud.google.com/"><img align="right" width="120" src="/logos/google-cloud.png"></img></a>
+<a href="https://cloud.google.com/"><img align="right" width="120" src="/logos/websites/google-cloud.png"></img></a>
 
 # Google Cloud Specializations
 Google Cloud Specializations for computer science students.

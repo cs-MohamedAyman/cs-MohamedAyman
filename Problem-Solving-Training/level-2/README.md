@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
@@ -70,7 +70,7 @@ Implementation <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
@@ -170,7 +170,7 @@ Backtracking <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/atcoder.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/atcoder.png"></img></a>
 
 ## AtCoder OJ Phases
 
@@ -228,7 +228,7 @@ Backtracking <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
@@ -330,7 +330,7 @@ Brute Force <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Custom Contests
 
@@ -460,7 +460,7 @@ Training Contest *** <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/hackerearth.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
@@ -562,7 +562,7 @@ Greedy Algorithms III <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/uva.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/uva.png"></img></a>
 
 ## UVA OJ Phases
 

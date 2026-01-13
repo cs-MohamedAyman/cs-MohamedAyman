@@ -1,4 +1,4 @@
-<a href="https://coursera.org/"><img align="right" width="120" src="/logos/coursera.png"></img></a>
+<a href="https://coursera.org/"><img align="right" width="120" src="/logos/websites/coursera.png"></img></a>
 
 # Coursera Specializations
 Coursera Specializations for computer science students.

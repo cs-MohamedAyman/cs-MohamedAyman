@@ -1,4 +1,4 @@
-<a href="https://datacamp.com/"><img align="right" width="120" src="/logos/datacamp.png"></img></a>
+<a href="https://datacamp.com/"><img align="right" width="120" src="/logos/websites/datacamp.png"></img></a>
 
 # DataCamp Tracks
 DataCamp Tracks road map for computer science students.

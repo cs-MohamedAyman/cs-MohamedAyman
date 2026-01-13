@@ -1,4 +1,4 @@
-<a href="https://www.deeplearning.ai/"><img align="right" width="120" src="/logos/deeplearningai.png"></img></a>
+<a href="https://www.deeplearning.ai/"><img align="right" width="120" src="/logos/websites/deeplearningai.png"></img></a>
 
 # DeepLearning.AI Specializations
 DeepLearning.AI Specializations for computer science students.

@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
 
 ## DataCamp Case Studies
 
@@ -12,7 +12,7 @@
     <summary>(0 case studies)</summary>
 </details>
 
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
 
 ## Kaggle Case Studies
 
