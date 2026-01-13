@@ -510,7 +510,7 @@ Udemy Courses
 <table>
     <tbody>
         <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI/Tableau Fundamentals</h3></td>
@@ -888,7 +888,7 @@ Udemy Courses
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo7.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo8.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure Fundamentals</h3></td>
         </tr>
     </tbody>
