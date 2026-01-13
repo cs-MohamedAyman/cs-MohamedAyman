@@ -1,10 +1,10 @@
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-2.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="120" src="/logos/levels/level-2.png"></img></a>
 
 # Level 2: Machine Learning
 
 <br><br>
 
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/logos/websites/datacamp.png"></img></a>
 
 ## DataCamp Case Studies
 
@@ -185,7 +185,7 @@
 </table>
 </details>
 
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/8weeksqlchallenge.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/logos/websites/8weeksqlchallenge.png"></img></a>
 
 ## 8WeekSqlChallenge Case Studies
 
@@ -222,7 +222,7 @@
 </table>
 </details>
 
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="80" src="/logos/websites/kaggle.png"></img></a>
 
 ## Kaggle Case Studies
 

@@ -1,10 +1,10 @@
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/level-1.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="120" src="/logos/levels/level-1.png"></img></a>
 
 # Level 1: Programming Languages
 
 <br><br>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
@@ -106,7 +106,7 @@ Grep Sed Awk <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
@@ -200,7 +200,7 @@ String II <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/atcoder.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/atcoder.png"></img></a>
 
 ## AtCoder OJ Phases
 
@@ -302,7 +302,7 @@ String II <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
@@ -412,7 +412,7 @@ List / Array II <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerearth.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
@@ -506,7 +506,7 @@ Operators <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/uva.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="80" src="/logos/websites/uva.png"></img></a>
 
 ## UVA OJ Phases
 

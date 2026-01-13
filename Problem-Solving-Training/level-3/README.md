@@ -1,10 +1,10 @@
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/level-3.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="120" src="/logos/levels/level-3.png"></img></a>
 
 # Level 3: Intermediate Data Structures and Algorithms
 
 <br><br>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
@@ -66,7 +66,7 @@ Implementation<br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
@@ -164,7 +164,7 @@ Dynamic Programming IV <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/leetcode.png"></img></a>
 
 ## LeetCode OJ Custom Phases
 
@@ -238,7 +238,7 @@ Dynamic Programming <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/googlecompetitions.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/googlecompetitions.png"></img></a>
 
 ## Google Competitions Phases
 
@@ -336,7 +336,7 @@ CodeJam 1C <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
@@ -462,7 +462,7 @@ Dynamic Programming <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Custom Contests
 
@@ -520,7 +520,7 @@ Educational Rounds IV <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerearth.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
@@ -618,7 +618,7 @@ Segment Tree II <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/uva.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="80" src="/logos/websites/uva.png"></img></a>
 
 ## UVA OJ Phases
 

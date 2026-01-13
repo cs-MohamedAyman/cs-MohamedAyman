@@ -122,8 +122,8 @@
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -138,8 +138,8 @@ Udemy Courses
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Multiplayer Games, Data Structure Libraries) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -150,8 +150,8 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
-<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-1/README.md"><img align="right" width="40" src="/logos/websites/leetcode.png"></img></a>
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-1/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
@@ -159,8 +159,8 @@ Udemy Courses
 <br><br><br>
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
-<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-2/README.md"><img align="right" width="40" src="/logos/websites/leetcode.png"></img></a>
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-2/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
@@ -221,8 +221,8 @@ Udemy Courses
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -237,8 +237,8 @@ Udemy Courses
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Algorithmic Quest Games, Advanced Data Structure Libraries) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -249,16 +249,16 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/logos/websites/leetcode.png"></img></a>
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
 * Skills {Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String}
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
-<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-3/README.md"><img align="right" width="40" src="/logos/websites/leetcode.png"></img></a>
 <br><br>
 
 * 4 <a href="/Problem-Solving-Training/level-3/README.md">Problem Solving Phases</a> (HackerRank OJ Phases, LeetCode OJ Phases) 100+ Problems per Phase
@@ -320,8 +320,8 @@ Udemy Courses
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Operating System and Parallel Computing Apps) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -336,8 +336,8 @@ Udemy Courses
 
 * 8 <a href="/Software-Engineering-Educational-Projects/README.md">Educational Projects</a> (Object-Oriented and Database Systems Apps) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -398,14 +398,14 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -414,14 +414,14 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -471,14 +471,14 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -487,14 +487,14 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -549,8 +549,8 @@ Udemy Courses
 
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -565,8 +565,8 @@ Udemy Courses
 
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -627,16 +627,16 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-2.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-2.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -647,16 +647,16 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -724,16 +724,16 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -744,16 +744,16 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-3.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -825,16 +825,16 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -845,16 +845,16 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
-<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-4.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-4.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -924,10 +924,10 @@ Udemy Courses
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -938,10 +938,10 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/deeplearningai.png"></img></a>
-<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/eLearning-Platform-Resources/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
 <br><br>
 
 * YouTube Courses,

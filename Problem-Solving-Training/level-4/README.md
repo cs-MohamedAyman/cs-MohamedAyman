@@ -1,10 +1,10 @@
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="120" src="/Problem-Solving-Training/logos/level-4.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="120" src="/logos/levels/level-4.png"></img></a>
 
 # Level 4: Advanced Data Structures and Algorithms
 
 <br><br>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerrank.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/hackerrank.png"></img></a>
 
 ## HackerRank OJ Phases
 
@@ -106,7 +106,7 @@ Combinatorics, Geometry, Probability <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/leetcode.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/leetcode.png"></img></a>
 
 ## LeetCode OJ Phases
 
@@ -216,7 +216,7 @@ Dynamic Programming VI <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/googlecompetitions.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/googlecompetitions.png"></img></a>
 
 ## Google Competitions Phases
 
@@ -270,7 +270,7 @@ CodeJam Round World Finals <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/codeforces.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/codeforces.png"></img></a>
 
 ## Codeforces OJ Phases
 
@@ -279,7 +279,7 @@ CodeJam Round World Finals <br>
     <br>
 </details>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/hackerearth.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/hackerearth.png"></img></a>
 
 ## HackerEarth OJ Phases
 
@@ -377,7 +377,7 @@ Suffix Tree and Suffix Array <br>
 </table>
 </details>
 
-<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/Problem-Solving-Training/logos/websites/atcoder.png"></img></a>
+<a href="/Problem-Solving-Training/level-4/README.md"><img align="right" width="80" src="/logos/websites/atcoder.png"></img></a>
 
 ## AtCoder OJ Phases
 

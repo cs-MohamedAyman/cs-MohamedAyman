@@ -1,10 +1,10 @@
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="120" src="/Data-Science-Case-Studies/logos/level-3.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="120" src="/logos/levels/level-3.png"></img></a>
 
 # Level 3: Deep Learning
 
 <br><br>
 
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/datacamp.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/logos/websites/datacamp.png"></img></a>
 
 ## DataCamp Case Studies
 
@@ -128,7 +128,7 @@
 </table>
 </details>
 
-<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/Data-Science-Case-Studies/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-3.md"><img align="right" width="80" src="/logos/websites/kaggle.png"></img></a>
 
 ## Kaggle Case Studies
 
