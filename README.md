@@ -1,4 +1,4 @@
-# * [Mentorship Programs](/Mentorship-Programs/README.md)
+# [Mentorship Programs](/Mentorship-Programs/README.md)
 
 <table>
     <tbody>
@@ -38,7 +38,7 @@
     </tbody>
 </table>
 
-# * Main Repositories
+# Main Repositories
 
 <table>
     <thead>
