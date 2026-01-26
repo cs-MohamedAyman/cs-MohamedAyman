@@ -91,7 +91,7 @@
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/object-oriented-programming.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
-<<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
@@ -198,7 +198,7 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/software-testing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/golang.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
-<<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/cpp.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/c.png"></img></a>
 <br><br>
 
