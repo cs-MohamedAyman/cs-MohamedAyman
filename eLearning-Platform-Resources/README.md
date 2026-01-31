@@ -3,6 +3,10 @@
 # eLearning Platform Resources
 eLearning Platform Resources for computer science students.
 
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/websites/youtube.png"></img></a>
+<br>
+## [`YouTube Courses`](/eLearning-Platform-Resources/youtube-courses.md)
+
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/websites/freecodecamp.png"></img></a>
 <br>
 ## [`freeCodeCamp Courses`](/eLearning-Platform-Resources/freecodecamp-courses.md)
