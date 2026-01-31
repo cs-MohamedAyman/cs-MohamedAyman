@@ -2021,7 +2021,7 @@ freeCodeCamp Courses for computer science students.
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/flask.png"></img></a>
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/fastapi.png"></img></a>
 
-## APIs
+## FastAPI, Flask
 
 <details>
     <summary>(20 courses)</summary>
