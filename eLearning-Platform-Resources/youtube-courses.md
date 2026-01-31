@@ -24,7 +24,6 @@ YouTube Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/cpp.png"></img></a>
-<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C++ Programming Language
 
@@ -34,7 +33,6 @@ YouTube Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
-<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Python Programming Language
 
@@ -44,7 +42,6 @@ YouTube Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
-<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Java Programming Language
 
@@ -54,7 +51,6 @@ YouTube Courses for computer science students.
 </details>
 
 <a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
-<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C# Programming Language
 
