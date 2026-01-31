@@ -5,7 +5,7 @@ YouTube Courses for computer science students.
 
 <br><br>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/fundamentals-of-computer-science.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/fundamentals-of-computer-science.png"></img></a>
 
 ## Fundamentals of Computer Science
 
@@ -14,7 +14,7 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/mathematics.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/mathematics.png"></img></a>
 
 ## Mathematics for Computer Science
 
@@ -23,8 +23,8 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/cpp.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/cpp.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C++ Programming Language
 
@@ -33,8 +33,8 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/python.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Python Programming Language
 
@@ -43,8 +43,8 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/java.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## Java Programming Language
 
@@ -53,8 +53,8 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/languages/csharp.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/object-oriented-programming.png"></img></a>
 
 ## C# Programming Language
 
@@ -63,7 +63,7 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/operating-systems.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/operating-systems.png"></img></a>
 
 ## Operating Systems
 
@@ -72,7 +72,7 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/git.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/git.png"></img></a>
 
 ## Git Version Control System
 
