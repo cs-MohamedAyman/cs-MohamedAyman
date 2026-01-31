@@ -68,6 +68,15 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/languages/golang.png"></img></a>
+
+## Go Programming Language
+
+<details>
+    <summary>(0 courses)</summary>
+    <br>
+</details>
+
 <a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/git.png"></img></a>
 
 ## Git Version Control System
