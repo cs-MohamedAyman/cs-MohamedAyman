@@ -584,7 +584,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Supervised/Unsupervised Machine Learning Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Deep Learning and Generative Models Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Neural Networks and Deep Learning Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
