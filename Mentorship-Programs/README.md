@@ -363,7 +363,7 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics/Probability Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Data Manipulation and Visualization Fundamentals</h3></td>
         </tr>
