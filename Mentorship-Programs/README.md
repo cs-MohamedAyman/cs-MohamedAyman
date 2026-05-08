@@ -406,11 +406,13 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -422,11 +424,14 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
+Udemy Courses
 Udemy Courses
 </td>
         </tr>
@@ -479,11 +484,13 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -495,11 +502,13 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
@@ -551,11 +560,13 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -567,11 +578,13 @@ Udemy Courses
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
@@ -637,6 +650,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -644,6 +658,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -657,6 +672,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -664,6 +680,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
@@ -734,6 +751,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -741,6 +759,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -754,6 +773,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -761,6 +781,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
@@ -835,6 +856,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -842,6 +864,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -855,6 +878,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -862,6 +886,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
@@ -928,6 +953,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -935,6 +961,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -942,6 +969,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
 <a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
 
 * YouTube Courses,
@@ -949,6 +977,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
 <a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
 Udemy Courses
 </td>
         </tr>
