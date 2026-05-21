@@ -445,7 +445,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Google Sheets and Microsoft Excel Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -461,17 +461,17 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
 <br><br>
 
-* Introduction to Feature Engineering Concepts, Handling Categorical Features (Encoding Techniques), Creating Interaction and Polynomial Features, Binning, Bucketing, and Discretizing Numerical Features, Date-Time Feature Extraction (Day, Weekday, Month, etc.), Handling Missing Values in Features, Detecting and Handling Multicollinearity, Using Feature Importance Scores from Models, Recursive Feature Elimination (RFE) Techniques, Regularization Methods (LASSO, Ridge) for Feature Selection, Dimensionality Reduction with PCA, Automated Feature Engineering Tools and Libraries
-* Introduction to Anomalies and Outliers, Outlier Detection using IQR and Z-score Methods, Isolation Forest and DBSCAN for Anomaly Detection, Outlier Treatment: Capping, Flooring, and Removal, Overview of Class Imbalance Challenges, Oversampling and Undersampling Techniques, Synthetic Minority Oversampling (SMOTE), Cost-sensitive Learning Approaches, Adjusting Decision Thresholds, Using ROC-AUC and Precision-Recall Metrics for Evaluation, Generating Synthetic Data for Minority Classes, Ensemble Techniques for Imbalanced Data
+* Introduction to Feature Engineering Concepts, Handling Categorical Features (Encoding Techniques), Creating Interaction and Polynomial Features, Binning, Bucketing, and Discretizing Numerical Features, Date-Time Feature Extraction (Day, Weekday, Month, etc.), Handling Missing Values in Features, Detecting and Handling Multicollinearity, Using Feature Importance Scores from Models, Recursive Feature Elimination (RFE) Techniques, Regularization Methods (LASSO, Ridge) for Feature Selection, Dimensionality Reduction with PCA, Automated Feature Engineering Tools and Libraries <br><br>
+* Introduction to Anomalies and Outliers, Outlier Detection using IQR and Z-score Methods, Isolation Forest and DBSCAN for Anomaly Detection, Outlier Treatment: Capping, Flooring, and Removal, Overview of Class Imbalance Challenges, Oversampling and Undersampling Techniques, Synthetic Minority Oversampling (SMOTE), Cost-sensitive Learning Approaches, Adjusting Decision Thresholds, Using ROC-AUC and Precision-Recall Metrics for Evaluation, Generating Synthetic Data for Minority Classes, Ensemble Techniques for Imbalanced Data <br><br>
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/googlesheets.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nosql.png"></img></a>
 <br><br>
 
-* Introduction to Google Sheets Interface and Navigation, Data Entry, Formatting, and Cell Referencing, Essential Formulas and Functions, Conditional Formatting and Data Validation, Sorting, Filtering, and Data Cleaning, Pivot Tables and Pivot Charts, Data Visualization with Charts and Dashboards, Collaboration, Sharing, and Version Control, Connecting Google Sheets with External Data Sources, Automation with Google Apps Script (Basics) <br><br><br>
-* Excel Interface, Workbooks, and Worksheets, Cell Referencing, Named Ranges, and Formatting, Core Functions and Formulas, Logical, Lookup, and Text Functions, Data Cleaning and Transformation, Sorting, Filtering, and Advanced Filters, Pivot Tables and Pivot Charts, Excel Charts and Data Visualization, What-If Analysis and Scenario Manager, Data Analysis ToolPak and Statistical Functions, Power Query and Power Pivot Basics, Excel Automation with Macros (VBA Introduction) <br><br><br>
+* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
+* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
 </td>
         </tr>
         <tr>
@@ -481,6 +481,11 @@ Udemy Courses
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
+
+* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
@@ -499,6 +504,11 @@ Udemy Courses
 <br><br>
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
+
+* 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
 
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
 <a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
@@ -520,7 +530,7 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Google Sheets and Microsoft Excel Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Dashboard Development using PowerBI/Tableau Fundamentals</h3></td>
         </tr>
@@ -533,13 +543,13 @@ Udemy Courses
     <tbody>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nosql.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/googlesheets.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
 <br><br>
 
-* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
-* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
+* Introduction to Google Sheets Interface and Navigation, Data Entry, Formatting, and Cell Referencing, Essential Formulas and Functions, Conditional Formatting and Data Validation, Sorting, Filtering, and Data Cleaning, Pivot Tables and Pivot Charts, Data Visualization with Charts and Dashboards, Collaboration, Sharing, and Version Control, Connecting Google Sheets with External Data Sources, Automation with Google Apps Script (Basics) <br><br>
+* Excel Interface, Workbooks, and Worksheets, Cell Referencing, Named Ranges, and Formatting, Core Functions and Formulas, Logical, Lookup, and Text Functions, Data Cleaning and Transformation, Sorting, Filtering, and Advanced Filters, Pivot Tables and Pivot Charts, Excel Charts and Data Visualization, What-If Analysis and Scenario Manager, Data Analysis ToolPak and Statistical Functions, Power Query and Power Pivot Basics, Excel Automation with Macros (VBA Introduction) <br><br>
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/powerbi.png"></img></a>
@@ -547,12 +557,18 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
 <br><br>
 
-* Introduction to PowerBI Interface and Workflow, Connecting and Importing Data Sources, Data Cleaning and Transformation with Power Query, Data Modeling and Relationships, DAX Basics: Measures and Calculated Columns, Creating Basic and Custom Visualizations, Building Interactive Filters and Slicers, Drill-down, Drill-through, and Tooltip Customization, Bookmarks and Page Navigation, KPI Cards, Gauges, and Indicators, PowerBI Service: Dashboard Sharing and Publishing, Performance Optimization and Query Diagnostics <br><br><br>
-* Tableau Interface and Workflow Basics, Connecting to Various Data Sources, Data Preparation and Cleaning within Tableau, Visualizing Data using Bar, Line, and Scatter Charts, Maps and Geographical Data Visualizations, Calculated Fields and Table Calculations, Interactive Filters, Parameters, and Highlight Actions, Level of Detail (LOD) Expressions, Data Blending and Joining in Tableau, Dashboard and Story Design Principles, Publishing Dashboards to Tableau Public/Server, Security and User Access Control <br><br><br>
+* Introduction to PowerBI Interface and Workflow, Connecting and Importing Data Sources, Data Cleaning and Transformation with Power Query, Data Modeling and Relationships, DAX Basics: Measures and Calculated Columns, Creating Basic and Custom Visualizations, Building Interactive Filters and Slicers, Drill-down, Drill-through, and Tooltip Customization, Bookmarks and Page Navigation, KPI Cards, Gauges, and Indicators, PowerBI Service: Dashboard Sharing and Publishing, Performance Optimization and Query Diagnostics <br>
+* Tableau Interface and Workflow Basics, Connecting to Various Data Sources, Data Preparation and Cleaning within Tableau, Visualizing Data using Bar, Line, and Scatter Charts, Maps and Geographical Data Visualizations, Calculated Fields and Table Calculations, Interactive Filters, Parameters, and Highlight Actions, Level of Detail (LOD) Expressions, Data Blending and Joining in Tableau, Dashboard and Story Design Principles, Publishing Dashboards to Tableau Public/Server, Security and User Access Control <br>
 </td>
         </tr>
         <tr>
 <td colspan="2" width="50%" align="left">
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
+<br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
 <a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
 
@@ -570,9 +586,14 @@ Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/kaggle.png"></img></a>
+<a href="/Data-Science-Case-Studies/level-1.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
 <br><br>
+
+* 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
+
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
 
 * 8 <a href="/Data-Science-Educational-Projects/README.md">Educational Projects</a> (Data Analysis and Business Intelligence Reports) 20+ Tasks per Project
 
