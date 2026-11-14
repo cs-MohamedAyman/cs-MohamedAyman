@@ -3,10 +3,11 @@
 <table>
     <tbody>
         <tr>
-<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Undergraduate Intern and Graduate Intern Skills </a></td>
-<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> Data Analyst and Business Intelligence Analyst Skills </a></td>
-<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer and MLOps Engineer Skills </a></td>
-<td align="center" width="250px"><a href="/Mentorship-Programs/README.md"> LLM Engineer and LLMOps Engineer Skills </a></td>
+<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Undergraduate Intern and Graduate Intern Skills </a></td>
+<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Software Engineer and DevOps Engineer Skills </a></td>
+<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> Data Analyst and Business Intelligence Analyst Skills </a></td>
+<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> ML/DL Engineer and MLOps Engineer Skills </a></td>
+<td align="center" width="200px"><a href="/Mentorship-Programs/README.md"> LLM Engineer and LLMOps Engineer Skills </a></td>
         </tr>
         <tr>
 <td align="center">
@@ -14,6 +15,12 @@
     <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp02.png" width="33%"></img></a>
     <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp03.png" width="33%"></img></a>
     <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp04.png" width="33%"></img></a>
+</td>
+<td align="center">
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp05.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp06.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp07.png" width="33%"></img></a>
+    <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp08.png" width="33%"></img></a>
 </td>
 <td align="center">
     <a href="/Mentorship-Programs/README.md"><img src="/logos/employees/emp09.png" width="33%"></img></a>
