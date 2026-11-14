@@ -376,6 +376,137 @@ Udemy Courses
 
 <br><br>
 
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp16.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp15.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp14.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp13.png"></img></a>
+
+## Software Engineer and DevOps Engineer Skills
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">...</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+</details>
+
+<table>
+    <tbody>
+        <tr>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo7.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Fundamentals</h3></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo8.png"></img></a></td>
+<td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure Fundamentals</h3></td>
+        </tr>
+    </tbody>
+</table>
+
+<details>
+<summary>2 Skills Details</summary>
+<table>
+    <tbody>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/devops.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/git.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/bash.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/docker.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/kubernetes.png"></img></a>
+<br><br>
+
+* Version Control Concepts and Git Basics, Local and Remote Repositories, Branching and Merging Strategies, Pull Requests and Code Reviews, Resolving Merge Conflicts, Advanced Git Commands, Git Hooks and Automation, Git Workflow Best Practices, Linux File System Navigation, Shell Commands and Utilities, Bash Scripting Fundamentals, Process and Permission Management, Networking and System Logs, Package Management and Updates
+* Containerization Concepts, Docker Architecture and CLI, Writing Dockerfiles, Docker Images and Registries, Docker Networking and Volumes, Docker Compose, Introduction to Container Orchestration, Kubernetes Architecture, Pods, Deployments, and ReplicaSets, Services and Ingress, ConfigMaps and Secrets, Persistent Storage in Kubernetes, Scaling and Rolling Updates, Monitoring and Health Checks, Helm and Kubernetes Package Management
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-computing.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/aws.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gcp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/azure.png"></img></a>
+<br><br>
+
+* Cloud Computing Fundamentals, AWS Global Infrastructure, EC2 and Virtual Servers, EBS and Instance Storage, S3 and Object Storage, IAM and Security Management, AWS Lambda and Serverless, RDS and Aurora, DynamoDB, API Gateway and Load Balancers, SageMaker for ML, Auto Scaling and ELB, CloudWatch Monitoring, Infrastructure as Code (CloudFormation), Cost Management and Optimization <br><br>
+* Azure Cloud Fundamentals, Azure Core Services Overview, Azure Virtual Machines, Azure Storage Accounts, Blob Storage and Data Lake, Containers on Azure (ACI, AKS), Azure Functions, Azure DevOps CI/CD Pipelines, Azure ML Studio, Azure App Services, Identity and Access Management, Azure Networking, Azure Monitor and Logging, Backup and Disaster Recovery, Cost Management and Optimization <br><br>
+</td>
+        </tr>
+        <tr>
+<td colspan="2" width="50%" align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
+Udemy Courses
+</td>
+<td colspan="2" width="50%" align="left">
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
+<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md"><img align="right" width="40" src="/logos/websites/deeplearningai.png"></img></a>
+<a href="/eLearning-Platform-Resources/google-specializations.md"><img align="right" width="40" src="/logos/websites/google-cloud.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
+<br><br>
+
+* YouTube Courses,
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
+<a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
+<a href="/eLearning-Platform-Resources/deeplearningai-specializations.md">DeepLearningAI</a> Courses,
+<a href="/eLearning-Platform-Resources/google-specializations.md">GoogleCloud</a> Courses,
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
+Udemy Courses
+</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<br><br>
+
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp12.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp11.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="60" src="/logos/employees/emp10.png"></img></a>
