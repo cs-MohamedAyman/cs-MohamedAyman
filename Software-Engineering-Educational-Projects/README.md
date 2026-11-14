@@ -1,4 +1,4 @@
-<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="120" src="/logos/software-engineering-educational-projects.png"></img></a>
+<a href="/Software-Engineering-Educational-Projects/README.md"><img align="right" width="120" src="/logos/covers/software-engineering-educational-projects.png"></img></a>
 
 # Software Engineering Educational Projects
 Software Engineering Educational Projects for computer science students.

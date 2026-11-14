@@ -1,4 +1,4 @@
-<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="120" src="/Data-Science-Educational-Projects/logos/data-science-educational-projects.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="120" src="/Data-Science-Educational-Projects/logos/covers/data-science-educational-projects.png"></img></a>
 
 # Data Science Educational Projects
 Data Science Educational Projects for computer science students.

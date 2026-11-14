@@ -1,4 +1,4 @@
-<a href="/eLearning-Platform-Resources/README.md"><img align="right" width="120" src="/logos/eLearning-platform-resources.png"></img></a>
+<a href="/eLearning-Platform-Resources/README.md"><img align="right" width="120" src="/logos/covers/eLearning-platform-resources.png"></img></a>
 
 # eLearning Platform Resources
 eLearning Platform Resources for computer science students.

@@ -59,11 +59,11 @@
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="/Problem-Solving-Training/README.md">                              <img src="/logos/problem-solving-training.png"                  width="75%"></img></a></td>
-<td align="center"><a href="/Data-Science-Case-Studies/README.md">                             <img src="/logos/data-science-case-studies.png"                 width="75%"></img></a></td>
-<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">             <img src="/logos/software-engineering-educational-projects.png" width="75%"></img></a></td>
-<td align="center"><a href="/Data-Science-Educational-Projects/README.md">                     <img src="/logos/data-science-educational-projects.png"         width="75%"></img></a></td>
-<td align="center"><a href="/eLearning-Platform-Resources/README.md">                          <img src="/logos/eLearning-platform-resources.png"              width="75%"></img></a></td>
+<td align="center"><a href="/Problem-Solving-Training/README.md">                              <img src="/logos/covers/problem-solving-training.png"                  width="75%"></img></a></td>
+<td align="center"><a href="/Data-Science-Case-Studies/README.md">                             <img src="/logos/covers/data-science-case-studies.png"                 width="75%"></img></a></td>
+<td align="center"><a href="/Software-Engineering-Educational-Projects/README.md">             <img src="/logos/covers/software-engineering-educational-projects.png" width="75%"></img></a></td>
+<td align="center"><a href="/Data-Science-Educational-Projects/README.md">                     <img src="/logos/covers/data-science-educational-projects.png"         width="75%"></img></a></td>
+<td align="center"><a href="/eLearning-Platform-Resources/README.md">                          <img src="/logos/covers/eLearning-platform-resources.png"              width="75%"></img></a></td>
         </tr>
     </tbody>
 </table>
