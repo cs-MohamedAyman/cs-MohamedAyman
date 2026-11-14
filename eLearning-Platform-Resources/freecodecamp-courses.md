@@ -890,7 +890,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/git.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/git.png"></img></a>
 
 ## Git Version Control System
 
@@ -1050,7 +1050,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/spring-boot.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/spring-boot.png"></img></a>
 
 ## Java, Spring Boot
 
@@ -1120,7 +1120,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/dot-net.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/dot-net.png"></img></a>
 
 ## C#, .Net
 
@@ -1245,7 +1245,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/django.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/django.png"></img></a>
 
 ## Python, Django
 
@@ -1345,8 +1345,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/sql-server-database.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/mysql-database.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/sql-server-database.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/mysql-database.png"></img></a>
 
 ## SQL Server, MySQL
 
@@ -1436,8 +1436,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/postgresql-database.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/graphsql-database.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/postgresql-database.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/graphsql-database.png"></img></a>
 
 ## PostgreSQL, GraphQL
 
@@ -1617,8 +1617,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/docker.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/kubernetes.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/docker.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/kubernetes.png"></img></a>
 
 ## DevOps Tools
 
@@ -1678,7 +1678,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/aws.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/aws.png"></img></a>
 
 ## AWS
 
@@ -1863,7 +1863,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/azure.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/azure.png"></img></a>
 
 ## Azure
 
@@ -2018,7 +2018,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/html-css.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/html-css.png"></img></a>
 
 ## HTML / CSS
 
@@ -2188,8 +2188,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/flask.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/fastapi.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/flask.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/fastapi.png"></img></a>
 
 ## APIs
 
@@ -2659,7 +2659,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/react.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/react.png"></img></a>
 
 ## React
 
@@ -2974,7 +2974,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/angular.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/angular.png"></img></a>
 
 ## Angular
 
@@ -3224,8 +3224,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/nextjs.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/vuejs.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/nextjs.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/vuejs.png"></img></a>
 
 ## Next.js, Vue.js
 
@@ -3425,8 +3425,8 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/flask.png"></img></a>
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/fastapi.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/flask.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/fastapi.png"></img></a>
 
 ## FastAPI, Flask
 
@@ -3667,7 +3667,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/unreal-engine.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/unreal-engine.png"></img></a>
 
 ## Unreal Engine
 
@@ -3727,7 +3727,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/unity.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/unity.png"></img></a>
 
 ## Unity
 
@@ -4837,7 +4837,7 @@ freeCodeCamp Courses for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/openai.png"></img></a>
+<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="80" src="/logos/tools/openai.png"></img></a>
 
 ## OpenAI APIs
 

@@ -77,7 +77,7 @@ YouTube Courses for computer science students.
     <br>
 </details>
 
-<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/git.png"></img></a>
+<a href="/eLearning-Platform-Resources/youtube-courses.md"><img align="right" width="80" src="/logos/tools/git.png"></img></a>
 
 ## Git Version Control System
 

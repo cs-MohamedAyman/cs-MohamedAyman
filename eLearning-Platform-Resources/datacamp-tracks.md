@@ -650,7 +650,7 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/excel.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/tools/excel.png"></img></a>
 <a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/spreadsheet.png"></img></a>
 
 ## Spreadsheets and Excel
@@ -724,8 +724,8 @@ DataCamp Tracks road map for computer science students.
 </table>
 </details>
 
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/powerbi.png"></img></a>
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/tableau.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/tools/powerbi.png"></img></a>
+<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="80" src="/eLearning-Platform-Resources/logos/tools/tableau.png"></img></a>
 
 ## Tableau and Power-BI
 
