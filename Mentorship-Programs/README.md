@@ -320,16 +320,16 @@ Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql-server-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/postgresql-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mysql-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/oracle-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/sql-server-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/postgresql-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/mysql-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/oracle-database.png"></img></a>
 <br><br>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/graphsql-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/mongo-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cassandra-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/redis-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/graphsql-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/mongo-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/cassandra-database.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/redis-database.png"></img></a>
 <br><br>
 
 * Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning <br>
@@ -431,10 +431,10 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/devops.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/git.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/bash.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/docker.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/kubernetes.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/git.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/bash.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/docker.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/kubernetes.png"></img></a>
 <br><br>
 
 * Version Control Concepts and Git Basics, Local and Remote Repositories, Branching and Merging Strategies, Pull Requests and Code Reviews, Resolving Merge Conflicts, Advanced Git Commands, Git Hooks and Automation, Git Workflow Best Practices, Linux File System Navigation, Shell Commands and Utilities, Bash Scripting Fundamentals, Process and Permission Management, Networking and System Logs, Package Management and Updates
@@ -443,9 +443,9 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-computing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/aws.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gcp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/azure.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/aws.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/gcp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/azure.png"></img></a>
 <br><br>
 
 * Cloud Computing Fundamentals, AWS Global Infrastructure, EC2 and Virtual Servers, EBS and Instance Storage, S3 and Object Storage, IAM and Security Management, AWS Lambda and Serverless, RDS and Aurora, DynamoDB, API Gateway and Load Balancers, SageMaker for ML, Auto Scaling and ELB, CloudWatch Monitoring, Infrastructure as Code (CloudFormation), Cost Management and Optimization <br><br>
@@ -593,10 +593,10 @@ Udemy Courses
     <tbody>
         <tr>
 <td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/matplotlib.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pandas.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/seaborn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/matplotlib.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/pandas.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/numpy.png"></img></a>
 <br><br>
 
 * Data Cleaning and Handling Missing Values, Data Type Conversion and Type Inference, Merging, Joining, and Concatenating Datasets, Grouping, Aggregating, and Summarizing Data, String Operations and Text Data Handling, Date and Time Parsing, Extraction, and Formatting, Data Reshaping: Pivoting and Melting, Outlier Detection and Treatment Strategies, Feature Encoding Techniques (Label, One-Hot), Data Normalization and Scaling, Removing Duplicates and Ensuring Data Integrity, Automating Data Preparation Workflows <br><br>
@@ -605,8 +605,8 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scipy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scikit-learn.png"></img></a>
 <br><br>
 
 * Introduction to Feature Engineering Concepts, Handling Categorical Features (Encoding Techniques), Creating Interaction and Polynomial Features, Binning, Bucketing, and Discretizing Numerical Features, Date-Time Feature Extraction (Day, Weekday, Month, etc.), Handling Missing Values in Features, Detecting and Handling Multicollinearity, Using Feature Importance Scores from Models, Recursive Feature Elimination (RFE) Techniques, Regularization Methods (LASSO, Ridge) for Feature Selection, Dimensionality Reduction with PCA, Automated Feature Engineering Tools and Libraries <br><br>
@@ -684,8 +684,8 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-modeling.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/googlesheets.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/excel.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/googlesheets.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/excel.png"></img></a>
 <br><br>
 
 * Introduction to Google Sheets Interface and Navigation, Data Entry, Formatting, and Cell Referencing, Essential Formulas and Functions, Conditional Formatting and Data Validation, Sorting, Filtering, and Data Cleaning, Pivot Tables and Pivot Charts, Data Visualization with Charts and Dashboards, Collaboration, Sharing, and Version Control, Connecting Google Sheets with External Data Sources, Automation with Google Apps Script (Basics) <br><br>
@@ -693,8 +693,8 @@ Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/business-intelligence.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/powerbi.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tableau.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/powerbi.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/tableau.png"></img></a>
 <br><br>
 
 * Introduction to PowerBI Interface and Workflow, Connecting and Importing Data Sources, Data Cleaning and Transformation with Power Query, Data Modeling and Relationships, DAX Basics: Measures and Calculated Columns, Creating Basic and Custom Visualizations, Building Interactive Filters and Slicers, Drill-down, Drill-through, and Tooltip Customization, Bookmarks and Page Navigation, KPI Cards, Gauges, and Indicators, PowerBI Service: Dashboard Sharing and Publishing, Performance Optimization and Query Diagnostics <br>
@@ -782,7 +782,7 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/supervised-learning.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/unsupervised-learning.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/machine-learning.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scikit-learn.png"></img></a>
 <br><br>
 
 * Introduction to Supervised Learning and Problem Types, Data Preparation and Feature Scaling, Linear Regression and Assumptions, Polynomial Regression and Regularization, Logistic Regression for Classification, k-Nearest Neighbors (k-NN), Decision Trees for Classification and Regression, Ensemble Methods: Bagging and Random Forest, Boosting Algorithms: AdaBoost, Gradient Boosting, XGBoost, Support Vector Machines (SVM), Model Evaluation Metrics and Cross-Validation, Handling Imbalanced Datasets, Feature Selection and Importance, End-to-End Supervised ML Pipeline <br><br>
@@ -792,7 +792,7 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/neural-networks.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/deep-learning.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/generative-adversarial-network.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/pytorch.png"></img></a>
 <br><br>
 
 * Introduction to Deep Learning Concepts, Neural Network Architecture and Terminology, Activation Functions and Non-Linearity, Loss Functions for Regression and Classification, Backpropagation and Gradient Descent, Optimizers and Learning Rate Scheduling, Regularization Techniques and Batch Normalization, Weight Initialization Strategies, Convolutional Neural Networks (CNN) Fundamentals, Recurrent Neural Networks (RNN, LSTM, GRU), Training Pipelines and Callbacks, Data Augmentation Techniques, Transfer Learning and Fine-Tuning, Hyperparameter Optimization, Model Explainability and Interpretability, Deploying Deep Learning Models
@@ -883,8 +883,8 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/time-series-analysis.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pytorch.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scikit-learn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/pytorch.png"></img></a>
 <br><br>
 
 * Introduction to Time Series Data, Components of Time Series, Time Series Decomposition Methods, Moving Averages and Smoothing Techniques, Stationarity and Trend Analysis, Autocorrelation and Partial Autocorrelation, AR, MA, and ARMA Models, ARIMA and SARIMA Modeling, State Space Models, Prophet and Modern Forecasting Tools, Multivariate Time Series Models, Time Series Cross-Validation, Anomaly Detection in Time Series, Time Series Deployment and Monitoring
@@ -892,8 +892,8 @@ Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/signal-processing.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/statsmodels.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/statsmodels.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scipy.png"></img></a>
 <br><br>
 
 * Probability Theory and Random Variables, Descriptive Statistics and Distributions, Statistical Inference and Hypothesis Testing, Confidence Intervals and Estimation, Linear Regression Models, Generalized Linear Models (GLM), Model Assumptions and Diagnostics, Multicollinearity and Model Stability, Time Series Statistical Models, Bayesian Statistics Fundamentals, Statistical Model Selection, Applications of Statistical Modeling <br><br><br>
@@ -985,9 +985,9 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/natural-language-processing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/text-mining.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nltk.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gensim.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/spacy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/nltk.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/gensim.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/spacy.png"></img></a>
 <br><br>
 
 * Introduction to Text Analytics, Text Cleaning and Normalization, Tokenization and N-Grams, Bag of Words and TF-IDF, Keyword Extraction Techniques, Topic Modeling (LDA, NMF), Text Similarity and Search, Sentiment Analysis Basics, Text Classification Pipelines, Business Applications of Text Analysis
@@ -996,9 +996,9 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/computer-vision.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/image-processing.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/opencv.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pillow-pil.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-image.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/opencv.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/pillow-pil.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/scikit-image.png"></img></a>
 <br><br>
 
 * Digital Image Fundamentals, Image Enhancement Techniques, Image Filtering and Edge Detection, Histogram Processing, Morphological Operations, Image Segmentation Basics, Feature Detection and Extraction, Image Compression, Image Noise Reduction, Image Processing Applications
@@ -1087,10 +1087,10 @@ Udemy Courses
         <tr>
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/devops.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/git.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/bash.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/docker.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/kubernetes.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/git.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/bash.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/docker.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/kubernetes.png"></img></a>
 <br><br>
 
 * Version Control Concepts and Git Basics, Local and Remote Repositories, Branching and Merging Strategies, Pull Requests and Code Reviews, Resolving Merge Conflicts, Advanced Git Commands, Git Hooks and Automation, Git Workflow Best Practices, Linux File System Navigation, Shell Commands and Utilities, Bash Scripting Fundamentals, Process and Permission Management, Networking and System Logs, Package Management and Updates
@@ -1099,9 +1099,9 @@ Udemy Courses
 <td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-computing.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/cloud-database.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/aws.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/gcp.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/azure.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/aws.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/gcp.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tools/azure.png"></img></a>
 <br><br>
 
 * Cloud Computing Fundamentals, AWS Global Infrastructure, EC2 and Virtual Servers, EBS and Instance Storage, S3 and Object Storage, IAM and Security Management, AWS Lambda and Serverless, RDS and Aurora, DynamoDB, API Gateway and Load Balancers, SageMaker for ML, Auto Scaling and ELB, CloudWatch Monitoring, Infrastructure as Code (CloudFormation), Cost Management and Optimization <br><br>
