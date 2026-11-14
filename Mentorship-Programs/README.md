@@ -387,9 +387,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="42%" align="left"><h3 align="left">Principles of Software Engineering and Object-Oriented Design</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -402,9 +402,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="42%" align="left"><h3 align="left">Developing Web Applications (Python, Golang, Java, C#, JavaScript, TypeScript)</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
+<td width="42%" align="left"><h3 align="left">Distributed Systems and Software Architecture Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -417,23 +417,8 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo5.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">...</h3></td>
-        </tr>
-    </tbody>
-</table>
-
-<details>
-<summary>2 Skills Details</summary>
-</details>
-
-<table>
-    <tbody>
-        <tr>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo7.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Git, Shell and Docker, Kubernetes Fundamentals</h3></td>
-<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo8.png"></img></a></td>
+<td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo6.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Cloud Computing AWS, GCP, or Azure Fundamentals</h3></td>
         </tr>
     </tbody>
