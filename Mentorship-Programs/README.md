@@ -389,7 +389,7 @@ Udemy Courses
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo1.png"></img></a></td>
 <td width="42%" align="left"><h3 align="left">Python/R Programming and Statistics/Probability Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo2.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Data Manipulation and Visualization Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
         </tr>
     </tbody>
 </table>
@@ -406,18 +406,18 @@ Udemy Courses
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/languages/python.png"></img></a>
 <br><br>
 
-* Introduction to Programming Concepts and Syntax, Data Types and Variable Management, Control Flow: If Statements, Loops, and Logical Operators, Functions, Modules, and Code Structuring, Working with File Systems: Read/Write Operations, Data Structures: Lists, Tuples, Dictionaries, Sets, Error Handling and Debugging Techniques, Data Analysis Libraries: pandas, numpy (or dplyr, tidyr), Regular Expressions for Text Processing, API Integration and JSON Handling, Environment Setup and Dependency Management, Jupyter Notebook / RStudio for Interactive Analysis, Best Practices in Code Style and Documentation
-* Overview of Descriptive and Inferential Statistics, Measures of Central Tendency: Mean, Median, Mode, Measures of Dispersion: Variance, Standard Deviation, Range, Probability Basics and Probability Distributions, Hypothesis Testing: Concepts and Applications, Confidence Intervals and Margin of Error, Correlation and Covariance Analysis, P-values, Statistical Significance, and Errors, Introduction to Bayesian Statistics, Sampling Techniques and Bias Considerations, Central Limit Theorem and Law of Large Numbers, Statistical Power, Effect Size, and Sample Size Calculations
+* Introduction to Programming Concepts and Syntax, Data Types and Variable Management, Control Flow: If Statements, Loops, and Logical Operators, Functions, Modules, and Code Structuring, Working with File Systems: Read/Write Operations, Data Structures: Lists, Tuples, Dictionaries, Sets, Error Handling and Debugging Techniques, Data Analysis Libraries: pandas, numpy (or dplyr, tidyr), Regular Expressions for Text Processing, API Integration and JSON Handling, Environment Setup and Dependency Management, Jupyter Notebook / RStudio for Interactive Analysis, Best Practices in Code Style and Documentation <br>
+* Overview of Descriptive and Inferential Statistics, Measures of Central Tendency: Mean, Median, Mode, Measures of Dispersion: Variance, Standard Deviation, Range, Probability Basics and Probability Distributions, Hypothesis Testing: Concepts and Applications, Confidence Intervals and Margin of Error, Correlation and Covariance Analysis, P-values, Statistical Significance, and Errors, Introduction to Bayesian Statistics, Sampling Techniques and Bias Considerations, Central Limit Theorem and Law of Large Numbers, Statistical Power, Effect Size, and Sample Size Calculations <br><br>
 </td>
 <td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/matplotlib.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pandas.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-storage.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nosql.png"></img></a>
 <br><br>
 
-* Data Cleaning and Handling Missing Values, Data Type Conversion and Type Inference, Merging, Joining, and Concatenating Datasets, Grouping, Aggregating, and Summarizing Data, String Operations and Text Data Handling, Date and Time Parsing, Extraction, and Formatting, Data Reshaping: Pivoting and Melting, Outlier Detection and Treatment Strategies, Feature Encoding Techniques (Label, One-Hot), Data Normalization and Scaling, Removing Duplicates and Ensuring Data Integrity, Automating Data Preparation Workflows <br><br>
-* Principles of Effective Data Visualization, Creating Line, Bar, and Scatter Plots, Histograms, Boxplots, and Distribution Analysis, Heatmaps and Correlation Matrix Visualizations, Geospatial Mapping and Choropleths, Multi-variable and Subplot Visualizations, Advanced Plot Customization (Colors, Labels, Styles), Interactive Visualization Tools and Techniques, Dashboard Layout Principles and Visual Balance, Visualizing Time Series and Trends, Animating Visualizations for Presentation, Storytelling with Data and Visual Narratives <br><br>
+* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
+* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
 </td>
         </tr>
         <tr>
@@ -446,16 +446,13 @@ Udemy Courses
 
 * 4 <a href="/Data-Science-Case-Studies/level-1.md">Data Science Case Studies</a> (Kaggle Case Studies, DataCamp Case Studies) 20+ Insights per Case Study
 
-<a href="/eLearning-Platform-Resources/freecodecamp-courses.md"><img align="right" width="40" src="/logos/websites/freecodecamp.png"></img></a>
-<a href="/eLearning-Platform-Resources/coursera-specializations.md"><img align="right" width="40" src="/logos/websites/coursera.png"></img></a>
-<a href="/eLearning-Platform-Resources/datacamp-tracks.md"><img align="right" width="40" src="/logos/websites/datacamp.png"></img></a>
-<br><br>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/data-analysis-reports.png"></img></a>
+<a href="/Data-Science-Educational-Projects/README.md"><img align="right" width="40" src="/Data-Science-Educational-Projects/logos/business-intelligence-reports.png"><br><br>
 
 * YouTube Courses,
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
-Udemy Courses
 Udemy Courses
 </td>
         </tr>
@@ -467,9 +464,9 @@ Udemy Courses
     <tbody>
         <tr>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo3.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
+<td width="42%" align="left"><h3 align="left">Data Manipulation and Visualization Fundamentals</h3></td>
 <td width="8%"><a href="/Mentorship-Programs/README.md"><img src="/logos/icons/logo4.png"></img></a></td>
-<td width="42%" align="left"><h3 align="left">SQL/NoSQL Databases and Database Design Fundamentals</h3></td>
+<td width="42%" align="left"><h3 align="left">Feature Engineering/Selection and Outlier/Imbalanced Data Handling</h3></td>
         </tr>
     </tbody>
 </table>
@@ -480,22 +477,24 @@ Udemy Courses
     <tbody>
         <tr>
 <td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/seaborn.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/matplotlib.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/pandas.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/numpy.png"></img></a>
+<br><br>
+
+* Data Cleaning and Handling Missing Values, Data Type Conversion and Type Inference, Merging, Joining, and Concatenating Datasets, Grouping, Aggregating, and Summarizing Data, String Operations and Text Data Handling, Date and Time Parsing, Extraction, and Formatting, Data Reshaping: Pivoting and Melting, Outlier Detection and Treatment Strategies, Feature Encoding Techniques (Label, One-Hot), Data Normalization and Scaling, Removing Duplicates and Ensuring Data Integrity, Automating Data Preparation Workflows <br><br>
+* Principles of Effective Data Visualization, Creating Line, Bar, and Scatter Plots, Histograms, Boxplots, and Distribution Analysis, Heatmaps and Correlation Matrix Visualizations, Geospatial Mapping and Choropleths, Multi-variable and Subplot Visualizations, Advanced Plot Customization (Colors, Labels, Styles), Interactive Visualization Tools and Techniques, Dashboard Layout Principles and Visual Balance, Visualizing Time Series and Trends, Animating Visualizations for Presentation, Storytelling with Data and Visual Narratives <br><br><br>
+</td>
+<td colspan="2" width="50%" align="left">
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analytics.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-analysis.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scipy.png"></img></a>
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/scikit-learn.png"></img></a>
 <br><br>
 
 * Introduction to Feature Engineering Concepts, Handling Categorical Features (Encoding Techniques), Creating Interaction and Polynomial Features, Binning, Bucketing, and Discretizing Numerical Features, Date-Time Feature Extraction (Day, Weekday, Month, etc.), Handling Missing Values in Features, Detecting and Handling Multicollinearity, Using Feature Importance Scores from Models, Recursive Feature Elimination (RFE) Techniques, Regularization Methods (LASSO, Ridge) for Feature Selection, Dimensionality Reduction with PCA, Automated Feature Engineering Tools and Libraries <br><br>
 * Introduction to Anomalies and Outliers, Outlier Detection using IQR and Z-score Methods, Isolation Forest and DBSCAN for Anomaly Detection, Outlier Treatment: Capping, Flooring, and Removal, Overview of Class Imbalance Challenges, Oversampling and Undersampling Techniques, Synthetic Minority Oversampling (SMOTE), Cost-sensitive Learning Approaches, Adjusting Decision Thresholds, Using ROC-AUC and Precision-Recall Metrics for Evaluation, Generating Synthetic Data for Minority Classes, Ensemble Techniques for Imbalanced Data <br><br>
-</td>
-<td colspan="2" width="50%" align="left">
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/database-systems.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/sql.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/nosql.png"></img></a>
-<br><br>
-
-* Databases Concepts: Relational vs NoSQL, SQL Basics: SELECT, INSERT, UPDATE, DELETE, Filtering, Ordering, Grouping, and Aggregation, Joins: Inner, Outer, Cross, Self, Subqueries and Common Table Expressions (CTE), SQL Views, Indexes, and Stored Procedures, Transaction Management (ACID Properties), NoSQL Data Models: Key-Value, Document, Column, Graph, MongoDB (Document Databases), Cassandra / DynamoDB (Column Stores), Redis (Key-Value Databases), Data Replication, Sharding, and Scaling in NoSQL, CAP Theorem and Trade-offs in Database Systems, Query Optimization and Performance Tuning
-* Database Design Concepts, Requirements Analysis and Data Collection, Conceptual Design and Entity–Relationship (ER) Modeling, Entities, Attributes, and Relationships, Primary Keys, Foreign Keys, and Constraints, Mapping ER Models to Relational Schemas, Functional Dependencies in Database Design, Normalization: (1NF, 2NF, 3NF, BCNF), Denormalization: When and Why, Advanced Schema Design (Surrogate Keys, Composite Keys), Referential Integrity and Cascading Actions, Indexing Strategies and Their Impact on Design, Designing Databases for OLTP vs OLAP, Dimensional Modeling (Star & Snowflake Schemas)
 </td>
         </tr>
         <tr>
@@ -520,6 +519,7 @@ Udemy Courses
 <a href="/eLearning-Platform-Resources/freecodecamp-courses.md">freeCodeCamp</a> Courses,
 <a href="/eLearning-Platform-Resources/coursera-specializations.md">Coursera</a> Courses,
 <a href="/eLearning-Platform-Resources/datacamp-tracks.md">DataCamp</a> Courses,
+Udemy Courses
 Udemy Courses
 </td>
 <td colspan="2" width="50%" align="left">
@@ -576,9 +576,9 @@ Udemy Courses
 * Excel Interface, Workbooks, and Worksheets, Cell Referencing, Named Ranges, and Formatting, Core Functions and Formulas, Logical, Lookup, and Text Functions, Data Cleaning and Transformation, Sorting, Filtering, and Advanced Filters, Pivot Tables and Pivot Charts, Excel Charts and Data Visualization, What-If Analysis and Scenario Manager, Data Analysis ToolPak and Statistical Functions, Power Query and Power Pivot Basics, Excel Automation with Macros (VBA Introduction) <br><br>
 </td>
 <td colspan="2" width="50%" align="left">
+<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/business-intelligence.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/powerbi.png"></img></a>
 <a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/tableau.png"></img></a>
-<a href="/Mentorship-Programs/README.md"><img align="right" width="40" src="/logos/data-visualization.png"></img></a>
 <br><br>
 
 * Introduction to PowerBI Interface and Workflow, Connecting and Importing Data Sources, Data Cleaning and Transformation with Power Query, Data Modeling and Relationships, DAX Basics: Measures and Calculated Columns, Creating Basic and Custom Visualizations, Building Interactive Filters and Slicers, Drill-down, Drill-through, and Tooltip Customization, Bookmarks and Page Navigation, KPI Cards, Gauges, and Indicators, PowerBI Service: Dashboard Sharing and Publishing, Performance Optimization and Query Diagnostics <br>
